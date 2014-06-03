@@ -1,0 +1,116 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 450
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 1
+	Date: 2014-05-02 ; Times: 1
+	Date: 2014-05-06 ; Times: 3
+	Date: 2014-05-07 ; Times: 5
+	Date: 2014-05-08 ; Times: 1
+	Date: 2014-05-09 ; Times: 1
+	Date: 2014-05-11 ; Times: 4
+	Date: 2014-05-12 ; Times: 2
+	Date: 2014-05-14 ; Times: 4
+	Date: 2014-05-15 ; Times: 4
+	Date: 2014-05-16 ; Times: 1
+	Date: 2014-05-19 ; Times: 2
+	Date: 2014-05-21 ; Times: 3
+	Date: 2014-05-22 ; Times: 3
+	Date: 2014-05-23 ; Times: 10
+	Date: 2014-05-28 ; Times: 1
+	Date: 2014-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Catharus minimus tissue:1" ; Times: 1
+	Query: ""Bubo bubo" specificepithet:bubo genus:Bubo tissue:1" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" class:Aves" ; Times: 1
+	Query: "stateprovince:"Colon" country:"Panama" class:Aves" ; Times: 1
+	Query: ""stomach content" class:Aves" ; Times: 1
+	Query: "empidonax flaviventris tissue:1" ; Times: 2
+	Query: "stateprovince:"Darien" country:"Panama" class:Aves" ; Times: 1
+	Query: "stateprovince:"Chiriqui" country:"Panama" class:Aves" ; Times: 1
+	Query: "coeligena coeligena mappable:1 tissue:1" ; Times: 1
+	Query: "4128" ; Times: 1
+	Query: "Rhinoplax vigil" ; Times: 4
+	Query: "Aphelocoma New Mexico type:specimen (tissue) year >= 1980 tissue:1" ; Times: 1
+	Query: "chornobyl" ; Times: 1
+	Query: "specificepithet:bubo genus:Bubo tissue:1" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" class:Aves" ; Times: 1
+	Query: "unam" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "bucconidae" ; Times: 1
+	Query: "habia rubica" ; Times: 3
+	Query: "trogonidae tissue:1" ; Times: 1
+	Query: "kenaiensis" ; Times: 1
+	Query: "Piranga roseogularis" ; Times: 2
+	Query: "penelope" ; Times: 2
+	Query: "Bubo bubo specificepithet:bubo genus:Bubo tissue:1" ; Times: 1
+	Query: "bucconidae tissue:1" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "parus hudsonicus tissue:1" ; Times: 2
+	Query: "piranga roseogularis type:specimen (male)" ; Times: 1
+	Query: "galbulidae tissue:1" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Aves" ; Times: 1
+	Query: "sula dactylatra" ; Times: 3
+	Query: ""Streptopelia decaocto" (tissue OR preserved)" ; Times: 1
+	Query: "coeligena coeligena" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1679 download events in this period)
+Total number of records downloaded: 27 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 27
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 3
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bucconidae tissue:1" ; Times: 1
+	Query: ""Athene cunicularia"" ; Times: 1
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: ""Campylorhynchus brunneicapillus"" ; Times: 1
+	Query: "ursus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 91
+Total number of records retrieved from searches: 995
+Number of download events that retrieved data from the resource: 43
+Total number of records downloaded: 2849
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 91
+Total number of records retrieved from searches: 995
+Number of download events that retrieved data from the resource: 60
+Total number of records downloaded: 3111
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
