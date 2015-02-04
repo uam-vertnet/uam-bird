@@ -1,0 +1,234 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 1399
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Netherlands ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: U.S. Virgin Islands ; Times: 1
+	Country: United States ; Times: 109
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-04 ; Times: 1
+	Date: 2015-01-05 ; Times: 11
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-07 ; Times: 3
+	Date: 2015-01-08 ; Times: 5
+	Date: 2015-01-09 ; Times: 7
+	Date: 2015-01-11 ; Times: 8
+	Date: 2015-01-12 ; Times: 4
+	Date: 2015-01-13 ; Times: 13
+	Date: 2015-01-14 ; Times: 13
+	Date: 2015-01-15 ; Times: 19
+	Date: 2015-01-16 ; Times: 3
+	Date: 2015-01-17 ; Times: 10
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-21 ; Times: 6
+	Date: 2015-01-22 ; Times: 4
+	Date: 2015-01-23 ; Times: 14
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-26 ; Times: 4
+	Date: 2015-01-28 ; Times: 6
+	Date: 2015-01-29 ; Times: 12
+	Date: 2015-01-30 ; Times: 5
+	Date: 2015-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Thamnophilus doliatus" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:hanna" ; Times: 2
+	Query: "catalognumber:1 institutioncode:UAM" ; Times: 1
+	Query: "Aramides cajanea" ; Times: 2
+	Query: "genus:corvus AND (NOT corax NOT brachyrhynchos NOT corone NOT macrorhynchos NOT caurinus NOT cryptoleucus NOT ossifragus) year >= 1950 year <= 2014 tissue:1" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "coccyzus minor" ; Times: 1
+	Query: "11342 class:aves tissue:1" ; Times: 1
+	Query: "oryzoborus tissue:1" ; Times: 1
+	Query: "genus:Strix tissue:1" ; Times: 2
+	Query: "tinamidae (tissue)" ; Times: 1
+	Query: "genus:corvus AND (NOT corax NOT brachyrhynchos NOT corone NOT macrorhynchos) year >= 1950 year <= 2014 tissue:1" ; Times: 2
+	Query: "grinnell alaska year >= 1935 year <= 1959" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "class:aves catalognumber:22575" ; Times: 2
+	Query: "Myiobius sulphureipygius" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:hanna g" ; Times: 1
+	Query: "Aramides axillaris tissue:1" ; Times: 2
+	Query: "Thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "genus:Strix AND (United States) tissue:1" ; Times: 3
+	Query: "stateprovince:"alaska" class:aves recordedby:hanna institutioncode:uam AND (NOT wales)" ; Times: 1
+	Query: "Piaya cayana tissue:1" ; Times: 2
+	Query: "jacana" ; Times: 3
+	Query: "Falco cherrug" ; Times: 1
+	Query: "11034 class:aves tissue:1" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hanna institutioncode:uam AND (NOT wales) year >= 1900 year <= 1988" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "pyrrhula" ; Times: 1
+	Query: "jacana tissue:1" ; Times: 2
+	Query: "stateprovince:"Alaska" genus:Emberiza" ; Times: 4
+	Query: "ardea alba tissue:1" ; Times: 1
+	Query: "Anser albifrons tissue:1" ; Times: 1
+	Query: "genus:veniliornis" ; Times: 2
+	Query: "Chen canagica" ; Times: 9
+	Query: "egretta intermedia tissue:1" ; Times: 1
+	Query: "bombus" ; Times: 1
+	Query: "Xiphorhynchus flavigaster year >= 1980 year <= 2014 tissue:1" ; Times: 2
+	Query: ""uam/uam-bird-collection-arctos"" ; Times: 1
+	Query: "jacana jacana tissue:1" ; Times: 2
+	Query: ""no data"" ; Times: 1
+	Query: "Cyanocorax yncas longirostris" ; Times: 1
+	Query: "specificepithet:nebulosa genus:Strix tissue:1" ; Times: 1
+	Query: "Xiphorhynchus flavigaster" ; Times: 5
+	Query: "sturnella militaris" ; Times: 1
+	Query: "virgata tissue:1" ; Times: 1
+	Query: "conopophaga peruviana" ; Times: 1
+	Query: "florisuga" ; Times: 1
+	Query: "Pteroglossus torquatus" ; Times: 3
+	Query: "casmerodius tissue:1" ; Times: 1
+	Query: "Pteroglossus Torquatus torquatus" ; Times: 1
+	Query: "struthio (tissue) tissue:1" ; Times: 1
+	Query: "Dendragapus tissue:1" ; Times: 4
+	Query: "jacana jacana" ; Times: 1
+	Query: "grinnell alaska bird year >= 1935 year <= 1959" ; Times: 1
+	Query: "Anas clypeata institutioncode:UAM" ; Times: 2
+	Query: "columbina buckleyi" ; Times: 3
+	Query: "genus:Strix AND (NOT "United States" NOT USA) tissue:1" ; Times: 1
+	Query: "Pteroglossus torquatus torquatus" ; Times: 1
+	Query: "Nyctidromus albicollis tissue:1" ; Times: 1
+	Query: "arctic tern" ; Times: 2
+	Query: "bird alaska hanna" ; Times: 2
+	Query: "genus:Strix AND (NOT "United States" NOT "USA") tissue:1" ; Times: 1
+	Query: "bird fossil" ; Times: 1
+	Query: "Sittasomus griseicapillus tissue:1" ; Times: 1
+	Query: "Conopophagidae" ; Times: 1
+	Query: "xenops tenuirostris" ; Times: 1
+	Query: "2947 institutioncode:UAM" ; Times: 1
+	Query: "Chlorospingus" ; Times: 1
+	Query: "genus:corvus AND (NOT corax NOT brachyrhynchos NOT corone NOT macrorhynchos NOT caurinus NOT cryptoleucus NOT ossifragus NOT sinaloe NOT splendens NOT frugilagus) year >= 1950 year <= 2014 tissue:1" ; Times: 1
+	Query: "florisuga type:specimen tissue:1" ; Times: 1
+	Query: "chamela year >= 1990 year <= 2015" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hanna year >= 1938 year <= 1988" ; Times: 1
+	Query: "mink" ; Times: 2
+	Query: "genus:corvus AND (NOT corax NOT brachyrhynchos NOT corone NOT macrorhynchos NOT caurinus NOT cryptoleucus NOT ossifragus NOT sinaloae NOT splendens NOT frugilegus) year >= 1950 year <= 2014 tissue:1" ; Times: 1
+	Query: "squid" ; Times: 1
+	Query: "chamela year >= 2000 year <= 2015" ; Times: 1
+	Query: "6725 class:aves tissue:1" ; Times: 1
+	Query: "stateprovince:"Alaska" class:Aves year >= 1949 year <= 1949" ; Times: 1
+	Query: ""Falco sparverius" stateprovince:"Oregon"" ; Times: 1
+	Query: "pygoscelis" ; Times: 2
+	Query: "Chaetura vauxi (tissue)" ; Times: 2
+	Query: "Leptotila verreauxi tissue:1" ; Times: 1
+	Query: "genus:Strix AND (NOT United NOT States) tissue:1" ; Times: 1
+	Query: "egretta garzetta tissue:1" ; Times: 1
+	Query: ""piranga olivacea" type:specimen year >= 1919 year <= 1950" ; Times: 1
+	Query: "Passeriformes stateprovince:"Alaska" genus:Oenanthe class:Aves" ; Times: 1
+	Query: "Catharus minimus" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:hanna" ; Times: 2
+	Query: "genus:veniliornis tissue:1" ; Times: 2
+	Query: "alaska bird brevipes" ; Times: 1
+	Query: "genus:Strix AND (NOT United NOT States NOT usa) tissue:1" ; Times: 1
+	Query: "genus:Strix AND (NOT "United States") tissue:1" ; Times: 2
+	Query: "Myiobius sulphureipygius tissue:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves catalognumber:5611 institutioncode:uam" ; Times: 1
+	Query: "sturnella militaris tissue" ; Times: 1
+	Query: "myrmeciza atrothorax tissue:1" ; Times: 1
+	Query: "UA" ; Times: 1
+	Query: "Tachyeres (tissue) tissue:1" ; Times: 1
+	Query: "genus:corvus AND (NOT corax NOT brachyrhynchos NOT corone NOT macrorhynchos NOT caurinus NOT cryptoleucus) year >= 1950 year <= 2014 tissue:1" ; Times: 1
+	Query: "Paradisaea tissue:1" ; Times: 1
+	Query: "bison bone" ; Times: 1
+	Query: "stateprovince:"alaska" genus:Upupa class:aves" ; Times: 1
+	Query: "diptera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 445 download events in this period)
+Total number of records downloaded: 3338 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3276
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-07 ; Times: 1
+	Date: 2015-01-08 ; Times: 5
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-11 ; Times: 1
+	Date: 2015-01-12 ; Times: 4
+	Date: 2015-01-14 ; Times: 6
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-18 ; Times: 1
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-29 ; Times: 1
+	Date: 2015-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Furnariidae" ; Times: 1
+	Query: "family:Thraupidae type:specimen mappable:1" ; Times: 1
+	Query: "family:Cardinalidae type:specimen mappable:1" ; Times: 1
+	Query: "Thamnophilidae" ; Times: 1
+	Query: "Clethrionomys rutilus" ; Times: 1
+	Query: "family:Emberizidae type:specimen mappable:1" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "Tachyeres (tissue) tissue:1" ; Times: 1
+	Query: "Pipridae" ; Times: 1
+	Query: "Formicariidae" ; Times: 1
+	Query: "calyptomena viridis" ; Times: 1
+	Query: "type:specimen stateprovince:"virginia" class:aves" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 2
+	Query: "chamela" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:aves" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Aves" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: ""passer domesticus" type:specimen" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: ""Microtus pennsylvanicus"" ; Times: 2
+	Query: "Conopophagidae" ; Times: 1
+	Query: "psittacidae country:"Mexico"" ; Times: 1
+	Query: "family:Calcariidae type:specimen mappable:1" ; Times: 1
+	Query: "Pycnonotidae" ; Times: 1
+	Query: "Cotingidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 490
+Total number of records retrieved from searches: 5970
+Number of download events that retrieved data from the resource: 28
+Total number of records downloaded: 3338
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 642
+Total number of records retrieved from searches: 7369
+Number of download events that retrieved data from the resource: 170
+Total number of records downloaded: 13373
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
