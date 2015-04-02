@@ -1,0 +1,173 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 504
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 3
+	Country: Germany ; Times: 10
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 44
+	Country: Unknown ; Times: 4
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 5
+	Date: 2015-03-04 ; Times: 4
+	Date: 2015-03-05 ; Times: 12
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-07 ; Times: 6
+	Date: 2015-03-08 ; Times: 2
+	Date: 2015-03-09 ; Times: 5
+	Date: 2015-03-10 ; Times: 3
+	Date: 2015-03-12 ; Times: 3
+	Date: 2015-03-13 ; Times: 6
+	Date: 2015-03-15 ; Times: 3
+	Date: 2015-03-16 ; Times: 5
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-21 ; Times: 1
+	Date: 2015-03-22 ; Times: 3
+	Date: 2015-03-23 ; Times: 3
+	Date: 2015-03-24 ; Times: 2
+	Date: 2015-03-25 ; Times: 3
+	Date: 2015-03-28 ; Times: 3
+	Date: 2015-03-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Pyrrhocorax tissue:1" ; Times: 2
+	Query: "Synthliboramphus" ; Times: 1
+	Query: "Fulica tissue:1" ; Times: 1
+	Query: "Lanius excubitor tissue:1" ; Times: 1
+	Query: "motacilla tissue:1" ; Times: 1
+	Query: "Hylophylax poecilonota" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "pipra pipra" ; Times: 2
+	Query: "pipra" ; Times: 1
+	Query: "Conopophaga peruviana" ; Times: 1
+	Query: "Psittacula weight" ; Times: 6
+	Query: "geothlypis poliocephala" ; Times: 2
+	Query: "amazonetta brasiliensis" ; Times: 2
+	Query: "Lesbia" ; Times: 1
+	Query: "veniliornis" ; Times: 1
+	Query: "athene cunicularia tissue" ; Times: 1
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "Phylloscopus trochilus" ; Times: 1
+	Query: "pipra pipra country:"peru" tissue:1" ; Times: 1
+	Query: "Charadrius melodus type:specimen tissue:1" ; Times: 2
+	Query: "stateprovince:"alaska" specificepithet:acuminata class:aves" ; Times: 2
+	Query: "whales" ; Times: 1
+	Query: "Callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "genus:Fregata tissue:1" ; Times: 2
+	Query: "aquila United States (United States) tissue:1" ; Times: 1
+	Query: "coleoptera" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "Hylophylax poecilinotus" ; Times: 2
+	Query: "aquila tissue:1" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "specificepithet:sanblasianus genus:cyanocorax tissue:1" ; Times: 2
+	Query: "country:"Canada" specificepithet:fuscescens genus:Catharus tissue:1" ; Times: 1
+	Query: "passerina leclancherii" ; Times: 1
+	Query: "thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "Toxostoma longirostre tissue:1" ; Times: 1
+	Query: "corvus corone" ; Times: 1
+	Query: "Lanius excubitor (tissue)" ; Times: 1
+	Query: "cyanocompsa cyanoides" ; Times: 1
+	Query: "Perisoreus tissue:1" ; Times: 1
+	Query: "Myrmeciza hemimelaena" ; Times: 1
+	Query: "athene cunicularia tissue:1" ; Times: 1
+	Query: "Xenops tenuirostris" ; Times: 1
+	Query: "Rhegmatorhina melanosticta" ; Times: 1
+	Query: "hypocnemoides" ; Times: 2
+	Query: "Tarsiger cyanurus" ; Times: 1
+	Query: "type:specimen specificepithet:moluccensis genus:pitta" ; Times: 1
+	Query: "Anthus spinoletta tissue:1" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "Tangara nigroviridis type:specimen (tissue)" ; Times: 1
+	Query: ""Ficedula narcissina"" ; Times: 2
+	Query: "Agapornis weight" ; Times: 3
+	Query: "country:"Canada" specificepithet:guttatus genus:Catharus tissue:1" ; Times: 1
+	Query: "machaeropterus" ; Times: 1
+	Query: "anthus spinoletta year >= 2000 tissue:1" ; Times: 1
+	Query: "cypseloides niger" ; Times: 2
+	Query: "Trogon melanocephalus" ; Times: 1
+	Query: "conopophaga" ; Times: 1
+	Query: "amaurolimnas concolor" ; Times: 2
+	Query: "specificepithet:yncas genus:cyanocorax tissue:1" ; Times: 1
+	Query: "cyanocorax yncas tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 298 download events in this period)
+Total number of records downloaded: 1167 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 746
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 2
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-22 ; Times: 3
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 3
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 698
+Total number of records retrieved from searches: 7697
+Number of download events that retrieved data from the resource: 63
+Total number of records downloaded: 6159
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 850
+Total number of records retrieved from searches: 9096
+Number of download events that retrieved data from the resource: 205
+Total number of records downloaded: 16194
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
