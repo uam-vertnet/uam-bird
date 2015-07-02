@@ -1,0 +1,308 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 2032
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 7
+	Country: Costa Rica ; Times: 2
+	Country: Denmark ; Times: 12
+	Country: France ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Italy ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Peru ; Times: 6
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 170
+	Country: Unknown ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 23
+	Date: 2015-06-02 ; Times: 7
+	Date: 2015-06-03 ; Times: 3
+	Date: 2015-06-04 ; Times: 11
+	Date: 2015-06-05 ; Times: 5
+	Date: 2015-06-06 ; Times: 5
+	Date: 2015-06-07 ; Times: 3
+	Date: 2015-06-08 ; Times: 19
+	Date: 2015-06-09 ; Times: 11
+	Date: 2015-06-10 ; Times: 7
+	Date: 2015-06-11 ; Times: 26
+	Date: 2015-06-12 ; Times: 4
+	Date: 2015-06-15 ; Times: 10
+	Date: 2015-06-16 ; Times: 12
+	Date: 2015-06-17 ; Times: 8
+	Date: 2015-06-19 ; Times: 16
+	Date: 2015-06-20 ; Times: 5
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-23 ; Times: 2
+	Date: 2015-06-24 ; Times: 7
+	Date: 2015-06-25 ; Times: 9
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-27 ; Times: 1
+	Date: 2015-06-28 ; Times: 3
+	Date: 2015-06-29 ; Times: 27
+	Date: 2015-06-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "LSUMZ" ; Times: 2
+	Query: "catalognumber:35012" ; Times: 3
+	Query: "LSUMZ Bird" ; Times: 1
+	Query: "catalognumber:35017" ; Times: 1
+	Query: "type:specimen stateprovince:"Arkansas" class:Aves year >= 1985 year <= 2015 tissue:1" ; Times: 1
+	Query: "country:"canada" specificepithet:melodia genus:melospiza tissue:1" ; Times: 1
+	Query: "aves Georgia United States Parula americana" ; Times: 1
+	Query: "stateprovince:"Alaska" country:"United States" year >= 1500 year <= 2015 hastypestatus:1 distance(location,geopoint(51.147446544106955,-175.52135467529297))<534677.0749926821" ; Times: 1
+	Query: "specificepithet:penelope genus:anas year <= 2015" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "lsumz" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves catalognumber:5276" ; Times: 1
+	Query: "Columbina passerina tissue:1" ; Times: 1
+	Query: "riparia stateprovince:"alaska" class:aves" ; Times: 1
+	Query: "berlepschi" ; Times: 1
+	Query: "Zenaida graysoni" ; Times: 6
+	Query: "callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "manacus manacus tissue:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves catalognumber:6585 institutioncode:uam" ; Times: 1
+	Query: "country:"Bolivia" class:aves year >= 1960 year <= 2015" ; Times: 2
+	Query: ""antiquus" distance(location,geopoint(53.4357192066942,-164.70703125))<220869" ; Times: 1
+	Query: "rupicola" ; Times: 1
+	Query: "Whale skeleton" ; Times: 3
+	Query: "Thalurania colombica" ; Times: 1
+	Query: "stateprovince:"Alaska" country:"United States" class:Aves year >= 1500 year <= 2015 hastypestatus:1 distance(location,geopoint(51.147446544106955,-175.52135467529297))<534677.0749926821" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 2
+	Query: "Catharus ustulatus phillipsi" ; Times: 1
+	Query: "specificepithet:flavigularis genus:Chlorospingus" ; Times: 1
+	Query: "distance(location,geopoint(52.4158226123788,-169.47509765625))<100000" ; Times: 1
+	Query: "aythya fuligula" ; Times: 1
+	Query: "distance(location,geopoint(51.890053935216926,-170.70556640625))<51798" ; Times: 1
+	Query: "distance(location,geopoint(51.890053935216926,-170.70556640625))<100000" ; Times: 1
+	Query: ""pipra mentalis" (tissue) tissue:1" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:hirundo genus:sterna" ; Times: 2
+	Query: "cygnus" ; Times: 2
+	Query: "Psittacidae Psittacula weight" ; Times: 2
+	Query: "numida year >= 1990 year <= 2015" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Arremon" ; Times: 2
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: ""melospiza melodia" tissue:1" ; Times: 1
+	Query: "Botaurus tissue:1" ; Times: 4
+	Query: "aves Georgia United States Icteria virens" ; Times: 1
+	Query: "numida" ; Times: 1
+	Query: "30684" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Trogon citreolus" ; Times: 2
+	Query: "UAM 24997 pipra" ; Times: 1
+	Query: "catalognumber:11540 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "dendrocincla anabatina" ; Times: 1
+	Query: "specificepithet:flavigularis genus:Chlorospingus (tissue)" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "stateprovince:"Alaska" specificepithet:fusca genus:Melanitta year >= 1955 year <= 1960" ; Times: 1
+	Query: "family:nectariniidae AND skeleton type:specimen (meliphagidae OR nectariniidae)" ; Times: 1
+	Query: "body mass" ; Times: 2
+	Query: "CARDUELIS MAGELLANICA mappable:1 tissue:1" ; Times: 1
+	Query: "genus:Onychorhynchus tissue:1" ; Times: 1
+	Query: "stateprovince:"Alaska" genus:Passerella year >= 1955 year <= 1960" ; Times: 1
+	Query: "anas formosa" ; Times: 2
+	Query: "trogon citreolus" ; Times: 4
+	Query: "Chalybura buffonii" ; Times: 1
+	Query: "3778 class:aves" ; Times: 2
+	Query: "04/11/1886" ; Times: 1
+	Query: ""antiquus" distance(location,geopoint(52.61639023304541,-168.57421875))<220869.09172528036" ; Times: 2
+	Query: "Manacus manacus" ; Times: 2
+	Query: "ficedula albicilla" ; Times: 2
+	Query: "ortalis year >= 1985 year <= 2015" ; Times: 1
+	Query: "5675" ; Times: 1
+	Query: "family:nectariniidae AND skeleton type:specimen" ; Times: 1
+	Query: "Columbina tissue:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves catalognumber:5005 institutioncode:uam" ; Times: 1
+	Query: ""alcidae" distance(location,geopoint(52.4158226123788,-169.47509765625))<100000" ; Times: 1
+	Query: "aquila heliaca" ; Times: 2
+	Query: "sicily" ; Times: 1
+	Query: ""myrmeciza atrothorax" tissue:1" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "coccyzus americanus type:specimen" ; Times: 1
+	Query: "7348 tissue:1" ; Times: 2
+	Query: "acrocephalus dumetorum" ; Times: 12
+	Query: "numida meleagris" ; Times: 1
+	Query: "zonotrichia leucophrys leucophrys type:specimen tissue:1" ; Times: 4
+	Query: "florisuga" ; Times: 1
+	Query: "Onychorhynchus mexicanus" ; Times: 2
+	Query: "Plegadis ridgwayi" ; Times: 6
+	Query: "bears" ; Times: 1
+	Query: "Geopelia cuneata tissue:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves catalognumber:2237" ; Times: 1
+	Query: "Coeligena violifer" ; Times: 1
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<51797.83796376453" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "ADAB class:aves" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 14
+	Query: "pipra mentalis" ; Times: 1
+	Query: "piaya type:specimen" ; Times: 1
+	Query: "amazilia candida" ; Times: 1
+	Query: ""urile"" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: ""Vermivora ruficapilla" OR "Oreothlypis ruficapilla" OR "Leiothlypis ruficapilla" tissue:1" ; Times: 1
+	Query: ""Anas discors" tissue:1" ; Times: 2
+	Query: "Wilsonia citrina Mexico" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 1
+	Query: "melanerpes chrysogenys tissue:1" ; Times: 1
+	Query: ""Lagopus mutus" tissue:1" ; Times: 4
+	Query: "pipra pipra occulta country:"peru"" ; Times: 1
+	Query: "24814" ; Times: 1
+	Query: "spinosa" ; Times: 2
+	Query: "Zonotrichia leucophrys leucophrys type:specimen tissue:1" ; Times: 1
+	Query: ""aves" distance(location,geopoint(52.4158226123788,-169.47509765625))<100000" ; Times: 1
+	Query: "institution code" ; Times: 1
+	Query: "distance(location,geopoint(52.46939684276205,-168.64013671875))<100000" ; Times: 1
+	Query: ""antiquus" distance(location,geopoint(53.4357192066942,-164.70703125))<220869.09172528036" ; Times: 1
+	Query: "catalognumber:14017 institutioncode:UAM" ; Times: 2
+	Query: "type:specimen stateprovince:"Arkansas" class:Aves year >= 1985 year <= 2015" ; Times: 3
+	Query: "bird stateprovince:"Alaska" country:"United States" (breeding colony) year >= 1900 year <= 2015 mappable:1 distance(location,geopoint(52.10225600975871,-173.49987030029297))<280153" ; Times: 1
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "Numida meleagris meleagris" ; Times: 1
+	Query: "veniliornis" ; Times: 1
+	Query: "Onychorhynchus" ; Times: 1
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<68974" ; Times: 1
+	Query: "stateprovince:"Alaska" genus:Passerella year >= 1958 year <= 1958" ; Times: 1
+	Query: "skeleton type:specimen (meliphagidae OR nectariniidae)" ; Times: 1
+	Query: "Campylopterus excellens" ; Times: 2
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Anas x tissue:1" ; Times: 1
+	Query: "platyrinchus mystaceus type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "florisuga mellivora" ; Times: 3
+	Query: "bmnh" ; Times: 2
+	Query: "distance(location,geopoint(50.84757295365389,-176.66015625))<100000" ; Times: 2
+	Query: "19720" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "colinus virginianus year >= 1990 year <= 2015" ; Times: 1
+	Query: "morinellus stateprovince:"alaska" class:aves" ; Times: 1
+	Query: "viburnum" ; Times: 1
+	Query: "pipra pipra country:"peru"" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 2
+	Query: "inornata tissue:1" ; Times: 1
+	Query: "canada "melospiza melodia" tissue:1" ; Times: 1
+	Query: "piaya piaya type:specimen" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga tissue:1" ; Times: 1
+	Query: ""Lagopus lagopus" tissue:1" ; Times: 4
+	Query: "specificepithet:buccinator genus:cygnus class:aves" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "stateprovince:"Alaska" specificepithet:townsendi genus:Myadestes year >= 1850 year <= 2015" ; Times: 1
+	Query: "tolmiei stateprovince:"alaska" class:aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 1524 download events in this period)
+Total number of records downloaded: 1924 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1371
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Denmark ; Times: 15
+	Country: France ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 2
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-08 ; Times: 4
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-15 ; Times: 3
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-25 ; Times: 6
+	Date: 2015-06-27 ; Times: 3
+	Date: 2015-06-29 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "family:nectariniidae AND skeleton type:specimen" ; Times: 1
+	Query: "LSUMZ" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "aves alamos sonora" ; Times: 1
+	Query: "amazilia candida" ; Times: 1
+	Query: "aegithalos caudatus" ; Times: 1
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Columbina passerina tissue:1" ; Times: 1
+	Query: "Coeligena violifer" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "country:"Bolivia" class:aves year >= 1960 year <= 2015" ; Times: 1
+	Query: "Campylopterus excellens" ; Times: 2
+	Query: "Zenaida graysoni" ; Times: 2
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 1
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "type:specimen AND (aves) distance(location,geopoint(42.73087427928485,-76.2451171875))<100000" ; Times: 1
+	Query: "genus:Onychorhynchus tissue:1" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "family:meliphagidae AND skeleton type:specimen" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Thalurania colombica" ; Times: 1
+	Query: "Onychorhynchus" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:aves tissue:1" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:hirundo genus:sterna" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1154
+Total number of records retrieved from searches: 13054
+Number of download events that retrieved data from the resource: 141
+Total number of records downloaded: 11537
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1306
+Total number of records retrieved from searches: 14453
+Number of download events that retrieved data from the resource: 283
+Total number of records downloaded: 21572
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
