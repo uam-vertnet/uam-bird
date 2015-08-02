@@ -1,0 +1,262 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 218
+Number of records retrieved in searches: 2819
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 42
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Hungary ; Times: 2
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 12
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 144
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 6
+	Date: 2015-07-02 ; Times: 9
+	Date: 2015-07-05 ; Times: 2
+	Date: 2015-07-06 ; Times: 5
+	Date: 2015-07-07 ; Times: 2
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 7
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-11 ; Times: 2
+	Date: 2015-07-12 ; Times: 4
+	Date: 2015-07-13 ; Times: 22
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-15 ; Times: 5
+	Date: 2015-07-16 ; Times: 20
+	Date: 2015-07-17 ; Times: 8
+	Date: 2015-07-21 ; Times: 2
+	Date: 2015-07-23 ; Times: 5
+	Date: 2015-07-24 ; Times: 7
+	Date: 2015-07-25 ; Times: 4
+	Date: 2015-07-26 ; Times: 6
+	Date: 2015-07-27 ; Times: 29
+	Date: 2015-07-28 ; Times: 10
+	Date: 2015-07-29 ; Times: 27
+	Date: 2015-07-30 ; Times: 18
+	Date: 2015-07-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "22774" ; Times: 1
+	Query: "class:Aves catalognumber:21777 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "Oryzoborus tissue:1" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<104719" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "paradisaea tissue:1" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNHM NOT CUMV)" ; Times: 1
+	Query: "specificepithet:caeruleus genus:elanus year >= 1970" ; Times: 3
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "specificepithet:noveboracensis genus:Seiurus tissue:1" ; Times: 1
+	Query: ""Bonasa umbellus" tissue:1" ; Times: 4
+	Query: "specificepithet:corax genus:corvus tissue:1 distance(location,geopoint(54.77534585936447,74.53125))<2484289" ; Times: 1
+	Query: "Picoides tridactylus tissue:1" ; Times: 1
+	Query: "Prunella montanella" ; Times: 1
+	Query: "Bocas del Toro" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "sterna dougallii" ; Times: 3
+	Query: "texensis weight" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 3
+	Query: "aves Georgia United States Field" ; Times: 1
+	Query: "specificepithet:corax genus:corvus tissue:1" ; Times: 1
+	Query: "Withrow class:Aves institutioncode:UAM" ; Times: 1
+	Query: "type:specimen genus:euphonia (tissue)" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:schaller" ; Times: 1
+	Query: "genus:Anisognathus tissue:1" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<96662.06742785237" ; Times: 1
+	Query: "Dryocopus tissue:1" ; Times: 3
+	Query: "5851" ; Times: 1
+	Query: "sporophila americana" ; Times: 31
+	Query: "Diglossa brunneiventris tissue:1" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<119084" ; Times: 1
+	Query: "cygnus buccinator" ; Times: 1
+	Query: "paradisaea year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "Picoides tissue:1" ; Times: 4
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<111719" ; Times: 1
+	Query: "Regulus satrapa tissue:1" ; Times: 1
+	Query: "Peggy Guitton class:Aves institutioncode:UAM" ; Times: 1
+	Query: ""sterna aleutica"" ; Times: 2
+	Query: "Picea glauca" ; Times: 1
+	Query: "Tachyeres leucocephalus type:specimen" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga year >= 1990 year <= 2015" ; Times: 1
+	Query: "colaptes auratus tissue:1" ; Times: 3
+	Query: "14299" ; Times: 4
+	Query: "Tympanuchus pallidicinctus type:specimen" ; Times: 1
+	Query: "Springer class:Aves institutioncode:UAM" ; Times: 1
+	Query: ""aethia"" ; Times: 1
+	Query: "Selasphorus rufus stateprovince:"Alaska" tissue:1" ; Times: 1
+	Query: "umbrinus weight" ; Times: 1
+	Query: "specificepithet:corax genus:corvus tissue:1 distance(location,geopoint(54.77534585936447,74.53125))<2814184" ; Times: 1
+	Query: "Brachyramphus egg" ; Times: 2
+	Query: "Winker class:Aves institutioncode:UAM" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<141013" ; Times: 1
+	Query: "Jack J Withrow stateprovince:"Alaska"" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:j. smith" ; Times: 1
+	Query: "skeleton asio flammeus" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "Sporophila americana" ; Times: 3
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<104718.90122498687" ; Times: 1
+	Query: "county:"Cherokee" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "S. p. americana" ; Times: 1
+	Query: "Daniel D Gibson class:Aves institutioncode:UAM" ; Times: 1
+	Query: "Cyanocompsa parellina" ; Times: 3
+	Query: "Kevin S Winker stateprovince:"Alaska" class:Aves" ; Times: 2
+	Query: ""Anser albifrons" stateprovince:"Alaska"" ; Times: 3
+	Query: "Myiarchus nuttingi type:specimen" ; Times: 1
+	Query: ""crypturellus cinnamomeus" tissue:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:smith" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<100000" ; Times: 1
+	Query: "Brachyramphus brevirostris" ; Times: 4
+	Query: "Sphyrapicus ruber tissue:1" ; Times: 1
+	Query: ""Falcipennis canadensis" country:"Canada" tissue:1" ; Times: 2
+	Query: "caprimulgus veracruz" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 8
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "Melanerpes chrysogenys tissue:1" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<100000" ; Times: 1
+	Query: "Momotus momota" ; Times: 1
+	Query: "Larus serranus" ; Times: 2
+	Query: "stateprovince:"Alaska" specificepithet:tridactylus genus:Picoides" ; Times: 1
+	Query: "campephilus tissue:1" ; Times: 2
+	Query: "Todirostrum" ; Times: 2
+	Query: "dendrocopos tissue:1" ; Times: 4
+	Query: "cypseloides niger" ; Times: 4
+	Query: "pickle" ; Times: 1
+	Query: "Isla Colon" ; Times: 3
+	Query: "catalognumber:500" ; Times: 1
+	Query: "genus:Tauraco tissue:1" ; Times: 7
+	Query: "cuculus saturatus" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga year >= 2000 year <= 2015" ; Times: 1
+	Query: "Ochthoeca tissue:1" ; Times: 2
+	Query: "pugnax stateprovince:"alaska" class:aves year >= 1976 year <= 1976" ; Times: 1
+	Query: "picus tissue:1" ; Times: 1
+	Query: "Brachyramphus brevirostris egg" ; Times: 1
+	Query: "Melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "Branta hutchinsii type:specimen" ; Times: 1
+	Query: "Luscinia calliope" ; Times: 2
+	Query: "Jack J Withrow stateprovince:"Alaska" class:Aves" ; Times: 2
+	Query: "aves umnak" ; Times: 1
+	Query: "genus:euphonia (tissue) tissue:1" ; Times: 1
+	Query: "Melanerpes formicivorus tissue:1" ; Times: 1
+	Query: "Picumnus tissue:1" ; Times: 2
+	Query: ""Falcipennis canadensis" stateprovince:"Alaska" tissue:1" ; Times: 1
+	Query: ""Bonasa umbellus" stateprovince:"Alaska" tissue:1" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 2
+	Query: "Colaptes rupicola tissue:1" ; Times: 1
+	Query: "Nonnula sclateri type:specimen" ; Times: 1
+	Query: "Diuca diuca tissue:1" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 2
+	Query: "Cypseloides" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "Monasa tissue:1" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: ""crypturellus cinnamomeus"" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "mussels" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<129296" ; Times: 1
+	Query: "mastodon" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1990 year <= 2015 distance(location,geopoint(54.77534585936447,74.53125))<2814184" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<96662" ; Times: 1
+	Query: "8767" ; Times: 1
+	Query: "Veniliornis tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1084 download events in this period)
+Total number of records downloaded: 1816 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1438
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 3
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-06 ; Times: 5
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 3
+	Date: 2015-07-16 ; Times: 3
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Diglossa brunneiventris tissue:1" ; Times: 2
+	Query: "Cyanocompsa parellina" ; Times: 2
+	Query: "myotis lucifugus country:"United States"" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "specificepithet:noveboracensis genus:Seiurus tissue:1" ; Times: 1
+	Query: "genus:euphonia (tissue) tissue:1" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<119084" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "Eurynorhynchus pygmeus" ; Times: 1
+	Query: "Saltator coerulescens" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "stateprovince:"Alaska" specificepithet:tridactylus genus:Picoides" ; Times: 1
+	Query: "type:specimen genus:euphonia (tissue)" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<129296" ; Times: 1
+	Query: "sporophila americana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1372
+Total number of records retrieved from searches: 15873
+Number of download events that retrieved data from the resource: 176
+Total number of records downloaded: 13353
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1524
+Total number of records retrieved from searches: 17272
+Number of download events that retrieved data from the resource: 318
+Total number of records downloaded: 23388
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
