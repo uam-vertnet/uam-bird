@@ -1,0 +1,209 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 843
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 6
+	Country: United States ; Times: 75
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 19
+	Country: Colombia ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-15 ; Times: 5
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 3
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-29 ; Times: 3
+	Date: 2015-10-28 ; Times: 11
+	Date: 2015-10-27 ; Times: 8
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-25 ; Times: 3
+	Date: 2015-10-24 ; Times: 12
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-22 ; Times: 7
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 6
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 5
+	Date: 2015-10-01 ; Times: 4
+	Date: 2015-10-03 ; Times: 2
+	Date: 2015-10-02 ; Times: 11
+	Date: 2015-10-09 ; Times: 21
+	Date: 2015-10-08 ; Times: 7
+	Date: 2015-10-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "chaetura (skel OR skeleton)" ; Times: 2
+	Query: "Conopophaga peruviana mappable:1" ; Times: 1
+	Query: "phaethornis (skel OR skeleton)" ; Times: 2
+	Query: "Sittasomus griseicapillus gracileus type:specimen" ; Times: 1
+	Query: "15205" ; Times: 1
+	Query: "Coccyzus minor tissue:1" ; Times: 2
+	Query: "lsumz" ; Times: 1
+	Query: "manacus" ; Times: 1
+	Query: "milvus milvus" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 2
+	Query: "Rhynchocyclus (skel OR skeleton) sex:female" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "&#34;lagopus mutus&#34; tissue:1" ; Times: 2
+	Query: "ferruginea stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 1
+	Query: "Eurostopodus (skel OR skeleton)" ; Times: 1
+	Query: "Schiffornis (skel OR skeleton)" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 4
+	Query: "gavia arctica" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "UAM 30353" ; Times: 1
+	Query: "geotrygon montana" ; Times: 1
+	Query: "emberiza rustica" ; Times: 1
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 7
+	Query: "ortalis (skel OR skeleton) sex:female" ; Times: 1
+	Query: "phylloscopus collybita" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "Glaucis hirsutus mappable:1" ; Times: 1
+	Query: "Bird claw" ; Times: 2
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "Sclerurus (skel OR skeleton)" ; Times: 1
+	Query: "Chloroceryle sex:female (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen genus:Tachyeres preparations:skeleton" ; Times: 2
+	Query: "Rhipidura type:specimen genus:Rhipidura tissue:1" ; Times: 1
+	Query: "Lepidocolaptes (skel OR skeleton)" ; Times: 1
+	Query: "ortalis (skel OR skeleton)" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "Rupicola (skel OR skeleton)" ; Times: 1
+	Query: "Myiobius (skel OR skeleton) sex:female" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "dogs" ; Times: 1
+	Query: "Campylopterus largipennis mappable:1" ; Times: 2
+	Query: "Schiffornis" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:1068 institutioncode:UAM" ; Times: 1
+	Query: "&#34;lagopus lagopus&#34; tissue:1" ; Times: 4
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "troglodytes musculus" ; Times: 1
+	Query: "Falco sparverius type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:erythrorhyncha genus:Anas tissue:1" ; Times: 1
+	Query: "Brachyramphus marmoratus year &gt;= 1993" ; Times: 1
+	Query: "10164" ; Times: 1
+	Query: "Megarynchus pitangua" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "SDNHM" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:1067 institutioncode:UAM" ; Times: 1
+	Query: "momotus momota" ; Times: 1
+	Query: "UAM 11640" ; Times: 1
+	Query: "aramides cajanea" ; Times: 2
+	Query: "paradisaea apoda" ; Times: 2
+	Query: "Falco sparverius (skeleton)" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "turdus fuscater" ; Times: 4
+	Query: "pipra fasciicauda" ; Times: 1
+	Query: "Calyptomena (skel OR skeleton)" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "Zosterops palpebrosus" ; Times: 4
+	Query: "coturnix skeleton" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 2
+	Query: "27542" ; Times: 1
+	Query: "Elaenia (skel OR skeleton)" ; Times: 1
+	Query: "whale" ; Times: 2
+	Query: "Falco sparverius (skeleton) tissue:1" ; Times: 1
+	Query: "Schiffornis (skel OR skeleton) sex:female" ; Times: 1
+	Query: "Numida meleagris year &gt;= 1920" ; Times: 1
+	Query: "UAM 11673" ; Times: 1
+	Query: "Rhynchocyclus (skel OR skeleton)" ; Times: 1
+	Query: "how to cite" ; Times: 4
+	Query: "motacilla cinerea" ; Times: 1
+	Query: "genus:Chloropipo tissue:1" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 823 download events in this period)
+Total number of records downloaded: 1081
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 20
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-10 ; Times: 3
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "type:specimen genus:Tachyeres preparations:skeleton" ; Times: 2
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 1
+	Query: "Coccyzus minor tissue:1" ; Times: 1
+	Query: "motacilla citreola" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "Conopophaga peruviana mappable:1" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Glaucis hirsutus mappable:1" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "vireo olivaceus type:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Campylopterus largipennis mappable:1" ; Times: 2
+	Query: "sora" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen tissue:1" ; Times: 1
+
+
+End of report.
