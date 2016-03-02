@@ -1,0 +1,190 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 706
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Pakistan ; Times: 1
+	Country: Netherlands ; Times: 8
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 7
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Iceland ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 45
+	Country: Russia ; Times: 7
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-12 ; Times: 5
+	Date: 2016-02-13 ; Times: 5
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 8
+	Date: 2016-02-16 ; Times: 10
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-01 ; Times: 7
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-07 ; Times: 6
+	Date: 2016-02-06 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "anhimidae" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "hummingbirds" ; Times: 1
+	Query: "1931/105" ; Times: 1
+	Query: "Thraupis episcopus type:specimen tissue:1" ; Times: 1
+	Query: "LSUMZ" ; Times: 1
+	Query: "plocepasser tissue:1" ; Times: 2
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "Recurvirostra andina" ; Times: 1
+	Query: "specificepithet:sparverius stateprovince:&#34;alaska&#34; year &gt;= 1959 year &lt;= 1959" ; Times: 1
+	Query: "poliocephalus tissue:1" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Vliet" ; Times: 1
+	Query: "onychorhynchus tissue:1" ; Times: 2
+	Query: "Gavia adamsii" ; Times: 1
+	Query: "(weight OR mass AND &#34;Pipra mentalis&#34; OR &#34;Dixiphia mentalis&#34;)" ; Times: 1
+	Query: "Tolmomyias sulphurescens tissue:1" ; Times: 1
+	Query: "myiarchus nuttingi tissue:1" ; Times: 1
+	Query: "genus:Cerorhinca tissue:1" ; Times: 1
+	Query: "spider" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:allen AND (NOT dmnh NOT cumv NOT wfvz)" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 2
+	Query: "specificepithet:sparverius stateprovince:&#34;alaska&#34; year &gt;= 1963 year &lt;= 1963" ; Times: 1
+	Query: "Xiphorhynchus flavigaster tissue:1" ; Times: 1
+	Query: "mummy" ; Times: 8
+	Query: "class:Aves stateprovince:&#34;Yukon&#34; country:&#34;Canada&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "Anas rubripes" ; Times: 1
+	Query: "Tympanuchus pallidicinctus 1" ; Times: 1
+	Query: "genus:Ploceus tissue:1" ; Times: 5
+	Query: "ficedula parva" ; Times: 1
+	Query: "Sporophila torqueola tissue:1" ; Times: 1
+	Query: "tachyeres brachypterus" ; Times: 1
+	Query: "Machaeropterus pyrocephalus" ; Times: 1
+	Query: "vliet" ; Times: 1
+	Query: "colaptes auratus tissue:1" ; Times: 1
+	Query: "Ficedula parva" ; Times: 1
+	Query: "aethia psittacula" ; Times: 1
+	Query: "phylloscopus tissue:1" ; Times: 1
+	Query: "3991" ; Times: 1
+	Query: "&#34;Egretta garzetta&#34; AND mass OR weight" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Carpodacus erythrinus tissue:1" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "mussels" ; Times: 1
+	Query: "Cyanocompsa parellina tissue:1" ; Times: 1
+	Query: "trogon citreolus citreolus" ; Times: 2
+	Query: "Brachyramphus perdix" ; Times: 1
+	Query: "Myrmeciza melanoceps" ; Times: 1
+	Query: "veniliornis tissue:1" ; Times: 1
+	Query: "sparrows" ; Times: 1
+	Query: "Brachyramphus marmoratus institutioncode:UAM" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "sporophila torqueola type:specimen (weight)" ; Times: 1
+	Query: "brachyura" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "Sittasomus griseicapillus tissue:1" ; Times: 2
+	Query: "genus:Stercorarius tissue:1" ; Times: 1
+	Query: "(weight OR mass AND &#34;Pipra pipra&#34; OR &#34;Dixiphia pipra&#34;)" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "Plocepasser tissue:1" ; Times: 1
+	Query: "uam 13411" ; Times: 2
+	Query: "Geothlypis poliocephala tissue:1" ; Times: 2
+	Query: "uam 13412" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:allen AND (NOT dmnh NOT cumv NOT wfvz NOT mvz) institutioncode:UAM" ; Times: 1
+	Query: "larus fuscus" ; Times: 1
+	Query: "vireolanius pulchellus tissue:1" ; Times: 1
+	Query: "Anas tristis" ; Times: 1
+	Query: "tachyeres" ; Times: 1
+	Query: "Murre" ; Times: 1
+	Query: "momotus momota" ; Times: 1
+	Query: "lepidocolaptes souleyetii tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 512 download events in this period)
+Total number of records downloaded: 1165
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 21
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 4
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-13 ; Times: 2
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-05 ; Times: 5
+	Date: 2016-02-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "class:Aves county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Yukon&#34; country:&#34;Canada&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Poicephalus meyeri" ; Times: 1
+	Query: "class:Aves locality:Rochester county:&#34;Monroe&#34; stateprovince:&#34;New York&#34;" ; Times: 4
+	Query: "Strigidae" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1955 year &lt;= 1959" ; Times: 1
+	Query: "Cyanocompsa parellina tissue:1" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "Icterus gularis tissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "capito" ; Times: 1
+	Query: "presque isle pennsylvania" ; Times: 1
+	Query: "poliocephalus tissue:1" ; Times: 1
+	Query: "Sporophila torqueola tissue:1" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
