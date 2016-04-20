@@ -1,0 +1,124 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 713
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 4
+	Country: France ; Times: 3
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 6
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-12 ; Times: 1
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-06 ; Times: 6
+	Date: 2016-03-14 ; Times: 6
+	Date: 2016-03-04 ; Times: 3
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-13 ; Times: 3
+	Date: 2016-03-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Aves (Bolivia)" ; Times: 1
+	Query: "ceyx erithacus" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Falco sparverius month &gt;= 4 month &lt;= 8 institutioncode:UAM" ; Times: 1
+	Query: "Falco sparverius (Alaska OR Yukon ) month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "locality:Concepcion country:&#34;Argentina&#34;" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 2
+	Query: "sittasomus mappable:1" ; Times: 1
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "Falco columbarius (ADULT) (TARSUS)" ; Times: 1
+	Query: "Falco sparverius (Alaska) month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "troglodytes helleri" ; Times: 1
+	Query: "Cliff Swallow" ; Times: 1
+	Query: "Vireo gilvus (adult) (bill)" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "otus continent:Asia tissue:1" ; Times: 1
+	Query: "Passerculus sandwichensis (adult)" ; Times: 1
+	Query: "catharus guttatus tissue:1" ; Times: 1
+	Query: "Tuxtlas stateprovince:&#34;Veracruz&#34; mappable:1" ; Times: 1
+	Query: "(sterna paradisaea) year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "bonasa umbellus year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Pachyramphus aglaiae tissue:1" ; Times: 1
+	Query: "(sterna paradisaea) year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Thalassoica antarctica tissue:1" ; Times: 1
+	Query: "osborne" ; Times: 1
+	Query: "catharus minimus month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "clark salyer" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Russia&#34; year &gt;= 1995 year &lt;= 2011" ; Times: 1
+	Query: "Cygnus buccinator Alaska" ; Times: 1
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "troglodytes petrophilus" ; Times: 2
+	Query: "Falco columbarius (TARSUS)" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "otus tissue:1" ; Times: 1
+	Query: "genus:sterna (sterna paradisaea) year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Psittacula" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 230 download events in this period)
+Total number of records downloaded: 642695
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 47
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-01 ; Times: 5
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cygnus buccinator Alaska" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "oreonympha nobilis" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "specificepithet:paradisaea genus:sterna year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "chordeiles minor mappable:1" ; Times: 1
+
+
+End of report.
