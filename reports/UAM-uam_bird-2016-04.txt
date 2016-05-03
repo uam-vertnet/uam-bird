@@ -1,0 +1,322 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 247
+Number of records retrieved in searches: 1620
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 10
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 175
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 6
+	Country: Russia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 34
+	Date: 2016-04-28 ; Times: 8
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 14
+	Date: 2016-04-21 ; Times: 28
+	Date: 2016-04-20 ; Times: 22
+	Date: 2016-04-23 ; Times: 4
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-25 ; Times: 10
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-09 ; Times: 8
+	Date: 2016-04-26 ; Times: 5
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-27 ; Times: 7
+	Date: 2016-04-18 ; Times: 9
+	Date: 2016-04-19 ; Times: 4
+	Date: 2016-04-14 ; Times: 6
+	Date: 2016-04-15 ; Times: 12
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-10 ; Times: 8
+	Date: 2016-04-11 ; Times: 19
+	Date: 2016-04-12 ; Times: 10
+	Date: 2016-04-13 ; Times: 10
+	Date: 2016-04-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:discolor genus:dendroica month &gt;= 3 mappable:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 4
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 6 mappable:1" ; Times: 1
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "spiders" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "Black Tern" ; Times: 1
+	Query: "Riparia riparia" ; Times: 1
+	Query: "specificepithet:discolor genus:Dendroica mappable:1" ; Times: 1
+	Query: "Phoenicopterus type:specimen tissue:1" ; Times: 1
+	Query: "Amazilia tzacatl" ; Times: 2
+	Query: "catalognumber:8357 institutioncode:UAM" ; Times: 2
+	Query: "skin type:specimen specificepithet:spiza genus:Chlorophanes sex:male" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "Corvus AND Island" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "catalognumber:30723 institutioncode:UAM" ; Times: 3
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "catalognumber:31173 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:22193 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:stagnatilis" ; Times: 2
+	Query: "catalognumber:8951 institutioncode:UAM" ; Times: 2
+	Query: "Geositta saxicolina" ; Times: 1
+	Query: "puffinus bulleri tissue:1" ; Times: 1
+	Query: "Swan Island" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1955 year &lt;= 1960 mappable:1" ; Times: 2
+	Query: "24268" ; Times: 2
+	Query: "Dendroica tigrina" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "Phoenicopterus ruber type:specimen" ; Times: 1
+	Query: "myiarchus tuberculifer" ; Times: 8
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "Puffinus Pacificus tissue:1" ; Times: 1
+	Query: "(orca)" ; Times: 2
+	Query: "type:specimen genus:gallinago country:&#34;Peru&#34; tissue:1" ; Times: 1
+	Query: "tarsiger cyanurus" ; Times: 1
+	Query: "orca" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 3
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 8 mappable:1" ; Times: 1
+	Query: "Accipiter striatus perobscurus" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "catalognumber:8358 institutioncode:UAM" ; Times: 2
+	Query: "nunivak specificepithet:ptilocnemis institutioncode:UAM" ; Times: 1
+	Query: "Turdus fuscater" ; Times: 1
+	Query: "Asio AND Island" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "icterus gularis" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-114.037516))&lt;15000" ; Times: 1
+	Query: "UAM pachyramphus itzensis" ; Times: 1
+	Query: "mummy" ; Times: 19
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "pterodroma hypoleuca tissue:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "UAM 1195" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "Rissa tridactyla tissue:1" ; Times: 4
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 1995 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1985 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "(rubus) mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.867516))&lt;15000" ; Times: 1
+	Query: "catalognumber:26016 institutioncode:UAM" ; Times: 2
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "type:specimen genus:Passer continent:Africa tissue:1" ; Times: 2
+	Query: "glaucis hirsutus" ; Times: 1
+	Query: "catalognumber:12041 institutioncode:UAM" ; Times: 2
+	Query: "class:aves catalognumber:26819" ; Times: 1
+	Query: "catalognumber:8452 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:tigrina genus:Dendroica month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "catalognumber:6486 institutioncode:UAM" ; Times: 3
+	Query: "catalognumber:6580 institutioncode:UAM" ; Times: 2
+	Query: "colaptes tissue:1" ; Times: 1
+	Query: "&#34;Thamnophilus doliatus&#34; AND Peru AND weight" ; Times: 1
+	Query: "dubusia taeniata" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "genus:crypturellus tissue:1" ; Times: 1
+	Query: "type:specimen genus:Passer continent:Asia tissue:1" ; Times: 3
+	Query: "puffinus pacificus tissue:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 6 mappable:1" ; Times: 2
+	Query: "catalognumber:6843 institutioncode:UAM" ; Times: 1
+	Query: "Ammodramus savannarum dakota" ; Times: 1
+	Query: "catalognumber:24751 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:discolor genus:Dendroica (immature) mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "Ptilocnemis institutioncode:UAM" ; Times: 3
+	Query: "11221" ; Times: 1
+	Query: "class:aves catalognumber:22127" ; Times: 1
+	Query: "Myrmeciza hemimelaena" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen AND (NOT roseus)" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 8 mappable:1" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Swan Island United States" ; Times: 1
+	Query: "Ficedula parva" ; Times: 2
+	Query: "Falco peregrinus AND Island" ; Times: 1
+	Query: "catalognumber:22313 institutioncode:UAM" ; Times: 2
+	Query: "&#34;Automolus rufipileatus&#34; AND Peru AND weight" ; Times: 1
+	Query: "Pycnonotus cafer tissue:1" ; Times: 1
+	Query: "Contopus borealis" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1965 mappable:1" ; Times: 2
+	Query: "genus:Parus continent:Asia tissue:1" ; Times: 1
+	Query: "genus:Parus tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1935 mappable:1" ; Times: 1
+	Query: "Bonasa umbellus type:specimen tissue:1" ; Times: 3
+	Query: "1900 Jackson" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2005 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "specificepithet:ptilocnemis catalognumber:6886 institutioncode:UAM" ; Times: 1
+	Query: "SDNHM AND Island" ; Times: 1
+	Query: "Ramphocelus melanogaster" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5 mappable:1" ; Times: 2
+	Query: "21026" ; Times: 1
+	Query: "catalognumber:8359 institutioncode:UAM" ; Times: 2
+	Query: "16438 tissue:1" ; Times: 1
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "Vliet" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 1
+	Query: "Luscinia calliope" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "catalognumber:7472 institutioncode:UAM" ; Times: 2
+	Query: "Bird skins" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "how to cite" ; Times: 1
+	Query: "catalognumber:26015 institutioncode:UAM" ; Times: 2
+	Query: "amchitka specificepithet:ptilocnemis institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:stagnatilis genus:tringa country:&#34;united states&#34;" ; Times: 1
+	Query: "class:aves catalognumber:23552" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "usnm red sea" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "turdus fuscater" ; Times: 2
+	Query: "10371" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "Cinnycerthia peruana" ; Times: 1
+	Query: "myrmotherula longipennis type:specimen sex:male" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "catalognumber:6955 institutioncode:UAM" ; Times: 1
+	Query: "ptarmigan" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;genesee&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "14199" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "Puffinus pacificus tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7 mappable:1" ; Times: 2
+	Query: "gallinula chloropus skeleton" ; Times: 1
+	Query: "genus:onychorhynchus tissue:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa tissue:1" ; Times: 6
+	Query: "specificepithet:tigrina genus:Dendroica month &gt;= 1 month &lt;= 3" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 1312 download events in this period)
+Total number of records downloaded: 690
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 76
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-20 ; Times: 20
+	Date: 2016-04-21 ; Times: 32
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-23 ; Times: 2
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-10 ; Times: 3
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 8 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 6 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 6 mappable:1" ; Times: 1
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "Phoenicopterus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 1995 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1985 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;genesee&#34; stateprovince:&#34;New York&#34;" ; Times: 3
+	Query: "colibri coruscans" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1955 year &lt;= 1960 mappable:1" ; Times: 2
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 8 mappable:1" ; Times: 2
+	Query: "&#34;Automolus rufipileatus&#34; AND Peru AND weight" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "stolzmanni" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "Bonasa umbellus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7 mappable:1" ; Times: 2
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "&#34;Thamnophilus doliatus&#34; AND Peru AND weight" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "Puffinus Pacificus tissue:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa tissue:1" ; Times: 3
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1965 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 7 mappable:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
