@@ -1,0 +1,133 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 334
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Ukraine ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 23
+	Country: Germany ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-13 ; Times: 5
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-11 ; Times: 5
+	Date: 2016-05-10 ; Times: 3
+	Date: 2016-05-31 ; Times: 6
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 4
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 3
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 3
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "hare" ; Times: 1
+	Query: "Mergus serrator AND Island" ; Times: 1
+	Query: "Synthliboramphus antiquus AND Island" ; Times: 1
+	Query: "Aythya marila AND Island" ; Times: 1
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "genus:Euphonia tissue:1" ; Times: 1
+	Query: "Plegadis falcinellus tissue:1" ; Times: 1
+	Query: "Coccyzus erythropthalmus tissue:1" ; Times: 1
+	Query: "Ardea AND Island" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "polysticta" ; Times: 1
+	Query: "Lanius cristatus" ; Times: 1
+	Query: "Amazona tissue:1" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 2
+	Query: "caprimulgus indicus" ; Times: 2
+	Query: "anser" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "Numida tissue:1" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx tissue:1" ; Times: 1
+	Query: "amanita" ; Times: 1
+	Query: "Coccyzus americanus tissue:1" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "specificepithet:xanthogaster genus:Euphonia tissue:1" ; Times: 1
+	Query: "troglodytes musculus" ; Times: 1
+	Query: "philomachus pugnax" ; Times: 1
+	Query: "calidris pugnax" ; Times: 1
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "Pterodroma hypoleuca tissue:1" ; Times: 1
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "(Dulus) tissue:1" ; Times: 1
+	Query: "Asio AND Island" ; Times: 1
+	Query: "Passer domesticus" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 327 download events in this period)
+Total number of records downloaded: 285
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 3
+	Country: China ; Times: 3
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "(Dulus) tissue:1" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+
+
+End of report.
