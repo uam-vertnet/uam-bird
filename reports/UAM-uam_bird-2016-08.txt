@@ -1,0 +1,178 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 1531
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: United States ; Times: 86
+	Country: Puerto Rico ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 6
+	Date: 2016-08-12 ; Times: 8
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-15 ; Times: 2
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-17 ; Times: 3
+	Date: 2016-08-25 ; Times: 6
+	Date: 2016-08-24 ; Times: 12
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 11
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-30 ; Times: 8
+	Date: 2016-08-31 ; Times: 12
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-23 ; Times: 15
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-29 ; Times: 6
+	Date: 2016-08-22 ; Times: 4
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyanocompsa parellina" ; Times: 2
+	Query: "otus asio tissue:1" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 2
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "granatellus venustus" ; Times: 2
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "phylloscopus borealis north america" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:Colinus tissue:1" ; Times: 1
+	Query: "minimus institutioncode:UAM tissue:1" ; Times: 1
+	Query: "Catharus mexicanus tissue:1" ; Times: 4
+	Query: "San Benito Island" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980 tissue:1" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus tissue:1" ; Times: 1
+	Query: "&#34;otus asio&#34; tissue:1" ; Times: 2
+	Query: "whale" ; Times: 1
+	Query: "Catharus fuscescens month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "stictopterus" ; Times: 1
+	Query: "schiffornis turdinus" ; Times: 1
+	Query: "dendroica magnolia tissue:1" ; Times: 1
+	Query: "Catharus guttatus month &gt;= 7 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "PIcoides villosus year &gt;= 1980" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "schiffornis turdina" ; Times: 1
+	Query: "catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "bird shape" ; Times: 1
+	Query: "specificepithet:ruficollis class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Saxicola stejnegeri" ; Times: 1
+	Query: "class:Aves continent:North america (Campephilus)" ; Times: 1
+	Query: "catharus guttatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 3
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 2
+	Query: "Chlorospingus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "bicknelli month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "sanaka type:specimen specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "phylloscopus fuscatus north america" ; Times: 1
+	Query: "minimus Newfoundland institutioncode:UAM tissue:1" ; Times: 1
+	Query: "celata anchorage" ; Times: 1
+	Query: "unam" ; Times: 1
+	Query: "melanerpes carolinus Virginia" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "13787" ; Times: 1
+	Query: "catharus minimus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "uam 16615" ; Times: 1
+	Query: "Catharus ustulatus (island) month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 9
+	Query: "body mass" ; Times: 1
+	Query: "amanita" ; Times: 1
+	Query: "Catharus guttatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "sterna dougallii" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "phylloscopus sibilatrix tissue:1" ; Times: 1
+	Query: "arctic tern" ; Times: 1
+	Query: "&#34;Ceyx erithacus&#34;" ; Times: 1
+	Query: "specificepithet:ruficollis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1970 year &lt;= 1980" ; Times: 1
+	Query: "Gallinago AND Island" ; Times: 1
+	Query: "type:specimen genus:machaeropterus family:pipridae" ; Times: 1
+	Query: "Icterus tissue:1" ; Times: 3
+	Query: "Hummingbirds" ; Times: 1
+	Query: "class:Aves continent:North america (Ivory)" ; Times: 1
+	Query: "Cerro Azul" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Icterus icterus tissue:1" ; Times: 3
+	Query: "Catharus guttatus Newfoundland month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "sanaka vntype:specimen specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Paradisaea tissue:1" ; Times: 1
+	Query: "cypseloides niger" ; Times: 2
+	Query: "Myrmotherula longipennis longipennis" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34; tissue:1" ; Times: 3
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "Merops philippinus tissue:1" ; Times: 1
+	Query: "uam 11634" ; Times: 1
+	Query: "type:specimen specificepithet:leucogaster genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 3
+	Query: "orca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 924 download events in this period)
+Total number of records downloaded: 1161
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-22 ; Times: 3
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "&#34;Ceyx erithacus&#34;" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "cistothorus palustris tissue:1" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Picoides tridactylus year &gt;= 1980" ; Times: 1
+	Query: "Picoides arcticus year &gt;= 1980" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "&#34;otus asio&#34; tissue:1" ; Times: 1
+
+
+End of report.
