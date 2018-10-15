@@ -1,0 +1,83 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 234
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 31
+	Country: Israel ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Canada ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 2
+	Date: 2017-11-27 ; Times: 11
+	Date: 2017-11-30 ; Times: 14
+	Date: 2017-11-28 ; Times: 10
+	Date: 2017-11-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "35377" ; Times: 1
+	Query: "locality:calcutta year &gt;= 1951 year &lt;= 1953" ; Times: 1
+	Query: "Conirostrum cinereum" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 3
+	Query: "genus:erythrura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cozumel vireo sex:male" ; Times: 1
+	Query: "whales" ; Times: 1
+	Query: "Ramphocelus flammigerus hastissue:1" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "indigotica" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1970" ; Times: 2
+	Query: "Yucatan Vireo sex:male" ; Times: 1
+	Query: "specificepithet:canadensis genus:branta hastissue:1" ; Times: 1
+	Query: "&#34;cyaneus carneipes&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:1" ; Times: 3
+	Query: "specificepithet:celata Queen Charlotte" ; Times: 1
+	Query: "Cyanocompsa country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "albatrus year &gt;= 1950 year &lt;= 2017" ; Times: 1
+	Query: "Bucerotidae" ; Times: 2
+	Query: "Diglossa cyanea 1984" ; Times: 1
+	Query: "albatrus" ; Times: 2
+	Query: "Uropsila country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:cincta genus:poecile class:aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Thryothorus hastissue:1" ; Times: 1
+	Query: "gray vireo sex:male" ; Times: 2
+	Query: "17013 tissue" ; Times: 1
+	Query: "obscura class:Aves continent:South America" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1980" ; Times: 4
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "Arremonops country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1101 download events in this period)
+Total number of records downloaded: 40
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 2
+	Date: 2017-11-27 ; Times: 1
+	Date: 2017-11-30 ; Times: 2
+	Date: 2017-11-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cincta genus:poecile class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "indigotica" ; Times: 1
+	Query: "Conirostrum cinereum" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "Myioborus melanocephalus" ; Times: 1
+
+
+End of report.
