@@ -1,0 +1,405 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 501
+Number of records retrieved in searches: 6042
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 32
+	Country: United States ; Times: 355
+	Country: Netherlands ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 43
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 8
+	Country: Kuwait ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 9
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 30
+	Date: 2018-03-17 ; Times: 10
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-15 ; Times: 8
+	Date: 2018-03-14 ; Times: 10
+	Date: 2018-03-13 ; Times: 8
+	Date: 2018-03-12 ; Times: 5
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-27 ; Times: 67
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 6
+	Date: 2018-03-19 ; Times: 6
+	Date: 2018-03-18 ; Times: 11
+	Date: 2018-03-01 ; Times: 11
+	Date: 2018-03-02 ; Times: 29
+	Date: 2018-03-03 ; Times: 20
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 26
+	Date: 2018-03-06 ; Times: 30
+	Date: 2018-03-29 ; Times: 19
+	Date: 2018-03-08 ; Times: 6
+	Date: 2018-03-09 ; Times: 9
+	Date: 2018-03-24 ; Times: 5
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 6
+	Date: 2018-03-23 ; Times: 30
+	Date: 2018-03-20 ; Times: 25
+	Date: 2018-03-21 ; Times: 28
+	Date: 2018-03-26 ; Times: 87
+
+List of queries that retrieved data from the resource: 
+	Query: "Newfoundland specificepithet:minimus genus:Catharus hastissue:1" ; Times: 2
+	Query: "ovula" ; Times: 1
+	Query: "granatellus venustus" ; Times: 1
+	Query: "LSUMZ" ; Times: 3
+	Query: "genus:Cuculus specificepithet:canorus" ; Times: 4
+	Query: "genus:Uria specificepithet:lomvia" ; Times: 2
+	Query: "class:Aves (17829)" ; Times: 1
+	Query: "genus:Tachyeres specificepithet:brachypterus" ; Times: 5
+	Query: "specificepithet:phaeopus genus:numenius class:aves stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "genus:Actitis specificepithet:hypoleucos" ; Times: 5
+	Query: "genus:Anas specificepithet:acuta" ; Times: 2
+	Query: "Amazona oratrix" ; Times: 3
+	Query: "genus:Podiceps specificepithet:nigricollis" ; Times: 5
+	Query: "class:Aves preparations:skin catalognumber:12541" ; Times: 1
+	Query: "North Midden" ; Times: 2
+	Query: "specificepithet:sinensis genus:Ixobrychus hastissue:1" ; Times: 1
+	Query: "specificepithet:phaeopus genus:numenius class:aves stateprovince:&#34;alaska&#34; year &gt;= 1973 year &lt;= 1973 institutioncode:UAM" ; Times: 2
+	Query: "white tern" ; Times: 1
+	Query: "eucometis penicillata" ; Times: 1
+	Query: "circus cyaneus vntype:specimen hastissue:1" ; Times: 2
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 5
+	Query: "genus:Dacelo specificepithet:novaeguineae" ; Times: 2
+	Query: "specificepithet:fuliginosa genus:dendrocincla hasmass:1" ; Times: 1
+	Query: "Amazona finschi" ; Times: 2
+	Query: "genus:chlorostilbon hastissue:1" ; Times: 4
+	Query: "specificepithet:leucorrhoa hastissue:1" ; Times: 1
+	Query: "8221" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Merops specificepithet:pusillus" ; Times: 2
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "Calandrella AND (weight OR mass)" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax country:&#34;Canada&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:canutus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1970 year &lt;= 1980" ; Times: 1
+	Query: "genus:Aquila specificepithet:chrysaetos" ; Times: 5
+	Query: "specificepithet:traillii genus:empidonax hastissue:1" ; Times: 2
+	Query: "catalognumber:26000 institutioncode:UAM" ; Times: 1
+	Query: "26861" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "specificepithet:melanotos class:aves stateprovince:&#34;alaska&#34; year &gt;= 1950 year &lt;= 1950" ; Times: 1
+	Query: "genus:Podilymbus specificepithet:podiceps" ; Times: 5
+	Query: "Psittacidae Psittacula hasmass:1" ; Times: 1
+	Query: "genus:Dendrocopos specificepithet:major" ; Times: 5
+	Query: "genus:Aythya specificepithet:fuligula" ; Times: 5
+	Query: "specificepithet:canadensis genus:Perisoreus hastissue:1" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "genus:Falco specificepithet:cenchroides" ; Times: 5
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 2
+	Query: "genus:Selasphorus specificepithet:rufus" ; Times: 2
+	Query: "Ficedula narcissina" ; Times: 1
+	Query: "16171" ; Times: 1
+	Query: "genus:Sterna specificepithet:hirundo" ; Times: 2
+	Query: "Henicorhina leucosticta vntype:specimen mappable:1" ; Times: 1
+	Query: "genus:Cathartes" ; Times: 3
+	Query: "Aechmophorus hastissue:1" ; Times: 1
+	Query: "specificepithet:nigroviridis genus:tangara hasmass:1" ; Times: 1
+	Query: "247917" ; Times: 1
+	Query: "class:Aves (28984)" ; Times: 1
+	Query: "Attila spadiceus" ; Times: 4
+	Query: "rallina fasciata" ; Times: 1
+	Query: "catalognumber:17951 institutioncode:UAM" ; Times: 1
+	Query: "Pygoscelis adeliae" ; Times: 1
+	Query: "genus:Haematopus specificepithet:ostralegus" ; Times: 2
+	Query: "Ussuri" ; Times: 1
+	Query: "buteo swainsoni " ; Times: 17
+	Query: "specificepithet:certhia genus:dendrocolaptes hasmass:1" ; Times: 1
+	Query: "spider" ; Times: 1
+	Query: "genus:Podargus specificepithet:strigoides" ; Times: 5
+	Query: "genus:Anas specificepithet:crecca" ; Times: 2
+	Query: "Gymnopithys bicolor" ; Times: 1
+	Query: "specificepithet:regulus genus:regulus hasmass:1" ; Times: 2
+	Query: "12594 R" ; Times: 1
+	Query: "specificepithet:stelleri class:aves locality:savoonga stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 5
+	Query: "Columba livia " ; Times: 2
+	Query: "genus:Arenaria specificepithet:melanocephala" ; Times: 5
+	Query: "family:alcidae hastissue:1" ; Times: 1
+	Query: "genus:Phaethornis specificepithet:superciliosus" ; Times: 5
+	Query: "Ficedula hyperythra AND (weight OR mass) AND Philippines" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "24890" ; Times: 1
+	Query: "genus:Momotus specificepithet:momota" ; Times: 4
+	Query: "specificepithet:brevirostris genus:Brachyramphus" ; Times: 1
+	Query: "specificepithet:nigrogularis genus:ramphocelus hasmass:1" ; Times: 1
+	Query: "35919" ; Times: 1
+	Query: "specificepithet:sibilans genus:Luscinia hastissue:1" ; Times: 1
+	Query: "genus:Taeniopygia specificepithet:guttata" ; Times: 2
+	Query: "genus:Corvus specificepithet:corax" ; Times: 5
+	Query: "specificepithet:gouldi genus:euphonia hastissue:1" ; Times: 2
+	Query: "attila spadiceus year &gt;= 1965 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:melanotos class:aves locality:lawrence island stateprovince:&#34;alaska&#34; month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "plegadis ridgwayi" ; Times: 3
+	Query: "specificepithet:longirostre genus:toxostoma hasmass:1" ; Times: 1
+	Query: "Phaethornis striigularis" ; Times: 1
+	Query: "Atlapetes tricolor" ; Times: 1
+	Query: "bird mass" ; Times: 2
+	Query: "genus:Pandion specificepithet:haliaetus" ; Times: 5
+	Query: "Cuculus canorus" ; Times: 2
+	Query: "genus:Aix specificepithet:sponsa" ; Times: 5
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 5
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 5
+	Query: "Phoenicopteridae" ; Times: 1
+	Query: "emberiza aureola" ; Times: 2
+	Query: "specificepithet:canutus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1974 year &lt;= 1974" ; Times: 1
+	Query: "26996" ; Times: 1
+	Query: "sitka spruce" ; Times: 1
+	Query: "specificepithet:mesomelas genus:icterus hasmass:1" ; Times: 1
+	Query: "Psittacula hasmass:1" ; Times: 3
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 6
+	Query: "body size" ; Times: 3
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 5
+	Query: "specificepithet:alnorum genus:empidonax hastissue:1" ; Times: 2
+	Query: "Loriculus hasmass:1" ; Times: 2
+	Query: "specificepithet:bubo genus:Bubo hastissue:1" ; Times: 1
+	Query: "genus:Vanellus specificepithet:miles" ; Times: 2
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 2
+	Query: "genus:Circus specificepithet:cyaneus" ; Times: 4
+	Query: "Forpus spengeli" ; Times: 1
+	Query: "16522 class:Aves" ; Times: 1
+	Query: "specificepithet:stelleri class:aves stateprovince:&#34;alaska&#34; year &gt;= 1929 year &lt;= 1929" ; Times: 2
+	Query: "class:aves (16522)" ; Times: 1
+	Query: "catalognumber:24417 hastissue:1" ; Times: 1
+	Query: "genus:Scolopax specificepithet:rusticola" ; Times: 2
+	Query: "specificepithet:tyrannina genus:cercomacra hasmass:1" ; Times: 1
+	Query: "genus:Ortalis  specificepithet:vetula " ; Times: 3
+	Query: "specificepithet:canutus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "family:gruidae hastissue:1" ; Times: 1
+	Query: "specificepithet:carbo genus:ramphocelus hasmass:1" ; Times: 1
+	Query: "specificepithet:peruviana genus:conopophaga hasmass:1" ; Times: 1
+	Query: "genus:empidonax institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "catalognumber:2600 institutioncode:UAM" ; Times: 1
+	Query: "Lonchura malacca " ; Times: 2
+	Query: "family:phalacrocoracidae year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "genus:Polioptila specificepithet:caerulea" ; Times: 1
+	Query: "vntype:specimen genus:Aptenodytes hastissue:1" ; Times: 1
+	Query: "specificepithet:minuta class:aves stateprovince:&#34;alaska&#34; year &gt;= 1980 year &lt;= 1980" ; Times: 1
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 5
+	Query: "Lophura edwardsi" ; Times: 7
+	Query: "specificepithet:pugnax class:aves stateprovince:&#34;alaska&#34; year &gt;= 1933 year &lt;= 1933" ; Times: 1
+	Query: "specificepithet:traillii genus:empidonax institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "genus:Colinus specificepithet:virginianus " ; Times: 1
+	Query: "Bubulcus ibis " ; Times: 1
+	Query: "genus:Anas specificepithet:discors" ; Times: 6
+	Query: "genus:Colinus" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 4
+	Query: "genus:Clangula specificepithet:hyemalis" ; Times: 3
+	Query: "ramphocelus nigrogularis" ; Times: 1
+	Query: "year &gt;= 1936 year &lt;= 1936 institutioncode:UAM" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:europaeus" ; Times: 2
+	Query: "genus:Oxyura specificepithet:jamaicensis" ; Times: 5
+	Query: "class:Aves (24335)" ; Times: 2
+	Query: "specificepithet:pugnax class:aves stateprovince:&#34;alaska&#34; year &gt;= 1968 year &lt;= 1968" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 2
+	Query: "specificepithet:gallinago class:aves locality:lawrence island stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:psittacula hasmass:1" ; Times: 1
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 5
+	Query: "catalognumber:13463 hastissue:1" ; Times: 1
+	Query: "Gymnopithys salvini" ; Times: 2
+	Query: "Chlorostilbon canivetii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "family:Spheniscidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "specificepithet:ocellatus genus:xiphorhynchus hasmass:1" ; Times: 1
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "genus:Chen  specificepithet:caerulescens" ; Times: 3
+	Query: "specificepithet:brevipes class:aves stateprovince:&#34;alaska&#34; year &gt;= 1996 year &lt;= 1996" ; Times: 1
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "luteoviridis" ; Times: 1
+	Query: "specificepithet:bonariensis genus:thraupis hastissue:1" ; Times: 1
+	Query: "specificepithet:minutus genus:numenius class:aves stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "10273" ; Times: 1
+	Query: "Poicephalus hasmass:1" ; Times: 4
+	Query: "genus:Apus specificepithet:apus" ; Times: 2
+	Query: "specificepithet:melanotos class:aves locality:lawrence island stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:melanocephalus genus:malurus hasmass:1" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 6
+	Query: "genus:Pluvialis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "26356" ; Times: 1
+	Query: "Hylophilus ochraceiceps hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:gavia hastissue:1" ; Times: 1
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 5
+	Query: "canivetii" ; Times: 3
+	Query: "specificepithet:vociferus genus:Charadrius hasmass:1" ; Times: 1
+	Query: "inexpectata" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Junin&#34; country:&#34;Peru&#34;" ; Times: 3
+	Query: "corvus corax principalis" ; Times: 1
+	Query: "Pipra mentalis" ; Times: 1
+	Query: "specificepithet:calliparaea genus:chlorochrysa hasmass:1" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "chlorostilbon canivetii" ; Times: 7
+	Query: "LSUMZ bird" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Junin&#34; country:&#34;Peru&#34;" ; Times: 2
+	Query: "buteo swainsoni" ; Times: 4
+	Query: "Gygis" ; Times: 2
+	Query: "specificepithet:aurita genus:conopophaga hasmass:1" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1970" ; Times: 1
+	Query: "sex:female specificepithet: nigripes " ; Times: 1
+	Query: "&#34;tropical dry forest&#34;" ; Times: 1
+	Query: "Gray wagtail" ; Times: 2
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 5
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "genus:Larus specificepithet:argentatus" ; Times: 2
+	Query: "catalognumber:13908 hastissue:1" ; Times: 1
+	Query: "specificepithet:taranta genus:Agapornis" ; Times: 2
+	Query: "genus:Tyto specificepithet:alba" ; Times: 2
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 5
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 2
+	Query: "genus:Coracias specificepithet:garrulus" ; Times: 5
+	Query: "genus:Phasianus specificepithet:colchicus" ; Times: 5
+	Query: "specificepithet:alnorum genus:Empidonax stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "genus:Dendragapus specificepithet:obscurus" ; Times: 2
+	Query: "genus:Brachyramphus" ; Times: 2
+	Query: "specificepithet:ridgwayi genus:plegadis hastissue:1" ; Times: 1
+	Query: "specificepithet:arcticus genus:picoides hasmass:1" ; Times: 2
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 4
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 2
+	Query: "genus:Larus specificepithet:philadelphia" ; Times: 6
+	Query: "class:Aves (10328)" ; Times: 1
+	Query: "vntype:specimen Cinclodes stateprovince:&#34;Junin&#34;" ; Times: 1
+	Query: "genus:Gavia specificepithet:immer" ; Times: 4
+	Query: "genus:Eudynamys hastissue:1" ; Times: 6
+	Query: "specificepithet:sericeus genus:orthotomus hasmass:1" ; Times: 2
+	Query: "Terenotriccus erythrurus" ; Times: 1
+	Query: "Streptopelia decaocto " ; Times: 2
+	Query: "genus:Sphyrapicus specificepithet:varius" ; Times: 2
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 2
+	Query: "Aves institutioncode:UAM hassex:1 hasmass:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 1284 download events in this period)
+Total number of records downloaded: 52368
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 19
+	Country: United States ; Times: 35
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 3
+	Date: 2018-03-17 ; Times: 5
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-14 ; Times: 5
+	Date: 2018-03-13 ; Times: 5
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-18 ; Times: 14
+	Date: 2018-03-01 ; Times: 3
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-03 ; Times: 3
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 6
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+	Date: 2018-03-26 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 2
+	Query: "class:Aves sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:ocellatus genus:xiphorhynchus hasmass:1" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "specificepithet:melanocephalus genus:malurus hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "family:laridae mappable:1" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "Gymnopithys bicolor" ; Times: 1
+	Query: "specificepithet:certhia genus:dendrocolaptes hasmass:1" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "hylophilus flavipes" ; Times: 1
+	Query: "specificepithet:thalassina genus:tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:tyrannina genus:cercomacra hasmass:1" ; Times: 1
+	Query: "specificepithet:longirostre genus:toxostoma hasmass:1" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "family:alcidae hastissue:1" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "family:gruidae hastissue:1" ; Times: 1
+	Query: "specificepithet:carbo genus:ramphocelus hasmass:1" ; Times: 1
+	Query: "Ficedula hyperythra AND (weight OR mass) AND Philippines" ; Times: 1
+	Query: "specificepithet:nigrogularis genus:ramphocelus hasmass:1" ; Times: 1
+	Query: "family:Laridae mappable:1" ; Times: 1
+	Query: "eucometis penicillata" ; Times: 1
+	Query: "vntype:specimen class:Aves preparations:Wing" ; Times: 1
+	Query: "Aves 2010" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax hastissue:1" ; Times: 1
+	Query: "specificepithet:arcticus genus:picoides hasmass:1" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:bicolor genus:tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis hasmass:1" ; Times: 1
+	Query: "Henicorhina leucosticta vntype:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:nigroviridis genus:tangara hasmass:1" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "specificepithet:vociferus genus:Charadrius hasmass:1" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:dendrocincla hasmass:1" ; Times: 1
+	Query: "specificepithet:regulus genus:regulus hasmass:1" ; Times: 1
+	Query: "Terenotriccus erythrurus" ; Times: 2
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "specificepithet:mesomelas genus:icterus hasmass:1" ; Times: 1
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "family:laridae hastissue:1" ; Times: 1
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2010 month &gt;= 1 month &lt;= 12 startdayofyear &gt;= 1" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 3
+	Query: "preparations:egg" ; Times: 1
+	Query: "class:Aves 2000 specimen" ; Times: 1
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "family:alcidae AND (NOT eggs) mappable:1" ; Times: 1
+	Query: "family:alcidae mappable:1" ; Times: 2
+	Query: "Pipra mentalis" ; Times: 1
+	Query: "emberiza aureola" ; Times: 2
+	Query: "Pyriglena leuconota" ; Times: 1
+	Query: "specificepithet:calliparaea genus:chlorochrysa hasmass:1" ; Times: 1
+	Query: "egg vntype:specimen class:aves preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "class:Aves lifestage:Adult sex:Male hassex:1 hasmass:1" ; Times: 1
+	Query: "Gymnopithys salvini" ; Times: 1
+	Query: "Ficedula narcissina" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:sericeus genus:orthotomus hasmass:1" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Aves institutioncode:UAM hassex:1 hasmass:1" ; Times: 2
+	Query: "psaltria hastissue:1" ; Times: 1
+	Query: "Phaethornis striigularis" ; Times: 1
+	Query: "Aechmophorus hastissue:1" ; Times: 1
+	Query: "Gymnopithys leucaspis" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "scientificname:&#34;Cyanocitta cristata&#34; hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
