@@ -1,0 +1,228 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 156
+Number of records retrieved in searches: 730
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Turkey ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 26
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 21
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Kuwait ; Times: 1
+	Country: China ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 76
+	Country: New Zealand ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-06 ; Times: 9
+	Date: 2018-06-05 ; Times: 12
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-28 ; Times: 7
+	Date: 2018-06-01 ; Times: 10
+	Date: 2018-06-25 ; Times: 8
+	Date: 2018-06-24 ; Times: 2
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 7
+	Date: 2018-06-21 ; Times: 7
+	Date: 2018-06-20 ; Times: 7
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 14
+	Date: 2018-06-23 ; Times: 5
+	Date: 2018-06-22 ; Times: 4
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 19
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-14 ; Times: 4
+	Date: 2018-06-15 ; Times: 3
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-30 ; Times: 9
+	Date: 2018-06-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "specificepithet:Pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:totanus genus:tringa hastissue:1" ; Times: 1
+	Query: "Agapornis lilianae " ; Times: 16
+	Query: "specificepithet:hyperboreus class:aves locality:hall stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Garrulus glandarius" ; Times: 1
+	Query: "lsumz" ; Times: 1
+	Query: "genus:Threskiornis family:Threskiornithidae continent:Africa" ; Times: 1
+	Query: "genus:Zosterops family:Zosteropidae class:Aves (W. A.)" ; Times: 1
+	Query: "vntype:specimen class:Aves catalognumber:35343" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1963" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1962" ; Times: 1
+	Query: "Turdus institutioncode:UAM hastissue:1" ; Times: 2
+	Query: "freshwater fish" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "rhynchocyclus" ; Times: 2
+	Query: "sterna dougallii vntype:specimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:yucatanensis genus:amazilia country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 2
+	Query: "specificepithet:erythrophthalmus genus:pipilo month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Pycnonotus xanthopygos" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "liver paridae" ; Times: 1
+	Query: "Turdus nigrideus hastissue:1" ; Times: 1
+	Query: "Tachyeres patachonicus" ; Times: 1
+	Query: "specificepithet:leucoptera genus:loxia hassex:1 hasmass:1" ; Times: 1
+	Query: "hastissue:1 tringa totanus" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "class:aves locality:chitina stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 4
+	Query: "Poecile hudsonicus" ; Times: 4
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Accipiter gentilis institutioncode:UAM" ; Times: 1
+	Query: "Glaucidium brasilianum cactorum" ; Times: 1
+	Query: "Atlapetes tricolor" ; Times: 2
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "ortalis canicollis" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 4
+	Query: "black bear" ; Times: 6
+	Query: "peregrine falcon" ; Times: 1
+	Query: "puffin" ; Times: 2
+	Query: "21294" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Gallirallus owstoni)" ; Times: 2
+	Query: "ficedula bonthaina" ; Times: 6
+	Query: "sterna maxima skeleton" ; Times: 2
+	Query: "UAM 18530" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Falcipennis hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:29304" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "aleutian tern" ; Times: 1
+	Query: "WC Russell" ; Times: 1
+	Query: "Alnus" ; Times: 1
+	Query: "bird wings and tails" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "UAM Bird 18530" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Fulica armillata" ; Times: 1
+	Query: "specificepithet:hyperboreus genus:plectrophenax class:aves locality:hall stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "bolivianus" ; Times: 1
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "specificepithet:buckleyi " ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "cerulean" ; Times: 1
+	Query: "genus:Machaeropterus (skeleton)" ; Times: 1
+	Query: "specificepithet:leucoptera genus:loxia sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:36107" ; Times: 1
+	Query: "Rollandia rolland rolland" ; Times: 1
+	Query: "specificepithet:pipra genus:Pipra" ; Times: 1
+	Query: "specificepithet:cincta class:Aves" ; Times: 1
+	Query: "chlorostilbon canivetii" ; Times: 3
+	Query: "MVZ 4736" ; Times: 1
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 3
+	Query: "31224" ; Times: 1
+	Query: "Lophonetta specularioides" ; Times: 1
+	Query: "locality:homer stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Momotus momota vntype:specimen country:&#34;Mexico&#34; hastissue:1" ; Times: 4
+	Query: "Diglossa" ; Times: 12
+	Query: "vntype:specimen specificepithet:brevirostris genus:Rhynchocyclus family:Tyrannidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:laing" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "country:&#34;Panama&#34; (inguinalis OR panamansis OR panamensis) hastissue:1" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "class:aves catalognumber:29294" ; Times: 2
+	Query: "Black Bear" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "tachyeres" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1169 download events in this period)
+Total number of records downloaded: 2005
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 23
+	Country: United States ; Times: 26
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-23 ; Times: 5
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 9
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Turdus nigrideus hastissue:1" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "specificepithet:minimus genus:psaltriparus haslifestage:1 hasmass:1" ; Times: 1
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "moose" ; Times: 1
+	Query: "Momotus momota vntype:specimen country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "specificepithet:Pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 2
+	Query: "Spizaetus" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "puffin" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Accipiter gentilis institutioncode:UAM" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
