@@ -1,0 +1,238 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 911
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 10
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 3
+	Country: India ; Times: 3
+	Country: Cyprus ; Times: 3
+	Country: United States ; Times: 128
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: China ; Times: 3
+	Country: Norway ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-03 ; Times: 13
+	Date: 2018-09-26 ; Times: 4
+	Date: 2018-09-27 ; Times: 18
+	Date: 2018-09-20 ; Times: 12
+	Date: 2018-09-21 ; Times: 5
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 7
+	Date: 2018-09-08 ; Times: 2
+	Date: 2018-09-09 ; Times: 2
+	Date: 2018-09-28 ; Times: 58
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-10 ; Times: 10
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 4
+	Date: 2018-09-14 ; Times: 3
+	Date: 2018-09-17 ; Times: 7
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 4
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-02 ; Times: 4
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:23834 institutioncode:UAM" ; Times: 2
+	Query: "pipreola riefferii" ; Times: 1
+	Query: "gbifdatasetid:4852540d-afd1-4678-bd20-4aac28f65e2d" ; Times: 1
+	Query: "Pycnonotus cafer vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:23667 institutioncode:UAM" ; Times: 2
+	Query: "spiders" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "catalognumber:31104 institutioncode:UAM" ; Times: 2
+	Query: "UAM Bird" ; Times: 1
+	Query: "specificepithet:media genus:Gallinago hastissue:1" ; Times: 2
+	Query: "catalognumber:23421 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:fuscicauda genus:habia" ; Times: 1
+	Query: "catalognumber:30590 institutioncode:UAM" ; Times: 2
+	Query: "vntype:specimen specificepithet:cunicularia genus:Geositta" ; Times: 2
+	Query: "corvus corax" ; Times: 1
+	Query: "catalognumber:20948 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:20945 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:solitaria genus:Gallinago hastissue:1" ; Times: 2
+	Query: "catalognumber:30873 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "22579" ; Times: 1
+	Query: "liver aves hasmedia:1" ; Times: 2
+	Query: "14840" ; Times: 1
+	Query: "catalognumber:23830 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:20664 institutioncode:UAM" ; Times: 2
+	Query: "sterna dougallii" ; Times: 1
+	Query: "specificepithet:pygmeus genus:Eurynorhynchus" ; Times: 1
+	Query: "genus:tachuris hastissue:1" ; Times: 1
+	Query: "Rodent" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubiginosus genus:Automolus hastissue:1" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "specificepithet:megala genus:Gallinago hastissue:1" ; Times: 2
+	Query: "catalognumber:20662 institutioncode:UAM" ; Times: 2
+	Query: "strix nebulosa" ; Times: 1
+	Query: "catalognumber:31106 institutioncode:UAM" ; Times: 2
+	Query: "halcyon smyrnensis" ; Times: 1
+	Query: "vntype:specimen country:&#34;Bolivia&#34; family:Furnariidae" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "genus:myadestes country:&#34;peru&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:macroura class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "catalognumber:30818 institutioncode:UAM" ; Times: 2
+	Query: "phaethornis longirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Geositta year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:patachonicus genus:Tachyeres institutioncode:UAM" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "catalognumber:30820 institutioncode:UAM" ; Times: 3
+	Query: "genus:turdus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "genus:Xenus preparations:skeleton" ; Times: 2
+	Query: "&#34;home&#34; gasterosteus" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttatus genus:Xiphorhynchus" ; Times: 1
+	Query: "pipreola riefferii riefferii" ; Times: 1
+	Query: "catalognumber:23425 institutioncode:UAM" ; Times: 2
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "malacoptila" ; Times: 1
+	Query: "body size" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes hastissue:1" ; Times: 1
+	Query: "catalognumber:30819 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:31105 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:corone genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "catalognumber:23730 institutioncode:UAM" ; Times: 3
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "specificepithet:riefferii genus:pipreola hastissue:1" ; Times: 1
+	Query: "catalognumber:34616 institutioncode:UAM" ; Times: 2
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "specificepithet:gallinago genus:Gallinago hastissue:1" ; Times: 3
+	Query: "catalognumber:35318 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:tinnunculus genus:falco hasmass:1" ; Times: 1
+	Query: "specificepithet:haematogaster genus:northiella hasmass:1" ; Times: 1
+	Query: "specificepithet:solitaria genus:Gallinago" ; Times: 1
+	Query: "selasphorus rufus year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:pica genus:Pica class:Aves hastissue:1" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "specificepithet:passerina genus:Spizella hastissue:1" ; Times: 1
+	Query: "Accipiter gentilis gentilis hastissue:1" ; Times: 1
+	Query: "calliope year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "catalognumber:20582 institutioncode:UAM" ; Times: 2
+	Query: "genus:Xenus preparations:skeleton hastissue:1" ; Times: 2
+	Query: "stateprovince:&#34;New Brunswick&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:20665 institutioncode:UAM" ; Times: 2
+	Query: "paridae liver" ; Times: 2
+	Query: "specificepithet:stenura genus:Gallinago hastissue:1" ; Times: 1
+	Query: "catalognumber:23829 institutioncode:UAM" ; Times: 2
+	Query: "oriolus chinensis" ; Times: 1
+	Query: "luteoviridis" ; Times: 1
+	Query: "catalognumber:35344 institutioncode:UAM" ; Times: 2
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "catalognumber:34604 institutioncode:UAM" ; Times: 2
+	Query: "locality:sledge island country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "genus:zenaida class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Sula leucogaster" ; Times: 1
+	Query: "Pipreola riefferii hastissue:1" ; Times: 1
+	Query: "amazilia tzacatl Panama Isla" ; Times: 1
+	Query: "bubulcus ibis" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "specificepithet:cunicularia genus:Geositta" ; Times: 1
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:ophthalmicus genus:chlorospingus hastissue:1" ; Times: 1
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto class:Aves hastissue:1" ; Times: 1
+	Query: "diomedeidae skeleton" ; Times: 2
+	Query: "specificepithet:moluccensis genus:Dendrocopos" ; Times: 1
+	Query: "catalognumber:23665 institutioncode:UAM" ; Times: 2
+	Query: "capito niger" ; Times: 2
+	Query: "catalognumber:23831 institutioncode:UAM" ; Times: 2
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "catalognumber:23828 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:cunicularia genus:Geositta hastissue:1" ; Times: 1
+	Query: "Dendrocincla" ; Times: 1
+	Query: "(accipiter gentilis) hastissue:1" ; Times: 1
+	Query: "genus:Glareola preparations:skeleton basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:oceanodroma hasmass:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "melospiza melodia sanaka" ; Times: 1
+	Query: "corvus splendens" ; Times: 2
+	Query: "catalognumber:30874 institutioncode:UAM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 846 download events in this period)
+Total number of records downloaded: 1129
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Norway ; Times: 1
+	Country: Iran ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-27 ; Times: 4
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-20 ; Times: 3
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "specificepithet:ophthalmicus genus:chlorospingus hastissue:1" ; Times: 1
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 1
+	Query: "Aves vntype:specimen country:&#34;Philippines&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:brunneinucha genus:buarremon hastissue:1" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "carlsbad cavern" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.
