@@ -1,0 +1,462 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 544
+Number of records retrieved in searches: 1728
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: Canada ; Times: 3
+	Country: Ireland ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Serbia ; Times: 1
+	Country: United States ; Times: 460
+	Country: Sweden ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 3
+	Country: South Korea ; Times: 2
+	Country: Ecuador ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 15
+	Date: 2018-10-04 ; Times: 3
+	Date: 2018-10-05 ; Times: 8
+	Date: 2018-10-06 ; Times: 3
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-01 ; Times: 61
+	Date: 2018-10-02 ; Times: 13
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-30 ; Times: 13
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-23 ; Times: 51
+	Date: 2018-10-20 ; Times: 3
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 5
+	Date: 2018-10-27 ; Times: 4
+	Date: 2018-10-24 ; Times: 15
+	Date: 2018-10-25 ; Times: 10
+	Date: 2018-10-29 ; Times: 9
+	Date: 2018-10-08 ; Times: 13
+	Date: 2018-10-09 ; Times: 107
+	Date: 2018-10-18 ; Times: 4
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-11 ; Times: 5
+	Date: 2018-10-10 ; Times: 158
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-16 ; Times: 5
+	Date: 2018-10-15 ; Times: 25
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8830" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:11226" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "Cacicus haemorrhous hastissue:1" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta stateprovince:&#34;British columbia&#34; country:&#34;canada&#34; hastissue:1" ; Times: 1
+	Query: "genus:Habia hastissue:1" ; Times: 1
+	Query: "catalognumber:23443 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:panayensis genus:aplonis" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:10354" ; Times: 4
+	Query: "locality:aleutians stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "Falco columbarius suckleyi" ; Times: 1
+	Query: "Muscisaxicola albifrons hastissue:1" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Pheucticus hastissue:1" ; Times: 1
+	Query: "genus:Ptilonorhynchus hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11947" ; Times: 1
+	Query: "catalognumber:23658 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:23774 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:8811" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11643" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:11745" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11742" ; Times: 1
+	Query: "genus:oxyura stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11855" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9172" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10834" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29464" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29465" ; Times: 1
+	Query: "Carduelis magellanica hastissue:1 country:peru" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9819" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10598" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29461" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29462" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29463" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10596" ; Times: 2
+	Query: "vntype:specimen specificepithet:nebulosa genus:strix (wing)" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29468" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29469" ; Times: 1
+	Query: "specificepithet:jamaicensis stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "catalognumber:23771 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:10885" ; Times: 1
+	Query: "catalognumber:20949 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11334" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:11332" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:9967" ; Times: 1
+	Query: "Elaenia albiceps hastissue:1 country:peru" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11233" ; Times: 1
+	Query: "family:Spheniscidae sex:Female institutioncode:UAM" ; Times: 2
+	Query: "Philydor" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8622" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:12012" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:12011" ; Times: 1
+	Query: "apus" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9896" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9897" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29460" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:12014" ; Times: 4
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:UAM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9899" ; Times: 1
+	Query: "genus: Hirundo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10045" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10043" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11735" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:10041" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11953" ; Times: 4
+	Query: "catalognumber:23108 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:35341 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:10824" ; Times: 3
+	Query: "specificepithet:satrapa genus:Regulus hastissue:1" ; Times: 1
+	Query: "G. torquatus skull" ; Times: 1
+	Query: "crustacean" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29453" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29452" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29455" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29454" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29457" ; Times: 1
+	Query: "specificepithet:canagica genus:Chen hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29459" ; Times: 1
+	Query: "catalognumber:23438 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:flavogaster genus:elaenia country:&#34;panama&#34;" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:23919" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10909" ; Times: 4
+	Query: "catalognumber:23437 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:10738" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:3298" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Basileuterus hastissue:1" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9038" ; Times: 1
+	Query: "Hirundo rustica hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29485" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3292" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3293" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3290" ; Times: 1
+	Query: "catalognumber:23775 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:35335 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3297" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3294" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3295" ; Times: 1
+	Query: "vntype:specimen family:Apodidae hastissue:1" ; Times: 2
+	Query: "catalognumber:23773 institutioncode:UAM" ; Times: 2
+	Query: "strix nebulosa" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9885" ; Times: 3
+	Query: "elephant bird" ; Times: 1
+	Query: "catalognumber:23106 institutioncode:UAM" ; Times: 2
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "Nectarinia jugularis hastissue:1" ; Times: 1
+	Query: "catalognumber:23491 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9347" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10031" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8931" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11122" ; Times: 2
+	Query: "genus:hirundo stateprovince:&#34;alaska&#34; year &gt;= 1938 year &lt;= 1938" ; Times: 1
+	Query: "Asthenes dorbignyi hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8935" ; Times: 3
+	Query: "mummy" ; Times: 1
+	Query: "catalognumber:23449 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11942" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:11943" ; Times: 1
+	Query: "locality:aleutian stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "catalognumber:23104 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9348" ; Times: 1
+	Query: "specificepithet:borealis genus:phylloscopus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:sallaei genus:Granatellus hastissue:1" ; Times: 1
+	Query: "specificepithet:venustus genus:Granatellus" ; Times: 1
+	Query: "Cygnus buccinator mappable:1" ; Times: 2
+	Query: "genus:Eutoxeres hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11647" ; Times: 5
+	Query: "catalognumber:23442 institutioncode:UAM" ; Times: 2
+	Query: "genus:Habia" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3283" ; Times: 1
+	Query: "catalognumber:23717 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3289" ; Times: 1
+	Query: "genus:Lophura hastissue:1" ; Times: 1
+	Query: "family:Spheniscidae sex:Male institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3280" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9021" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3282" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3285" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3284" ; Times: 1
+	Query: "Machaeropterus" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3286" ; Times: 1
+	Query: "catalognumber:20619 institutioncode:UAM" ; Times: 2
+	Query: "Knipolegus aterrimus hastissue:1 country:bolivia" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9868" ; Times: 3
+	Query: "A-26050" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10812" ; Times: 2
+	Query: "Columbina buckleyi" ; Times: 22
+	Query: "institutioncode:UAM catalognumber:8607" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:29484" ; Times: 1
+	Query: "Catamenia analis hastissue:1 country:peru" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8814" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9988" ; Times: 1
+	Query: "capito niger" ; Times: 20
+	Query: "institutioncode:UAM catalognumber:10814" ; Times: 4
+	Query: "bombus" ; Times: 1
+	Query: "sturnella magna hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11863" ; Times: 1
+	Query: "furnarius leucopus hastissue:1" ; Times: 2
+	Query: "catalognumber:23107 institutioncode:UAM" ; Times: 2
+	Query: "Manacus manacus" ; Times: 2
+	Query: "peregrine falcon" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:11794" ; Times: 1
+	Query: "genus:Calidris sex:female (Oviduct OR ova OR gravid OR follicle OR egg)" ; Times: 1
+	Query: "catalognumber:20698 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9906" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8847" ; Times: 1
+	Query: "Aix sponsa" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8842" ; Times: 1
+	Query: "catalognumber:35336 institutioncode:UAM" ; Times: 2
+	Query: "Apus pacificus" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10658" ; Times: 3
+	Query: "catalognumber:23487 institutioncode:UAM" ; Times: 2
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "catalognumber:23490 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:30194" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:11068" ; Times: 1
+	Query: "Thraupis bonariensis hastissue:1 country:peru" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10434" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:11973" ; Times: 2
+	Query: "aves apus" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "catalognumber:35337 institutioncode:UAM" ; Times: 2
+	Query: "minnesota Catharus guttatus guttatus" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:23920" ; Times: 1
+	Query: "Myiarchus tyrannulus hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11981" ; Times: 1
+	Query: "specificepithet:pileatus genus:chlorospingus hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11669" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11142" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29481" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11878" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta stateprovince:&#34;British columbia&#34; country:&#34;canada&#34; year &gt;= 1980 year &lt;= 2018 institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "22838" ; Times: 1
+	Query: "gyrfalcon" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11701" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29466" ; Times: 1
+	Query: "Pipreola" ; Times: 1
+	Query: "specificepithet:torquatus genus:Myioborus hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11782" ; Times: 1
+	Query: "vntype:specimen specificepithet:atacamensis genus:Cinclodes hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29467" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8859" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:10090" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9919" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10715" ; Times: 2
+	Query: "Nectarinia jugularis" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:11159" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10157" ; Times: 7
+	Query: "institutioncode:UAM catalognumber:8998" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11664" ; Times: 1
+	Query: "sula leucogaster" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:9548" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:3291" ; Times: 4
+	Query: "specificepithet:venustus genus:Granatellus hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10661" ; Times: 3
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis preparations:skin" ; Times: 1
+	Query: "rennell" ; Times: 1
+	Query: "specificepithet:panayensis genus:aplonis hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9206" ; Times: 1
+	Query: "family:Gaviidae locality:Kodiak" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:10009" ; Times: 1
+	Query: "limosa lapponica baueri" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11676" ; Times: 1
+	Query: "Dolichonyx oryzivorus hastissue:1" ; Times: 3
+	Query: "limosa fedoa sonora" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10644" ; Times: 1
+	Query: "institutioncode:uam psittacidae" ; Times: 2
+	Query: "Nothoprocta ornata" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8851" ; Times: 1
+	Query: "Aquila heliaca" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29456" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:30195" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9912" ; Times: 1
+	Query: "Dendragapus obscurus hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:murie year &gt;= 1955 year &lt;= 1955" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9648" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3300" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8862" ; Times: 3
+	Query: "Pipreola vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta stateprovince:&#34;British columbia&#34; country:&#34;canada&#34; year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11770" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:30196" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11205" ; Times: 2
+	Query: "specificepithet:rustica genus:hirundo locality:barrow stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "family:apodidae hastissue:1" ; Times: 5
+	Query: "catalognumber:23655 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:mauri genus:Calidris continent:South America" ; Times: 1
+	Query: "specificepithet:xanthogaster genus:euphonia hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11687" ; Times: 1
+	Query: "specificepithet:parellina genus:Cyanocompsa hastissue:1" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "catalognumber:31103 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:jamaicensis genus:buteo class:aves country:&#34;Canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9079" ; Times: 1
+	Query: "minnesota Catharus guttatus" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Thraupis cyanocephala hastissue:1 country:peru" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Geositta hastissue:1" ; Times: 2
+	Query: "specificepithet:melanocephalus genus:Myioborus hastissue:1" ; Times: 1
+	Query: "genus:Granatellus" ; Times: 1
+	Query: "catalognumber:31102 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:12604" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:10679" ; Times: 2
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29458" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10910" ; Times: 6
+	Query: "Falco cherrug" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9577" ; Times: 1
+	Query: "Apus apus" ; Times: 1
+	Query: "catalognumber:23492 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3299" ; Times: 1
+	Query: "Anairetes parulus hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9877" ; Times: 1
+	Query: "genus:aplonis hastissue:1" ; Times: 17
+	Query: "specificepithet:melanocephalus genus:Pheucticus hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9972" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:10073" ; Times: 1
+	Query: "catalognumber:23956 institutioncode:UAM" ; Times: 2
+	Query: "17776" ; Times: 1
+	Query: "catalognumber:30343 institutioncode:UAM" ; Times: 2
+	Query: "elaenia flavogaster" ; Times: 1
+	Query: "genus:Calidris sex:Female (Oviduct OR Ova OR gravid OR egg OR ovum OR follicle) institutioncode:UAM" ; Times: 1
+	Query: "Thryothorus sinaloa" ; Times: 2
+	Query: "habia rubica" ; Times: 1
+	Query: "genus:Calidris sex:Female preparations:Skeleton (Oviduct OR Ova OR gravid OR egg OR ovum OR follicle) institutioncode:UAM" ; Times: 1
+	Query: "furnarius leucopus" ; Times: 1
+	Query: "procellariiformes plastic" ; Times: 1
+	Query: "catalognumber:23656 institutioncode:UAM" ; Times: 2
+	Query: "rupicola" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9462" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:29488" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29489" ; Times: 1
+	Query: "Forpus coelestis" ; Times: 1
+	Query: "procellariiformes (plastic)" ; Times: 2
+	Query: "specificepithet:oenanthe genus:Oenanthe class:aves" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9464" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29482" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29483" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29480" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29486" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29487" ; Times: 1
+	Query: "Dendrocopos major kamtschaticus" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9343" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11933" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8801" ; Times: 1
+	Query: "vntype:specimen genus:Phrygilus hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11934" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9923" ; Times: 1
+	Query: "specificepithet:atacamensis genus:Cinclodes hastissue:1" ; Times: 1
+	Query: "pagophila" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9090" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9303" ; Times: 1
+	Query: "Chalybura" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29477" ; Times: 1
+	Query: "calidris tenuirostris" ; Times: 5
+	Query: "specificepithet:torquatus genus:myioborus hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:29479" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:11353" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10858" ; Times: 1
+	Query: "catalognumber:23657 institutioncode:UAM" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:29478" ; Times: 1
+	Query: "specificepithet:ciris genus:Passerina hastissue:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10890" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9327" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1300 download events in this period)
+Total number of records downloaded: 1175
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 20
+	Country: Belgium ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-23 ; Times: 6
+	Date: 2018-10-06 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-24 ; Times: 6
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Basileuterus hastissue:1" ; Times: 1
+	Query: "family:apodidae hastissue:1" ; Times: 1
+	Query: "genus:Picoides stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:atacamensis genus:Cinclodes hastissue:1" ; Times: 1
+	Query: "paulson" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Geositta hastissue:1" ; Times: 1
+	Query: "specificepithet:pileatus genus:chlorospingus hastissue:1" ; Times: 1
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "Columbina buckleyi" ; Times: 2
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:Regulus hastissue:1" ; Times: 1
+	Query: "genus:Calidris sex:Female preparations:Skeleton (Oviduct OR Ova OR gravid OR egg OR ovum OR follicle) institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "glaucis hirsutus" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "specificepithet:torquatus genus:myioborus hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:UAM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "genus: Hirundo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Paulson" ; Times: 1
+	Query: "Aquila heliaca" ; Times: 1
+	Query: "vntype:specimen class:Aves county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+
+
+End of report.
