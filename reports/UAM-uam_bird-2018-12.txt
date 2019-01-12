@@ -1,0 +1,197 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 155
+Number of records retrieved in searches: 1489
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Venezuela ; Times: 2
+	Country: India ; Times: 5
+	Country: France ; Times: 16
+	Country: United Kingdom ; Times: 51
+	Country: Spain ; Times: 4
+	Country: Peru ; Times: 3
+	Country: Nicaragua ; Times: 7
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-09 ; Times: 2
+	Date: 2018-12-28 ; Times: 3
+	Date: 2018-12-19 ; Times: 4
+	Date: 2018-12-18 ; Times: 8
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-16 ; Times: 2
+	Date: 2018-12-10 ; Times: 3
+	Date: 2018-12-13 ; Times: 4
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-20 ; Times: 8
+	Date: 2018-12-21 ; Times: 6
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-23 ; Times: 2
+	Date: 2018-12-25 ; Times: 3
+	Date: 2018-12-26 ; Times: 53
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-06 ; Times: 11
+	Date: 2018-12-07 ; Times: 6
+	Date: 2018-12-04 ; Times: 10
+	Date: 2018-12-05 ; Times: 8
+	Date: 2018-12-03 ; Times: 7
+	Date: 2018-12-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "beali specificepithet:leucorhoa class:aves locality:sitka stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "specificepithet:argentatus stateprovince:&#34;alaska&#34; year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "copepods" ; Times: 2
+	Query: "aplonis panayensis" ; Times: 2
+	Query: "Sylvia borin" ; Times: 5
+	Query: "Glaucidium brasilianum" ; Times: 11
+	Query: "Surnia ulula" ; Times: 1
+	Query: "Eos squamata" ; Times: 20
+	Query: "anthus rubescens hastissue:1" ; Times: 2
+	Query: "37809" ; Times: 1
+	Query: "picoides glacialis" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "junco liver" ; Times: 2
+	Query: "chloropipo" ; Times: 1
+	Query: "19926" ; Times: 1
+	Query: "Sterna paradisaea mappable:1" ; Times: 1
+	Query: "Gavia arctica mappable:1" ; Times: 1
+	Query: "otus sunia" ; Times: 3
+	Query: "cephalopod" ; Times: 1
+	Query: "specificepithet:minutilla stateprovince:&#34;alaska&#34; year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "passerella chilcatensis" ; Times: 2
+	Query: "Garrulus glandarius" ; Times: 1
+	Query: "specificepithet:minutilla stateprovince:&#34;alaska&#34; catalognumber:690" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "Rissa tridactyla mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "rallus limicola hastissue:1" ; Times: 1
+	Query: "eggshell" ; Times: 2
+	Query: "Sterna hirundo mappable:1" ; Times: 1
+	Query: "red fox tissue" ; Times: 1
+	Query: "Pipreola" ; Times: 2
+	Query: "genus:Ramphastos hassex:1 hasmass:1" ; Times: 1
+	Query: "Gavia immer mappable:1" ; Times: 1
+	Query: "aplonis hastissue:1" ; Times: 1
+	Query: "19477" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "34885" ; Times: 2
+	Query: "class:Aves country:&#34;Belize&#34; year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Aplonis panayensis panayensis hastissue:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Oregon&#34; hastissue:1" ; Times: 1
+	Query: "hylophilus ochraceiceps" ; Times: 1
+	Query: "Melanitta fusca mappable:1" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "Melanitta nigra mappable:1" ; Times: 1
+	Query: "Dickerman 4248" ; Times: 1
+	Query: "beaks" ; Times: 1
+	Query: "Paradisaea CM" ; Times: 1
+	Query: "pipreola" ; Times: 1
+	Query: "10379" ; Times: 1
+	Query: "north midden" ; Times: 4
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "genus:Philydor" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucotos genus:Dendrocopos" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Chalcopsitta duivenbodei" ; Times: 26
+	Query: "aplonis panayensis hastissue:1" ; Times: 2
+	Query: "Larus fuscus mappable:1" ; Times: 1
+	Query: "Larus ridibundus mappable:1" ; Times: 2
+	Query: "class:Aves country:&#34;Belize&#34; year &gt;= 2005 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Reindeer" ; Times: 1
+	Query: "Brachyramphus marmoratus mappable:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus country:&#34;Canada&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "specificepithet:leucorhoa class:aves locality:sitka stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:dominicensis genus:Icterus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:sordidulus stateprovince:&#34;alaska&#34; year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "tachyeres" ; Times: 1
+	Query: "Larus argentatus mappable:1" ; Times: 1
+	Query: "13139" ; Times: 1
+	Query: "Paradisaea cm" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Belize&#34; hastissue:1" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 809 download events in this period)
+Total number of records downloaded: 4250
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 9
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-17 ; Times: 6
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "chloropipo" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "otus sunia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "pipreola" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "class:Aves country:&#34;Belize&#34; hastissue:1" ; Times: 1
+
+
+End of report.
