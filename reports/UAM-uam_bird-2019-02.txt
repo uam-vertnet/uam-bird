@@ -1,0 +1,360 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 207
+Number of records retrieved in searches: 1242
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 67
+	Country: Brazil ; Times: 9
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: United States ; Times: 107
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-11 ; Times: 6
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-13 ; Times: 17
+	Date: 2019-02-12 ; Times: 27
+	Date: 2019-02-15 ; Times: 4
+	Date: 2019-02-17 ; Times: 5
+	Date: 2019-02-19 ; Times: 6
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-02 ; Times: 15
+	Date: 2019-02-03 ; Times: 8
+	Date: 2019-02-26 ; Times: 6
+	Date: 2019-02-27 ; Times: 5
+	Date: 2019-02-20 ; Times: 3
+	Date: 2019-02-07 ; Times: 10
+	Date: 2019-02-04 ; Times: 18
+	Date: 2019-02-05 ; Times: 23
+	Date: 2019-02-08 ; Times: 19
+	Date: 2019-02-09 ; Times: 3
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-01 ; Times: 9
+	Date: 2019-02-06 ; Times: 6
+	Date: 2019-02-21 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Tringa AND flavipes AND massing" ; Times: 1
+	Query: "gbifdatasetid:4852540d-afd1-4678-bd20-4aac28f65e2d" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "terns" ; Times: 1
+	Query: "genus:Tragopan hastissue:1" ; Times: 1
+	Query: "Anas OR Spatula AND clypeata AND massing" ; Times: 1
+	Query: "Myrmotherula surinamensis" ; Times: 2
+	Query: "Calidris AND minuta AND massing" ; Times: 1
+	Query: "Anas OR Mareca AND strepera AND massing" ; Times: 1
+	Query: "Cacatua hastissue:1" ; Times: 3
+	Query: "genus:Fratercula stateprovince:&#34;Alaska&#34; year &gt;= 2004 year &lt;= 2005" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "Anas AND acuta AND massing" ; Times: 1
+	Query: "Turdus albicollis mappable:1" ; Times: 1
+	Query: "specificepithet:macroura institutioncode:UAM" ; Times: 3
+	Query: "Tachyeres AND patachonicus AND massing" ; Times: 1
+	Query: "Egretta AND sacra AND massing" ; Times: 1
+	Query: "Tringa AND totanus AND massing" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 2
+	Query: "Anser AND albifrons AND massing" ; Times: 1
+	Query: "A 34615" ; Times: 1
+	Query: "specificepithet:alexandrae genus:Polytelis" ; Times: 1
+	Query: "family:Otididae hastissue:1" ; Times: 2
+	Query: "Numenius AND tahitiensis AND massing" ; Times: 1
+	Query: "Buteo AND lagopus AND massing" ; Times: 1
+	Query: "Cygnus AND olor AND massing" ; Times: 1
+	Query: "(body size)" ; Times: 4
+	Query: "Oxyura AND jamaicensis AND massing" ; Times: 1
+	Query: "Nothura maculosa" ; Times: 2
+	Query: "fossil bird" ; Times: 1
+	Query: "Accipiter AND gentilis AND massing" ; Times: 2
+	Query: "Dendroica OR Setophaga AND magnolia AND massing" ; Times: 1
+	Query: "Aythya AND collaris AND massing" ; Times: 1
+	Query: "specificepithet:canorus genus:Cuculus" ; Times: 2
+	Query: "Zoothera sibirica" ; Times: 1
+	Query: "Anas OR Spatula AND cyanoptera AND massing" ; Times: 1
+	Query: "Somateria AND mollissima AND massing" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "Aythya AND valisineria AND massing" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 4
+	Query: "specificepithet:viridicata genus:Myiopagis" ; Times: 3
+	Query: "Tachyeres leucocephalus" ; Times: 2
+	Query: "Oenanthe hastissue:1" ; Times: 2
+	Query: "specificepithet:pacificus genus:apus family:apodidae hastissue:1" ; Times: 1
+	Query: "Anas OR Mareca AND americana AND massing" ; Times: 1
+	Query: "Limosa AND fedoa AND massing" ; Times: 1
+	Query: "Buteo AND regalis AND massing" ; Times: 1
+	Query: "genus:Taeniopygia basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "Ardea OR Casmerodius OR Egretta AND alba OR albus AND massing" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius" ; Times: 1
+	Query: "genus:Claravis preparations:wing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND dominica AND massing" ; Times: 1
+	Query: "specificepithet:pacificus genus:apus" ; Times: 1
+	Query: "17499" ; Times: 1
+	Query: "Corvus corax principalis mappable:1" ; Times: 1
+	Query: "specificepithet:prasina genus:erythrura class:aves" ; Times: 2
+	Query: "Numenius AND phaeopus AND massing" ; Times: 1
+	Query: "leucopareia" ; Times: 1
+	Query: "Anas AND carolinensis OR crecca AND massing" ; Times: 1
+	Query: "Cygnus AND buccinator AND massing" ; Times: 1
+	Query: "Circus AND hudsonius OR cyaneus AND massing" ; Times: 1
+	Query: "Parabuteo AND unicinctus AND massing" ; Times: 1
+	Query: "aplonis panayensis hastissue:1" ; Times: 1
+	Query: "polytelis alexandrae" ; Times: 4
+	Query: "Aythya AND americana AND massing" ; Times: 1
+	Query: "genus:Fratercula year &gt;= 2004 year &lt;= 2005" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 2
+	Query: "27799" ; Times: 1
+	Query: "body size" ; Times: 7
+	Query: "genus:Parus country:(Russia)" ; Times: 1
+	Query: "Conopias cinchoneti" ; Times: 2
+	Query: "body mass bird" ; Times: 1
+	Query: "&#34;Nycticorax nycticorax&#34; AND massing" ; Times: 1
+	Query: "genus:Taeniopygia haslifestage:1 hassex:1" ; Times: 1
+	Query: "Automolus rufipileatus" ; Times: 1
+	Query: "Bucephala islandica AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND virens AND massing" ; Times: 1
+	Query: "specificepithet:pacificus genus:apus hastissue:1" ; Times: 1
+	Query: "aleutian tern" ; Times: 3
+	Query: "Aramides cajanea mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:aurita genus:conopophaga (skeleton)" ; Times: 1
+	Query: "Granatellus venustus venustus" ; Times: 1
+	Query: "31887" ; Times: 2
+	Query: "Certhia americana alascensis mappable:1" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 2
+	Query: "Aythya AND affinis AND massing" ; Times: 1
+	Query: "Colaptes cafer cafer mappable:1" ; Times: 1
+	Query: "tachyeres patachonicus" ; Times: 1
+	Query: "specificepithet:ruber genus:Sphyrapicus institutioncode:UAM" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "Somateria AND spectabilis AND massing" ; Times: 1
+	Query: "Egretta AND garzetta AND massing" ; Times: 1
+	Query: "bonthaina" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "Cyclarhis gujanensis mappable:1" ; Times: 1
+	Query: "Corvus corax kamtschaticus mappable:1" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 2
+	Query: "skeleton vntype:specimen specificepithet:polyglottos genus:mimus" ; Times: 1
+	Query: "genus:Eupodotis senegalensis hastissue:1" ; Times: 1
+	Query: "Dendroica OR Setophaga AND townsendi AND massing" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "Forpus xanthops" ; Times: 1
+	Query: "Anas OR Spatula AND discors AND massing" ; Times: 1
+	Query: "specificepithet:saxicolina genus:geositta" ; Times: 1
+	Query: "30254 class:AVES" ; Times: 1
+	Query: "Anas OR Mareca AND penelope AND massing" ; Times: 1
+	Query: "Cygnus AND columbianus AND massing" ; Times: 1
+	Query: "Bubulcus AND ibis AND massing" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "family:Spheniscidae lifestage:Ad sex:Male preparations:Skeleton institutioncode:UAM" ; Times: 1
+	Query: "Tringa AND solitaria AND massing" ; Times: 1
+	Query: "35018 aves" ; Times: 1
+	Query: "north toe river" ; Times: 1
+	Query: "ammodramus aurifrons" ; Times: 2
+	Query: "genus:chaetura family:apodidae hastissue:1" ; Times: 1
+	Query: "Syndactyla subalaris" ; Times: 1
+	Query: "Calidris AND canutus AND massing" ; Times: 1
+	Query: "Bucephala AND albeola AND massing" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 2
+	Query: "Vermivora AND cyanoptera OR pinus AND massing" ; Times: 1
+	Query: "vntype:specimen specificepithet:peruviana genus:conopophaga (skeleton)" ; Times: 1
+	Query: "Limnodromus AND griseus AND massing" ; Times: 1
+	Query: "Arenaria AND interpres AND massing" ; Times: 1
+	Query: "Bucephala AND clangula AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND tigrina AND massing" ; Times: 1
+	Query: "Anas AND undulata AND massing" ; Times: 1
+	Query: "genus:Eupodotis hastissue:1" ; Times: 1
+	Query: "Numenius tahitiensis" ; Times: 2
+	Query: "specificepithet:prasina genus:erythrura class:aves year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Calidris AND bairdii AND massing" ; Times: 1
+	Query: "family:Spheniscidae sex:Female preparations:Skeleton institutioncode:UAM" ; Times: 1
+	Query: "genus:Amazilia country:&#34;Belize&#34;" ; Times: 3
+	Query: "30254" ; Times: 1
+	Query: "Tringa AND nebularia AND massing" ; Times: 1
+	Query: "Butterfly" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina leclancherii" ; Times: 1
+	Query: "genus:apus family:apodidae hastissue:1" ; Times: 1
+	Query: "family:Spheniscidae sex:Female (Oviduct OR Ova OR gravid OR egg OR ovum OR follicle)" ; Times: 1
+	Query: "Melanitta americana" ; Times: 1
+	Query: "Bucephala AND islandica AND massing" ; Times: 1
+	Query: "mitkof island order:strigiformes class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Ardea AND cinerea AND massing" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Geositta hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyglottos genus:mimus (skeleton)" ; Times: 1
+	Query: "mitkof island class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "country:(Tajikistan)" ; Times: 1
+	Query: "Melanitta AND perspicillata AND massing" ; Times: 1
+	Query: "family:Spheniscidae sex:Female preparations:Skeleton (Oviduct OR Ova OR gravid OR egg OR ovum OR follicle)" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos (skeleton)" ; Times: 1
+	Query: "13463" ; Times: 1
+	Query: "specificepithet:parellina indigotica genus:Cyanocompsa" ; Times: 1
+	Query: "specificepithet:roseogularis genus:Piranga sex:female" ; Times: 1
+	Query: "specificepithet:owstoni genus:gallirallus" ; Times: 1
+	Query: "admiralty island order:strigiformes stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Fratercula year &gt;= 2004 year &lt;= 2005 institutioncode:UAM" ; Times: 2
+	Query: "mitkof island order:accipitriformes class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:pacificus genus:apus institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "Ardea AND herodias AND massing" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 116 (out of 1227 download events in this period)
+Total number of records downloaded: 2045
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 99
+	Country: United States ; Times: 11
+	Country: Israel ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 14
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-11 ; Times: 5
+	Date: 2019-02-03 ; Times: 8
+	Date: 2019-02-13 ; Times: 8
+	Date: 2019-02-12 ; Times: 29
+	Date: 2019-02-06 ; Times: 5
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-05 ; Times: 30
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 9
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "Tringa AND flavipes AND massing" ; Times: 1
+	Query: "Calidris AND alba AND massing" ; Times: 1
+	Query: "Vermivora OR Leiothlypis OR Oreothlypis AND peregrina AND massing" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "Anser AND massing" ; Times: 1
+	Query: "Buteo AND platypterus AND massing" ; Times: 1
+	Query: "Anas OR Spatula AND clypeata AND massing" ; Times: 1
+	Query: "Calidris AND minuta AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND pensylvanica AND massing" ; Times: 1
+	Query: "Anas OR Mareca AND strepera AND massing" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Anas AND acuta AND massing" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "Tachyeres AND patachonicus AND massing" ; Times: 1
+	Query: "Buteo AND swainsoni AND massing" ; Times: 1
+	Query: "Anser OR Chen AND caerulescens AND massing" ; Times: 1
+	Query: "Tringa AND totanus AND massing" ; Times: 1
+	Query: "Anser AND albifrons AND massing" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Dendroica OR Setophaga AND pinus AND massing" ; Times: 1
+	Query: "Bubulcus AND ibis AND massing" ; Times: 1
+	Query: "Numenius AND tahitiensis AND massing" ; Times: 1
+	Query: "Buteo AND lagopus AND massing" ; Times: 1
+	Query: "Cygnus AND olor AND massing" ; Times: 1
+	Query: "Oxyura AND jamaicensis AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND magnolia AND massing" ; Times: 1
+	Query: "Aythya AND collaris AND massing" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "Anas OR Spatula AND cyanoptera AND massing" ; Times: 1
+	Query: "Somateria AND mollissima AND massing" ; Times: 1
+	Query: "Vermivora OR Leiothlypis OR Oreothlypis AND celata AND massing" ; Times: 1
+	Query: "specificepithet:viridicata genus:Myiopagis" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Calidris AND minutilla AND massing" ; Times: 1
+	Query: "Limosa AND fedoa AND massing" ; Times: 1
+	Query: "Buteo AND regalis AND massing" ; Times: 1
+	Query: "genus:Taeniopygia basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "Ardea OR Casmerodius OR Egretta AND alba OR albus AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND dominica AND massing" ; Times: 1
+	Query: "Anas AND platyrhynchos AND massing" ; Times: 1
+	Query: "specificepithet:pertinax genus:aratinga" ; Times: 1
+	Query: "Calidris AND alpina AND massing" ; Times: 1
+	Query: "Numenius AND phaeopus AND massing" ; Times: 1
+	Query: "Anas AND carolinensis OR crecca AND massing" ; Times: 1
+	Query: "Cygnus AND buccinator AND massing" ; Times: 1
+	Query: "Circus AND hudsonius OR cyaneus AND massing" ; Times: 1
+	Query: "Parabuteo AND unicinctus AND massing" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "Aythya AND americana AND massing" ; Times: 1
+	Query: "Anser OR Chen AND rossii AND massing" ; Times: 1
+	Query: "Calidris AND mauri AND massing" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Parula americana AND massing" ; Times: 1
+	Query: "Calidris AND pusilla AND massing" ; Times: 1
+	Query: "&#34;Nycticorax nycticorax&#34; AND massing" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "Mniotilta AND varia AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND virens AND massing" ; Times: 1
+	Query: "Vermivora OR Leiothlypis OR Oreothlypis AND ruficapilla AND massing" ; Times: 1
+	Query: "Granatellus venustus venustus" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "Aythya AND affinis AND massing" ; Times: 1
+	Query: "Parula OR Dendroica OR Setophaga AND americana AND massing" ; Times: 1
+	Query: "Geothlypis AND trichas AND massing" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "Somateria AND spectabilis AND massing" ; Times: 1
+	Query: "Egretta AND garzetta AND massing" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:polyglottos genus:mimus" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "Dendroica OR Setophaga AND townsendi AND massing" ; Times: 1
+	Query: "specificepithet:parellina indigotica genus:Cyanocompsa" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "Anas OR Spatula AND discors AND massing" ; Times: 1
+	Query: "specificepithet:saxicolina genus:geositta" ; Times: 1
+	Query: "Anas OR Mareca AND penelope AND massing" ; Times: 1
+	Query: "Cygnus AND columbianus AND massing" ; Times: 1
+	Query: "Aythya AND valisineria AND massing" ; Times: 1
+	Query: "Accipiter AND gentilis AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND ruticilla AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND caerulescens AND massing" ; Times: 1
+	Query: "Tringa AND solitaria AND massing" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "Anas AND rubripes AND massing" ; Times: 1
+	Query: "Bucephala AND albeola AND massing" ; Times: 1
+	Query: "Melanitta AND perspicillata AND massing" ; Times: 1
+	Query: "Vermivora AND cyanoptera OR pinus AND massing" ; Times: 1
+	Query: "Limnodromus AND griseus AND massing" ; Times: 1
+	Query: "Arenaria AND interpres AND massing" ; Times: 1
+	Query: "Bucephala AND clangula AND massing" ; Times: 1
+	Query: "Egretta AND sacra AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND tigrina AND massing" ; Times: 1
+	Query: "Anas AND undulata AND massing" ; Times: 1
+	Query: "Aquila AND chrysaetos AND massing" ; Times: 1
+	Query: "Calidris AND bairdii AND massing" ; Times: 1
+	Query: "Anas OR Mareca AND americana AND massing" ; Times: 1
+	Query: "Tringa AND nebularia AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND coronata OR auduboni AND massing" ; Times: 1
+	Query: "Buteo AND jamaicensis AND massing" ; Times: 1
+	Query: "Bucephala AND islandica AND massing" ; Times: 1
+	Query: "Ardea AND cinerea AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND petechia OR aestiva AND massing" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyglottos genus:mimus (skeleton)" ; Times: 1
+	Query: "Branta AND canadensis OR hutchinsii AND massing" ; Times: 1
+	Query: "vntype:specimen specificepithet:militaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dendroica OR Setophaga AND castanea AND massing" ; Times: 1
+	Query: "Butorides AND virescens OR striata AND massing" ; Times: 1
+	Query: "specificepithet:roseogularis genus:Piranga sex:female" ; Times: 1
+	Query: "specificepithet:owstoni genus:gallirallus" ; Times: 1
+	Query: "specificepithet:philippensis genus:gallirallus" ; Times: 2
+	Query: "Calidris AND maritima AND massing" ; Times: 1
+	Query: "Ardea AND herodias AND massing" ; Times: 1
+
+
+End of report.
