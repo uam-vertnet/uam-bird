@@ -1,0 +1,253 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 1727
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 4
+	Country: France ; Times: 3
+	Country: Slovakia ; Times: 1
+	Country: Norway ; Times: 5
+	Country: Ecuador ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Netherlands ; Times: 9
+	Country: Denmark ; Times: 16
+	Country: Philippines ; Times: 2
+	Country: Indonesia ; Times: 3
+	Country: United States ; Times: 114
+	Country: Sweden ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 22
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-27 ; Times: 12
+	Date: 2019-03-26 ; Times: 11
+	Date: 2019-03-25 ; Times: 6
+	Date: 2019-03-24 ; Times: 2
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 2
+	Date: 2019-03-20 ; Times: 5
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 4
+	Date: 2019-03-06 ; Times: 29
+	Date: 2019-03-01 ; Times: 11
+	Date: 2019-03-29 ; Times: 4
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-15 ; Times: 15
+	Date: 2019-03-30 ; Times: 11
+	Date: 2019-03-31 ; Times: 9
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-18 ; Times: 4
+	Date: 2019-03-19 ; Times: 10
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-17 ; Times: 10
+	Date: 2019-03-14 ; Times: 16
+	Date: 2019-03-28 ; Times: 11
+	Date: 2019-03-12 ; Times: 7
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "14111 institutioncode:UAM" ; Times: 1
+	Query: "corvus caurinus" ; Times: 2
+	Query: "LSUMZ" ; Times: 3
+	Query: "genus:Aechmophorus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Manacus candei" ; Times: 1
+	Query: "Manacus candei year &gt;= 1990 NOT clo" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "Columbina minuta hastissue:1" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "Corvus corone" ; Times: 1
+	Query: "genus:Amazona hassex:1 hastissue:1" ; Times: 1
+	Query: "glaucidium brasilianum year &gt; 1985" ; Times: 2
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "specificepithet:dorbignyi genus:Asthenes class:Aves hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Gygis hastissue:1" ; Times: 1
+	Query: "family:Bucconidae preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 3
+	Query: "specificepithet:rothschildi class:Aves hastissue:1" ; Times: 1
+	Query: "bonasa umbellus institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "Corvus splendens" ; Times: 3
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 1
+	Query: "Sturnella magna month &gt;= 4 month &lt;= 6 hastissue:1" ; Times: 1
+	Query: "Poecile hudsonica" ; Times: 1
+	Query: "specificepithet:corone orientalis genus:Corvus family:Corvidae order:Passeriformes class:Aves" ; Times: 2
+	Query: "12219" ; Times: 1
+	Query: "Skeleton genus:Thinocorus order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 2
+	Query: "Egretta garzetta year &gt; 1990 NOT clo" ; Times: 1
+	Query: "family:Otididae hastissue:1" ; Times: 3
+	Query: "specificepithet:canadensis genus:Perisoreus hastissue:1" ; Times: 1
+	Query: "specificepithet:aymara class:Aves country:&#34;Bolivia&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer stateprovince:&#34;alaska&#34; year &gt;= 2005 year &lt;= 2009" ; Times: 1
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "corvus macrorhynchos" ; Times: 1
+	Query: "Enicognathus leptorhynchus" ; Times: 2
+	Query: "calandrella cheleensis year &gt; 1990" ; Times: 2
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "specificepithet:ochotensis genus:Locustella" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "family:Galbulidae preparations:skeleton" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "genus:Cuculus hastissue:1" ; Times: 1
+	Query: "Butterfly" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Mimus polyglottos hasmass:1" ; Times: 4
+	Query: "Threnetes niger" ; Times: 7
+	Query: "Passerina ciris hasmass:1" ; Times: 3
+	Query: "pyrrhula" ; Times: 1
+	Query: "Skeleton genus:Rhodostethia order:Charadriiformes class:Aves AND (NOT juvenile)" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 2
+	Query: "specificepithet:domesticus genus:passer stateprovince:&#34;alaska&#34; year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "Pitta hastissue:1" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 5
+	Query: "Chauna torquata year &gt; 1990 NOT clo" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "vntype:specimen genus:Rynchops hastissue:1" ; Times: 1
+	Query: "Nyctidromus albicollis hastissue:1" ; Times: 1
+	Query: "Manacus candei year &gt;= 1990" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "class:aves recordedby:morlan" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 1
+	Query: "Aptenodytes" ; Times: 1
+	Query: "vntype:specimen order:Charadriiformes class:Aves (Skeleton) institutioncode:UAM" ; Times: 4
+	Query: "Xenops mexicanus" ; Times: 1
+	Query: "Conopias cinchoneti" ; Times: 2
+	Query: "13871" ; Times: 1
+	Query: "Lorius garrulus" ; Times: 1
+	Query: "33977" ; Times: 1
+	Query: "Icterus chrysater" ; Times: 4
+	Query: "Turdus migratorius hasmass:1" ; Times: 1
+	Query: "Phylloscopus borealis" ; Times: 1
+	Query: "genus:Crotophaga preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Philippine bird specimens in uam" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "catalognumber:648 institutioncode:UAM" ; Times: 2
+	Query: "genus:Rollandia institutioncode:UAM basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Centropus hastissue:1" ; Times: 1
+	Query: "Oenanthe pleschanka" ; Times: 2
+	Query: "genus:bonasa hastissue:1" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "thinocorus orbignyianus year &gt; 1985" ; Times: 1
+	Query: "specificepithet:citrinella genus:Emberiza hastissue:1" ; Times: 2
+	Query: "Forpus xanthops" ; Times: 2
+	Query: "specificepithet:virginianus genus:bubo hastissue:1" ; Times: 2
+	Query: "specimens of Alcedo from the Philippines" ; Times: 1
+	Query: "genus:Poliocephalus institutioncode:UAM basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Uropsila" ; Times: 2
+	Query: "37157" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer stateprovince:&#34;alaska&#34; year &gt;= 1987 year &lt;= 1993" ; Times: 1
+	Query: "Red wing black bird" ; Times: 1
+	Query: "15384" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer stateprovince:&#34;alaska&#34; year &gt;= 1993 year &lt;= 1993" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "PHOENICOPTERUS RUBER" ; Times: 2
+	Query: "black bear" ; Times: 1
+	Query: "Chloroceryle aenea year &gt; 1990 NOT clo" ; Times: 1
+	Query: "genus:Eupodotis hastissue:1" ; Times: 5
+	Query: "specificepithet:ruficapillus class:Aves hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Anous hastissue:1" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Alaska" ; Times: 4
+	Query: "specificepithet:corone genus:Corvus family:Corvidae order:Passeriformes class:Aves" ; Times: 1
+	Query: "21113" ; Times: 1
+	Query: "12218" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 3
+	Query: "Aquila chrysaetos year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Cyanocitta cristata hasmass:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus year &gt; 1990 NOT clo" ; Times: 2
+	Query: "Geothlypis poliocephala" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Minnesota" ; Times: 4
+	Query: "vntype:specimen specificepithet:aleutica genus:Sterna hastissue:1" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Massachusetts" ; Times: 4
+	Query: "Hippolais icterina year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Skeleton genus:Limicola order:Charadriiformes class:Aves" ; Times: 1
+	Query: "marmot institutioncode:UAM" ; Times: 1
+	Query: "14112 institutioncode:UAM" ; Times: 1
+	Query: "genus:Eupodotis" ; Times: 1
+	Query: "catalognumber:509 institutioncode:UAM" ; Times: 1
+	Query: "Larus dominicanus mappable:1" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Dendrocincla homochroa" ; Times: 1
+	Query: "Poecile rufescens" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "chauna torquata year &gt; 1985" ; Times: 1
+	Query: "urchin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1281 download events in this period)
+Total number of records downloaded: 684
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: United Kingdom ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 2
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 3
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-01 ; Times: 5
+	Date: 2019-03-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "Lorius garrulus" ; Times: 1
+	Query: "family:Picidae" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen family:trochilidae (alcohol OR alc)" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 1
+	Query: "Centropus hastissue:1" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hasmass:1" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene hastissue:1" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Enicognathus leptorhynchus" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "genus:Amazona hassex:1 hastissue:1" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "corvus macrorhynchos" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+
+
+End of report.
