@@ -1,0 +1,453 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 402
+Number of records retrieved in searches: 4721
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 3
+	Country: Chile ; Times: 15
+	Country: Hong Kong ; Times: 2
+	Country: Belgium ; Times: 32
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 305
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 20
+	Date: 2019-06-21 ; Times: 10
+	Date: 2019-06-24 ; Times: 7
+	Date: 2019-06-25 ; Times: 3
+	Date: 2019-06-08 ; Times: 16
+	Date: 2019-06-09 ; Times: 3
+	Date: 2019-06-06 ; Times: 23
+	Date: 2019-06-07 ; Times: 9
+	Date: 2019-06-04 ; Times: 15
+	Date: 2019-06-05 ; Times: 11
+	Date: 2019-06-02 ; Times: 7
+	Date: 2019-06-03 ; Times: 7
+	Date: 2019-06-01 ; Times: 5
+	Date: 2019-06-26 ; Times: 4
+	Date: 2019-06-27 ; Times: 2
+	Date: 2019-06-28 ; Times: 15
+	Date: 2019-06-29 ; Times: 6
+	Date: 2019-06-19 ; Times: 5
+	Date: 2019-06-18 ; Times: 29
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-15 ; Times: 4
+	Date: 2019-06-14 ; Times: 3
+	Date: 2019-06-17 ; Times: 5
+	Date: 2019-06-16 ; Times: 10
+	Date: 2019-06-11 ; Times: 135
+	Date: 2019-06-10 ; Times: 26
+	Date: 2019-06-13 ; Times: 7
+	Date: 2019-06-12 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Aix" ; Times: 1
+	Query: "class:Aves catalognumber:24126 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "genus:Sterna specificepithet:dougallii" ; Times: 1
+	Query: "specificepithet:pubescens class:aves stateprovince:&#34;alaska&#34; year &gt;= 1962 year &lt;= 1964" ; Times: 1
+	Query: "specificepithet:pacifica class:aves stateprovince:&#34;alaska&#34; year &gt;= 1935 year &lt;= 1935" ; Times: 1
+	Query: "genus:Cuculus specificepithet:canorus" ; Times: 1
+	Query: "genus:Tyranneutes specificepithet:stolzmanni" ; Times: 1
+	Query: "genus:Uria specificepithet:lomvia" ; Times: 1
+	Query: "genus:Contopus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1989 year &lt;= 1989" ; Times: 1
+	Query: "anthus rubescens hastissue:1" ; Times: 2
+	Query: "specificepithet:flammeus class:aves locality:lawrence stateprovince:&#34;alaska&#34; year &gt;= 1973 year &lt;= 1973" ; Times: 1
+	Query: "Red fox continent:North America (red fox)" ; Times: 1
+	Query: "specificepithet:stellata class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "class:Aves catalognumber:9465 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;alaska&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "13939" ; Times: 1
+	Query: "genus:Leptotila specificepithet:cassini" ; Times: 1
+	Query: "genus:Phalacrocorax skull" ; Times: 4
+	Query: "10691" ; Times: 1
+	Query: "genus:Podiceps specificepithet:nigricollis" ; Times: 1
+	Query: "genus:Euphagus class:aves locality:gambell stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:rausch AND (NOT USNM NOT MCZ)" ; Times: 1
+	Query: "genus:Phalaropus specificepithet:lobatus" ; Times: 1
+	Query: "locality:midway atoll country:&#34;united states&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:2496 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Pycnonotus cafer" ; Times: 5
+	Query: "genus:Alle specificepithet:alle" ; Times: 1
+	Query: "class:Aves catalognumber:19498 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Garth AND Island NOT Australia" ; Times: 1
+	Query: "genus:Phasianus" ; Times: 1
+	Query: "class:Aves catalognumber:9690 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Catoptrophorus semipalmatus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Cissa specificepithet:chinensis" ; Times: 1
+	Query: "genus:Dacelo specificepithet:novaeguineae" ; Times: 1
+	Query: "&#34;arctic health&#34; class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Garth AND Island NOT Australia NOT Partida" ; Times: 1
+	Query: "genus:Lanius specificepithet:excubitor" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "specificepithet:rustica class:aves stateprovince:&#34;alaska&#34; year &gt;= 1950 year &lt;= 1950" ; Times: 1
+	Query: "genus:Euphagus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Emberiza aureola" ; Times: 1
+	Query: "Amazilia leucogaster" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia hastissue:1" ; Times: 1
+	Query: "specificepithet:sabini class:aves stateprovince:&#34;alaska&#34; year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "vntype:specimen specificepithet:ustulatus genus:Catharus stateprovince:&#34;british columbia&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "genus:Merops specificepithet:pusillus" ; Times: 1
+	Query: "specificepithet:riparia class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte (&#34;liver&#34;)" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 1
+	Query: "class:Aves catalognumber:15767 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "zosterops palpebrosus hastissue:1" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte hastissue:1" ; Times: 1
+	Query: "genus:Neophema specificepithet:Bourkii" ; Times: 1
+	Query: "specificepithet:oenanthe class:aves stateprovince:&#34;alaska&#34; year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "genus:Poicephalus specificepithet:meyeri" ; Times: 1
+	Query: "specificepithet:fuscicauda genus:Habia year &gt;= 1960" ; Times: 2
+	Query: "genus:Psephotus specificepithet:varius" ; Times: 1
+	Query: "genus:Tachyeres specificepithet:brachypterus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:rausch AND (NOT USNM NOT MVZ)" ; Times: 2
+	Query: "specificepithet:serripennis genus:stelgidopteryx stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "specificepithet:funereus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1951 year &lt;= 1952" ; Times: 1
+	Query: "genus:Dendrocopos specificepithet:major" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga stateprovince:&#34;Wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Aythya specificepithet:fuligula" ; Times: 1
+	Query: "class:Aves catalognumber:9818 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 1
+	Query: "genus:Spheniscus specificepithet:humboldti" ; Times: 1
+	Query: "catalognumber:31015 institutioncode:UAM" ; Times: 1
+	Query: "genus:Dendrocygna specificepithet:autumnalis" ; Times: 1
+	Query: "Basileuterus culicivorus" ; Times: 1
+	Query: "genus:Selasphorus specificepithet:rufus" ; Times: 1
+	Query: "genus:Picoides specificepithet:villosus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:3552 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:borealis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1953 year &lt;= 1953" ; Times: 1
+	Query: "musk ox" ; Times: 2
+	Query: "invertebrates" ; Times: 1
+	Query: "genus:Pipra specificepithet:pipra" ; Times: 1
+	Query: "genus:Crypturellus specificepithet:cinnamomeus" ; Times: 1
+	Query: "class:Aves catalognumber:10496 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Aves catalognumber:10497 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Haematopus specificepithet:ostralegus" ; Times: 1
+	Query: "specificepithet:peregrinus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Tyrannus specificepithet:verticalis" ; Times: 1
+	Query: "genus:Aethia specificepithet:pusilla" ; Times: 1
+	Query: "genus:Cyanocorax specificepithet:yncas" ; Times: 1
+	Query: "Sterna hirundo mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Pyrocephalus rubinus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Aegithalos specificepithet:caudatus" ; Times: 1
+	Query: "genus:Cygnus specificepithet:columbianus" ; Times: 1
+	Query: "Puffinus griseus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "class:Aves catalognumber:24649 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:erythrinus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1989 year &lt;= 1989" ; Times: 1
+	Query: "Garth AND Island" ; Times: 1
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 1
+	Query: "specificepithet:acadicus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1972 year &lt;= 1972" ; Times: 1
+	Query: "genus:Calandrella specificepithet:cheleensis" ; Times: 1
+	Query: "phoenicopteridae" ; Times: 1
+	Query: "genus:Arenaria specificepithet:melanocephala" ; Times: 1
+	Query: "genus:Charadrius specificepithet:hiaticula" ; Times: 1
+	Query: "specificepithet:hyemalis class:aves locality:gambell stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:33884 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "genus:Momotus specificepithet:momota" ; Times: 1
+	Query: "genus:Cygnus specificepithet:buccinator" ; Times: 1
+	Query: "specificepithet:canus genus:larus class:aves stateprovince:&#34;alaska&#34; year &gt;= 2007 year &lt;= 2007" ; Times: 1
+	Query: "tetrao" ; Times: 1
+	Query: "leptopogon peruvianus" ; Times: 1
+	Query: "specificepithet:pubescens class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Gallinula chloropus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Anthus trivialis" ; Times: 1
+	Query: "class:Aves catalognumber:15770 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Corvus specificepithet:corax" ; Times: 1
+	Query: "genus:Melanoptila specificepithet:glabrirostris" ; Times: 1
+	Query: "genus:Chordeiles specificepithet:acutipennis" ; Times: 1
+	Query: "genus:Apus specificepithet:apus" ; Times: 1
+	Query: "genus:Actitis specificepithet:hypoleucos" ; Times: 1
+	Query: "specificepithet:domesticus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1993 year &lt;= 1993" ; Times: 1
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "Aphriza virgata mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Riparia riparia mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Branta specificepithet:canadensis" ; Times: 1
+	Query: "specificepithet:canus genus:larus class:aves stateprovince:&#34;alaska&#34; year &gt;= 2007 year &lt;= 2007 institutioncode:UAM" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "specificepithet:ochotensis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1979 year &lt;= 1979" ; Times: 1
+	Query: "genus:Cathartes" ; Times: 1
+	Query: "genus:Tyto" ; Times: 1
+	Query: "genus:Aptenodytes specificepithet:forsteri" ; Times: 1
+	Query: "specificepithet:surinamensis genus:Myrmotherula hastissue:1" ; Times: 1
+	Query: "genus:Passerella class:aves locality:island stateprovince:&#34;alaska&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "class:Aves catalognumber:15769 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Forpus specificepithet:passerinus" ; Times: 1
+	Query: "genus:Mergus specificepithet:serrator" ; Times: 1
+	Query: "Charadrius semipalmatus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 1
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 1
+	Query: "carex" ; Times: 1
+	Query: "locality:Midway atoll" ; Times: 1
+	Query: "class:aves locality:amchitka" ; Times: 1
+	Query: "25978" ; Times: 1
+	Query: "genus:Phalacrocorax   specificepithet:auritus" ; Times: 1
+	Query: "black bear" ; Times: 3
+	Query: "genus:Protonotaria specificepithet:citrea" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "specificepithet:tyrannina genus:Cercomacra hastissue:1" ; Times: 1
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 1
+	Query: "specificepithet:rubripes genus:Anas class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:32210" ; Times: 2
+	Query: "genus:Psittacula specificepithet:krameri" ; Times: 1
+	Query: "genus:Pinicola specificepithet:enucleator" ; Times: 1
+	Query: "genus:Ptychoramphus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:Formicarius specificepithet:analis" ; Times: 1
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 1
+	Query: "specificepithet:flammea class:aves stateprovince:&#34;alaska&#34; year &gt;= 1950 year &lt;= 1950" ; Times: 1
+	Query: "Pluvialis dominica mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Platycercus specificepithet:adscitus" ; Times: 1
+	Query: "genus:Halcyon specificepithet:leucocephala" ; Times: 1
+	Query: "genus:Vanellus specificepithet:miles" ; Times: 1
+	Query: "class:Aves catalognumber:10640 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 1
+	Query: "specificepithet:niger genus:Cypseloides stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Polytelis specificepithet:alexandrae" ; Times: 1
+	Query: "genus:Aegolius specificepithet:acadicus" ; Times: 1
+	Query: "genus:Pipra specificepithet:chloromeros" ; Times: 1
+	Query: "genus:Circus specificepithet:cyaneus" ; Times: 1
+	Query: "specificepithet:pusilla class:aves stateprovince:&#34;alaska&#34; year &gt;= 1972 year &lt;= 1972" ; Times: 1
+	Query: "catalognumber:37434" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Garth AND Island NOT Australia NOT Partida NOT Underwood NOT Auffenberg" ; Times: 1
+	Query: "specificepithet:vauxi genus:chaetura stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;british columbia&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Oxyura jamaicensis mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Scolopax specificepithet:rusticola" ; Times: 1
+	Query: "genus:junco class:aves stateprovince:&#34;alaska&#34; year &gt;= 1961 year &lt;= 1961" ; Times: 1
+	Query: "genus:Pandion" ; Times: 1
+	Query: "genus:Rallus specificepithet:limicola" ; Times: 1
+	Query: "genus:Chloroceryle specificepithet:americana" ; Times: 1
+	Query: "genus:carduelis class:aves stateprovince:&#34;alaska&#34; month &gt;= 11 month &lt;= 11" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Turdus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Schiffornis specificepithet:turdina" ; Times: 1
+	Query: "genus:Polioptila specificepithet:caerulea" ; Times: 1
+	Query: "genus:Oceanodroma specificepithet:furcata" ; Times: 1
+	Query: "dogs" ; Times: 1
+	Query: "genus:Aeronautes specificepithet:saxatalis" ; Times: 1
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 1
+	Query: "catalognumber:8961" ; Times: 3
+	Query: "genus:falco class:aves stateprovince:&#34;alaska&#34; month &gt;= 7 month &lt;= 7" ; Times: 2
+	Query: "28317" ; Times: 1
+	Query: "genus:Coereba" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:vociferus" ; Times: 1
+	Query: "specificepithet:neglecta class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:carduelis class:aves stateprovince:&#34;alaska&#34; month &gt;= 3 month &lt;= 3" ; Times: 2
+	Query: "specificepithet:migratorius genus:turdus stateprovince:&#34;alaska&#34;" ; Times: 3
+	Query: "genus:Chloroceryle specificepithet:aenea" ; Times: 2
+	Query: "Colibri thalassinus veracruz" ; Times: 3
+	Query: "Eremophila alpestris nest" ; Times: 4
+	Query: "genus:Anas specificepithet:discors" ; Times: 1
+	Query: "genus:junco class:aves stateprovince:&#34;alaska&#34; year &gt;= 1957 year &lt;= 1957" ; Times: 1
+	Query: "amazilia candida" ; Times: 2
+	Query: "Phalaropus fulicarius mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Colinus" ; Times: 1
+	Query: "genus:Pipra specificepithet:fasciicauda" ; Times: 1
+	Query: "specificepithet:arvensis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1988 year &lt;= 1988" ; Times: 1
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 1
+	Query: "Sumner AND Island" ; Times: 1
+	Query: "Brown Bear" ; Times: 3
+	Query: "Garth AND Island NOT Australia NOT Partida NOT Underwood" ; Times: 1
+	Query: "genus:Leiothrix specificepithet:argentauris" ; Times: 1
+	Query: "genus:Podargus specificepithet:strigoides" ; Times: 1
+	Query: "vntype:specimen specificepithet:dorbignyi genus:asthenes country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Calidris canutus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Oxyura specificepithet:jamaicensis" ; Times: 1
+	Query: "class:Aves catalognumber:33723 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ardea specificepithet:alba" ; Times: 1
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 1
+	Query: "terenotriccus" ; Times: 3
+	Query: "UAM 22218" ; Times: 6
+	Query: "genus:Podilymbus specificepithet:podiceps" ; Times: 1
+	Query: "genus:Nothoprocta specificepithet:ornata" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:rausch" ; Times: 1
+	Query: "genus:Phaethornis specificepithet:superciliosus" ; Times: 1
+	Query: "class:Aves catalognumber:15798 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Cinclus specificepithet:mexicanus" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Alaska&#34; (Horned Lark)" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; institutioncode:UAM" ; Times: 1
+	Query: "genus:Coccyzus specificepithet:americanus" ; Times: 1
+	Query: "genus:Taeniopygia specificepithet:guttata" ; Times: 1
+	Query: "genus:Passerella class:aves stateprovince:&#34;alaska&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:purpureus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 1
+	Query: "specificepithet:glareola class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "SNAILS" ; Times: 1
+	Query: "specificepithet:hornemanni class:aves stateprovince:&#34;alaska&#34; month &gt;= 11 month &lt;= 11" ; Times: 1
+	Query: "class:Aves catalognumber:36242 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stickleback" ; Times: 1
+	Query: "genus:agelaius stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "myiarchus platyrhynchus" ; Times: 1
+	Query: "specificepithet:trivialis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1972 year &lt;= 1972" ; Times: 1
+	Query: "specificepithet:bicolor class:aves stateprovince:&#34;alaska&#34; year &gt;= 1952 year &lt;= 1952" ; Times: 1
+	Query: "Cinclodes atacamensis mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Archilochus specificepithet:colubris" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 2
+	Query: "genus:riparia class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Falco specificepithet:cenchroides" ; Times: 2
+	Query: "genus:Dendragapus specificepithet:obscurus" ; Times: 1
+	Query: "genus:Gavia specificepithet:immer" ; Times: 1
+	Query: "catalognumber:22218 institutioncode:UAM" ; Times: 10
+	Query: "class:Aves country:&#34;Belize&#34; hastissue:1" ; Times: 7
+	Query: "class:Aves catalognumber:12399 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:3967 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:15768 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vermivora celata celata hastissue:1" ; Times: 5
+	Query: "genus:Caprimulgus specificepithet:macrurus" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 3
+	Query: "class:Aves catalognumber:34011 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "catalognumber:16448" ; Times: 1
+	Query: "genus:Toxostoma specificepithet:longirostre" ; Times: 1
+	Query: "genus:Pluvialis specificepithet:dominica" ; Times: 1
+	Query: "specificepithet:migratorius class:aves stateprovince:&#34;alaska&#34; year &gt;= 1971 year &lt;= 1971" ; Times: 1
+	Query: "class:Aves catalognumber:29656 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:ustulatus genus:Catharus stateprovince:&#34;alaska&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "genus:Stelgidopteryx stateprovince:&#34;Alaska&#34;" ; Times: 4
+	Query: "class:Aves catalognumber:36637 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Glaucidium specificepithet:brasilianum" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "genus:Ixoreus specificepithet:naevius" ; Times: 1
+	Query: "catalognumber:26798" ; Times: 1
+	Query: "genus:Vanellus specificepithet:vanellus" ; Times: 1
+	Query: "vntype:specimen specificepithet:albicollis genus:Turdus class:Aves" ; Times: 1
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 1
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 1
+	Query: "butterfly" ; Times: 3
+	Query: "genus:Anhinga specificepithet:anhinga" ; Times: 1
+	Query: "class:Aves catalognumber:8736 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:36243 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pluvialis squatarola mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "class:aves locality:lawrence stateprovince:&#34;alaska&#34; recordedby:rausch" ; Times: 1
+	Query: "class:Aves catalognumber:36241 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(vermivora celata celata) hastissue:1" ; Times: 1
+	Query: "genus:Limnodromus  specificepithet:griseus" ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 2
+	Query: "genus:Platycercus specificepithet:icterotis" ; Times: 1
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "genus:Coracias specificepithet:garrulus" ; Times: 1
+	Query: "specificepithet:furcata class:aves stateprovince:&#34;alaska&#34; year &gt;= 1972 year &lt;= 1972" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 14
+	Query: "specificepithet:schistisagus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1989 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:aurantiirostris genus:Arremon" ; Times: 1
+	Query: "genus:Somateria specificepithet:spectabilis" ; Times: 1
+	Query: "specificepithet:leucophrys class:aves stateprovince:&#34;alaska&#34; year &gt;= 1961 year &lt;= 1961" ; Times: 1
+	Query: "Sparrows" ; Times: 1
+	Query: "specificepithet:schistisagus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1989" ; Times: 1
+	Query: "specificepithet:riparia class:aves stateprovince:&#34;alaska&#34; year &gt;= 2008 year &lt;= 2008" ; Times: 1
+	Query: "Red fox continent:North America" ; Times: 1
+	Query: "genus:Oceanites specificepithet:oceanicus" ; Times: 1
+	Query: "genus:Florisuga specificepithet:mellivora" ; Times: 1
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 1
+	Query: "specificepithet:stellata class:aves stateprovince:&#34;alaska&#34; year &gt;= 1935 year &lt;= 1935" ; Times: 1
+	Query: "genus:prunella class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:europaeus" ; Times: 1
+	Query: "class:Aves catalognumber:34007 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:22218 institutioncode:UAM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:rausch AND (NOT usnm NOT mcz)" ; Times: 1
+	Query: "genus:Clangula specificepithet:hyemalis" ; Times: 1
+	Query: "Petrochelidon pyrrhonota mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "20971" ; Times: 1
+	Query: "&#34;autopsy&#34; class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Dumetella specificepithet:carolinensis" ; Times: 1
+	Query: "brown bear" ; Times: 2
+	Query: "genus:Capito specificepithet:niger" ; Times: 1
+	Query: "genus:larus class:aves locality:lawrence stateprovince:&#34;alaska&#34; year &gt;= 2007 year &lt;= 2007" ; Times: 1
+	Query: "genus:Anous specificepithet:stolidus" ; Times: 1
+	Query: "field vole" ; Times: 1
+	Query: "genus:Larus specificepithet:philadelphia" ; Times: 1
+	Query: "genus:Coracopsis specificepithet:nigra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1182 download events in this period)
+Total number of records downloaded: 1501
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 41
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-08 ; Times: 3
+	Date: 2019-06-06 ; Times: 9
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-04 ; Times: 11
+	Date: 2019-06-05 ; Times: 5
+	Date: 2019-06-11 ; Times: 3
+	Date: 2019-06-03 ; Times: 6
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-17 ; Times: 2
+	Date: 2019-06-26 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "specificepithet:surinamensis genus:Myrmotherula hastissue:1" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia class:Aves (skin)" ; Times: 1
+	Query: "vntype:specimen specificepithet:culicivorus genus:Basileuterus class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina" ; Times: 1
+	Query: "catalognumber:22218 institutioncode:UAM" ; Times: 1
+	Query: "beaver" ; Times: 8
+	Query: "BEAVER" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "cathartes aura" ; Times: 2
+	Query: "Bolborhynchus lineola vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "field vole" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "vntype:specimen specificepithet:ustulatus genus:Catharus stateprovince:&#34;alaska&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "lifestage:juvenile basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "strigiformes" ; Times: 1
+	Query: "marmot" ; Times: 2
+	Query: "black bear" ; Times: 2
+	Query: "Emberiza aureola" ; Times: 1
+	Query: "Amazilia leucogaster" ; Times: 1
+	Query: "vntype:specimen specificepithet:ustulatus genus:Catharus stateprovince:&#34;british columbia&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "spizella" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "salamander" ; Times: 2
+	Query: "corvus" ; Times: 1
+	Query: "continent:europe hasmass:1" ; Times: 1
+	Query: "Turdus migratorius" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "vntype:specimen specificepithet:amaurochalinus genus:Turdus class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:albicollis genus:Turdus class:Aves" ; Times: 1
+	Query: "Trochilidae" ; Times: 1
+	Query: "wolf" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "specificepithet:aurantiirostris genus:Arremon" ; Times: 1
+	Query: "genus:Accipiter year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "SNAILS" ; Times: 1
+	Query: "specificepithet:tyrannina genus:Cercomacra hastissue:1" ; Times: 1
+
+
+End of report.
