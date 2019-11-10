@@ -1,0 +1,298 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 356
+Number of records retrieved in searches: 2190
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 265
+	Country: Singapore ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: India ; Times: 9
+	Country: United Kingdom ; Times: 11
+	Country: Kuwait ; Times: 1
+	Country: Sweden ; Times: 9
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 11
+	Country: Slovakia ; Times: 5
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Argentina ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 3
+	Date: 2019-09-16 ; Times: 7
+	Date: 2019-09-17 ; Times: 13
+	Date: 2019-09-10 ; Times: 13
+	Date: 2019-09-11 ; Times: 12
+	Date: 2019-09-12 ; Times: 11
+	Date: 2019-09-13 ; Times: 15
+	Date: 2019-09-18 ; Times: 17
+	Date: 2019-09-19 ; Times: 20
+	Date: 2019-09-30 ; Times: 6
+	Date: 2019-09-09 ; Times: 4
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 11
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 104
+	Date: 2019-09-05 ; Times: 10
+	Date: 2019-09-04 ; Times: 22
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 16
+	Date: 2019-09-23 ; Times: 9
+	Date: 2019-09-22 ; Times: 8
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-24 ; Times: 11
+	Date: 2019-09-27 ; Times: 17
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "Sphyrapicus ruber AND Island" ; Times: 1
+	Query: "specificepithet:pusilla genus:wilsonia country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:limosa haemastica" ; Times: 1
+	Query: "LSUMZ" ; Times: 1
+	Query: "gbifdatasetid:4852540d-afd1-4678-bd20-4aac28f65e2d" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Halcyon specificepithet:chloris country:&#34;Philippines&#34; hastissue:1" ; Times: 1
+	Query: "canorus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Calidris canutus" ; Times: 10
+	Query: "Crotophaga preparations:alcohol" ; Times: 3
+	Query: "crete" ; Times: 1
+	Query: "genus:Larus country:&#34;mongolia&#34;" ; Times: 3
+	Query: "lsumz" ; Times: 3
+	Query: "empidonax difficilis year &gt;= 1975 hastissue:1" ; Times: 1
+	Query: "Rhinoplax vigil" ; Times: 1
+	Query: "Aglaiocercus kingi" ; Times: 1
+	Query: "Charadrius mongolus hastissue:1" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Uropsila leucogastra pacifica" ; Times: 1
+	Query: "(Anhimidae) hastissue:1" ; Times: 8
+	Query: "genus:aegolius AND (funereus) hastissue:1" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 2
+	Query: "anas georgica" ; Times: 1
+	Query: "Anthus Rubescens year &gt;= 1950 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "genus:anser country:&#34;mongolia&#34;" ; Times: 4
+	Query: "alcyon AND Island" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "continent:North America (anthus rubescens) year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "family:Spheniscidae sex:Female (Egg OR Ova OR Ovum OR Oviduct OR Ovary)" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 14
+	Query: "vntype:specimen genus:Crypturellus family:Tinamidae class:Aves hastissue:1" ; Times: 3
+	Query: "Ramphocoris clotbey" ; Times: 1
+	Query: "Anthus rubescens hastissue:1" ; Times: 1
+	Query: "hastissue:1 rollandia" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "genus:Pygoscelis sex:Female (Ova OR Ovum OR Egg OR Ovary OR Oviduct)" ; Times: 2
+	Query: "anhimidae" ; Times: 1
+	Query: "Henicorhina" ; Times: 2
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "10430" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 2
+	Query: "genus:lonchura family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 2
+	Query: "vntype:specimen specificepithet:maculosa genus:Nothura family:Tinamidae class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "lsumz Aves" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "vntype:specimen family:Tinamidae class:Aves hastissue:1" ; Times: 1
+	Query: "hastissue:1 gavia" ; Times: 1
+	Query: "sibirica Iris" ; Times: 2
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "charadrius mongolus hastissue:1" ; Times: 3
+	Query: "specificepithet:iliaca genus:passerella country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "palumbus Columba" ; Times: 3
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "genus:Arremon hastissue:1" ; Times: 1
+	Query: "hastissue:1 chionis" ; Times: 1
+	Query: "specificepithet:griseus genus:vireo stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "genus:Pygoscelis sex:Female preparations:Skeleton (Ova OR Ovum OR Egg OR Ovary OR Oviduct)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "Somateria fischeri" ; Times: 2
+	Query: "Aptenodytes" ; Times: 1
+	Query: "amphipods" ; Times: 1
+	Query: "kingi" ; Times: 1
+	Query: "(anthus rubescens) hastissue:1" ; Times: 1
+	Query: "Lesbia victoriae" ; Times: 1
+	Query: "Anthus Rubescens hastissue:1" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "Lepidoptera" ; Times: 2
+	Query: "specificepithet:townsendi genus:dendroica country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Saxicola stejnegeri vntype:specimen sex:female basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Somateria fischeri hastissue:1" ; Times: 1
+	Query: "Coeligena violifer" ; Times: 1
+	Query: "specificepithet:moluccensis genus:dendrocopos hastissue:1" ; Times: 1
+	Query: "specificepithet:hyperythra genus:ficedula hastissue:1" ; Times: 1
+	Query: "Uropsila leucogastra" ; Times: 2
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 5
+	Query: "genus:Crotophaga preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "Henicorhina leucosticta year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 6
+	Query: "specificepithet:americanus genus:Coccyzus year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 24
+	Query: "Uropsila leucogastra leucogastra" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 20
+	Query: "Ramphocoris clotbey uam" ; Times: 1
+	Query: "family:phoenicopteridae hastissue:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2003" ; Times: 1
+	Query: "arctic tern" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "beluga" ; Times: 2
+	Query: "Saxicola stejnegeri" ; Times: 1
+	Query: "specificepithet:montanus genus:Passer continent:North America hastissue:1" ; Times: 1
+	Query: "specificepithet:pusilla genus:wilsonia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 3
+	Query: "vntype:specimen specificepithet:elegans genus:Eudromia family:Tinamidae class:Aves hastissue:1" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 1
+	Query: "Anthus Rubescens year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 2
+	Query: "specificepithet:montanus genus:Passer hastissue:1" ; Times: 1
+	Query: "hastissue:1 aptenodytes" ; Times: 1
+	Query: "specificepithet:rubica genus:habia hastissue:1" ; Times: 1
+	Query: "charadrius mongolus" ; Times: 2
+	Query: "genus:dendrocopos hastissue:1" ; Times: 1
+	Query: "preparations:skeleton dryocopus" ; Times: 3
+	Query: "Catharus ustulatus year &gt;= 1980 month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "aplonis skeleton" ; Times: 2
+	Query: "Microtus pennsylvanicus 1988" ; Times: 1
+	Query: "specificepithet:celata genus:vermivora country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Henicorhina year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "hastissue:1 anthus rubescens" ; Times: 1
+	Query: "14150" ; Times: 1
+	Query: "Dryocopus pileatus skeleton" ; Times: 2
+	Query: "continent:North America (Anthus Rubescens) year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 2
+	Query: "Bird skins" ; Times: 1
+	Query: "poecile rufescens year &gt;= 1985 year &lt;= 2019" ; Times: 1
+	Query: "family:Spheniscidae sex:Female preparations:skeleton (Egg OR Ova OR Ovum OR Oviduct OR Ovary)" ; Times: 1
+	Query: "crotophaga preparations:alcohol" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "specificepithet:chloris genus:Halcyon year &gt;= 1940" ; Times: 1
+	Query: "(anthus rubescens) year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "specificepithet:discors genus:Anas stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:erythrura family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 2
+	Query: "Heliangelus amethysticollis" ; Times: 2
+	Query: "(anthus rubescens) year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 2
+	Query: "Gallirallus owstoni" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Nothoprocta family:Tinamidae class:Aves hastissue:1" ; Times: 1
+	Query: "Heliodoxa aurescens" ; Times: 1
+	Query: "gray fox" ; Times: 26
+	Query: "genus:aegolius AND NOT (funereus) hastissue:1" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 3
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "continent:North America (anthus rubescens) year &gt;= 2000 year &lt;= 2018 institutioncode:UAM hastissue:1" ; Times: 2
+	Query: "specificepithet:colubris genus:Archilochus hastissue:1" ; Times: 1
+	Query: "Henicorhina year &gt;= 2000 year &lt;= 2019" ; Times: 3
+	Query: "Henicorhina leucosticta" ; Times: 4
+	Query: "open bay" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "Coccyzus americanus americanus" ; Times: 36
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1073 download events in this period)
+Total number of records downloaded: 3557
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Singapore ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 26
+	Country: Sweden ; Times: 1
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 13
+	Date: 2019-09-11 ; Times: 6
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 6
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 4
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucis hirsuta" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Lesbia" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "order:passeriformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "Charadrius mongolus hastissue:1" ; Times: 1
+	Query: "Coeligena violifer" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Junco hyemalis month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "anas flavirostris" ; Times: 2
+	Query: "Uropsila leucogastra pacifica" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "order:psittaciformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Spheniscidae sex:Female preparations:skeleton (Egg OR Ova OR Ovum OR Oviduct OR Ovary)" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "muscisaxicola hasmass:1" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 1
+	Query: "anas georgica" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "genus:Larus country:&#34;mongolia&#34;" ; Times: 1
+	Query: "campylorhynchus hastissue:1" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Heliodoxa aurescens" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "canorus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "campylorhynchus brunneicapillus hastissue:1" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+
+
+End of report.
