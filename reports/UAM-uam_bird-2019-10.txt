@@ -1,0 +1,342 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 316
+Number of records retrieved in searches: 2660
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 16
+	Country: Turkey ; Times: 10
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: Singapore ; Times: 9
+	Country: India ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Unknown ; Times: 9
+	Country: Hungary ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 218
+	Country: Thailand ; Times: 10
+	Country: Brazil ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 5
+	Date: 2019-10-08 ; Times: 7
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-20 ; Times: 5
+	Date: 2019-10-27 ; Times: 6
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-22 ; Times: 59
+	Date: 2019-10-01 ; Times: 5
+	Date: 2019-10-03 ; Times: 7
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-05 ; Times: 3
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 4
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 8
+	Date: 2019-10-24 ; Times: 11
+	Date: 2019-10-18 ; Times: 5
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 28
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 17
+	Date: 2019-10-11 ; Times: 25
+	Date: 2019-10-16 ; Times: 20
+	Date: 2019-10-31 ; Times: 12
+	Date: 2019-10-14 ; Times: 6
+	Date: 2019-10-17 ; Times: 19
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-28 ; Times: 10
+	Date: 2019-10-30 ; Times: 38
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves (5000) institutioncode:UAM" ; Times: 1
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "UAM 7422" ; Times: 3
+	Query: "Charadrius melodus 2001" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "uam 21930" ; Times: 2
+	Query: "10109" ; Times: 1
+	Query: "UAM 15399" ; Times: 2
+	Query: "Myadestes ralloides" ; Times: 1
+	Query: "Zonotrichia querula mappable:1" ; Times: 1
+	Query: "Brachyramphus marmoratus 1978" ; Times: 1
+	Query: "Brachyramphus marmoratus 1976" ; Times: 1
+	Query: "Brachyramphus marmoratus 1977" ; Times: 1
+	Query: "Brachyramphus marmoratus 1974" ; Times: 1
+	Query: "Brachyramphus marmoratus 1989" ; Times: 1
+	Query: "Charadrius mongolus hastissue:1" ; Times: 1
+	Query: "Mimus AND Isla NOT Ecuador NOT Bolivia NOT Venezuela" ; Times: 1
+	Query: "specificepithet:pusilla genus:wilsonia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "specificepithet:ruber stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 4
+	Query: "Passerella LSUMZ" ; Times: 2
+	Query: "specificepithet:pusilla genus:wilsonia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "UAM 20162" ; Times: 2
+	Query: "uam 30602" ; Times: 2
+	Query: "genus:passerella stateprovince:&#34;british columbia&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "(Anhimidae) hastissue:1" ; Times: 1
+	Query: "genus:junco country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:celata country:&#34;canada&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Stercorariidae continent:America" ; Times: 3
+	Query: "(Picoides arcticus) year &gt;= 1990 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Phaethon aethereus AND Island" ; Times: 1
+	Query: "genus:passerella stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:wilsonia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "greenling" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "Xema sabini continent:America" ; Times: 2
+	Query: "Patagona gigas year &gt;= 2005 hastissue:1" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Tringa stagnatilis hasmass:1" ; Times: 2
+	Query: "genus:sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "UAM 7871" ; Times: 2
+	Query: "corvus macrorhynchos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aleutian tern" ; Times: 2
+	Query: "Myrmeciza year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:32824" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "genus:empidonax stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Brachyramphus marmoratus 2003" ; Times: 1
+	Query: "Brachyramphus marmoratus 2002" ; Times: 1
+	Query: "Brachyramphus marmoratus 2001" ; Times: 1
+	Query: "specificepithet:leschenaultii genus:Charadrius hastissue:1" ; Times: 1
+	Query: "spleen aves" ; Times: 1
+	Query: "Brachyramphus marmoratus 2005" ; Times: 1
+	Query: "Brachyramphus marmoratus 2004" ; Times: 1
+	Query: "Brachyramphus marmoratus 2008" ; Times: 1
+	Query: "gray fox" ; Times: 13
+	Query: "specificepithet:mongolus genus:Charadrius institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 2
+	Query: "Coccyzus americanus 1998" ; Times: 1
+	Query: "genus:empidonax country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus 1996" ; Times: 1
+	Query: "genus:Sphyrapicus stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus 1994" ; Times: 1
+	Query: "Coccyzus americanus 1992" ; Times: 1
+	Query: "Coccyzus americanus 1990" ; Times: 1
+	Query: "Coccyzus americanus 1991" ; Times: 1
+	Query: "Bonasa AND Island" ; Times: 1
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 3
+	Query: "Uropsila pacifica" ; Times: 2
+	Query: "UAM 17862" ; Times: 2
+	Query: "UAM 17863" ; Times: 1
+	Query: "UAM 27352" ; Times: 2
+	Query: "Mycteria americana 1999" ; Times: 1
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "Sphyrapicus ruber year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Sphyrapicus varius year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Tringa totanus hasmass:1" ; Times: 2
+	Query: "body mass" ; Times: 1
+	Query: "genus:Sphyrapicus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Aphelocoma coerulescens 2002" ; Times: 1
+	Query: "specificepithet:celata genus:vermivora country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:mongolus genus:Charadrius hastissue:1" ; Times: 2
+	Query: "genus:catharus stateprovince:&#34;british columbia&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Zosterops palpebrosus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "28676" ; Times: 1
+	Query: "11893" ; Times: 3
+	Query: "Myadestes townsendi AND Island NOT Canada" ; Times: 1
+	Query: "UAM 7794" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrorhynchos genus:Corvus continent:Asia hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus 1984" ; Times: 1
+	Query: "Puffinus tenuirostris AND Island NOT Australia" ; Times: 1
+	Query: "genus:Cinnycerthia hastissue:1" ; Times: 1
+	Query: "specificepithet:hyperboreus genus:Plectrophenax" ; Times: 4
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "specificepithet:townsendi genus:dendroica country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Tringa glareola hasmass:1" ; Times: 2
+	Query: "Myadestes townsendi AND Island" ; Times: 1
+	Query: "specificepithet:celata country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "Mimus AND Isla NOT Ecuador NOT Bolivia" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;New Mexico&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Brachyramphus marmoratus 1991" ; Times: 1
+	Query: "specificepithet:leschenaultii genus:Charadrius institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "Aphelocoma coerulescens 2013" ; Times: 1
+	Query: "Stercorariidae continent:North America" ; Times: 3
+	Query: "Aphelocoma coerulescens 2014" ; Times: 1
+	Query: "Aphelocoma coerulescens 2019" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Chloroceryle aenea year &gt; 1985 NOT Nature NOT CLO" ; Times: 2
+	Query: "specificepithet:celata genus:vermivora country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Puffinus tenuirostris AND Island" ; Times: 1
+	Query: "Brachyramphus marmoratus 2019" ; Times: 1
+	Query: "Uropsila leucogastra" ; Times: 1
+	Query: "Brachyramphus marmoratus 2014" ; Times: 1
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 2
+	Query: "charadrius mongolus" ; Times: 2
+	Query: "Brachyramphus marmoratus 2011" ; Times: 1
+	Query: "Brachyramphus marmoratus 2012" ; Times: 1
+	Query: "Brachyramphus marmoratus 2013" ; Times: 1
+	Query: "reindeer" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "UAM 17807" ; Times: 2
+	Query: "specificepithet:guttatus genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Larus canus AND Island" ; Times: 1
+	Query: "specificepithet:furcata genus:thalurania" ; Times: 2
+	Query: "Brachyramphus marmoratus 1986" ; Times: 1
+	Query: "Brachyramphus marmoratus 1984" ; Times: 1
+	Query: "Brachyramphus marmoratus 1983" ; Times: 1
+	Query: "Puffinus griseus AND Island" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus 2005" ; Times: 1
+	Query: "Brachyramphus marmoratus 1973" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "Brachyramphus marmoratus 1988" ; Times: 1
+	Query: "18509" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "Mimus AND Isla NOT Ecuador" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "specificepithet:occidentalis stateprovince:&#34;montana&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "10495" ; Times: 2
+	Query: "specificepithet:hyemalis genus:junco country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "pycnonotus xanthopygos" ; Times: 4
+	Query: "10492" ; Times: 2
+	Query: "Coccyzus americanus 2019" ; Times: 3
+	Query: "Brachyramphus marmoratus 1990" ; Times: 1
+	Query: "specificepithet:pusilla genus:wilsonia stateprovince:&#34;british columbia&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Brachyramphus marmoratus 1992" ; Times: 1
+	Query: "Brachyramphus marmoratus 1993" ; Times: 1
+	Query: "Brachyramphus marmoratus 1994" ; Times: 1
+	Query: "Brachyramphus marmoratus 1995" ; Times: 1
+	Query: "Brachyramphus marmoratus 1996" ; Times: 1
+	Query: "Brachyramphus marmoratus 1997" ; Times: 1
+	Query: "Brachyramphus marmoratus 1998" ; Times: 1
+	Query: "Brachyramphus marmoratus 1999" ; Times: 1
+	Query: "Coccyzus americanus 2003" ; Times: 1
+	Query: "Stercorariidae continent:Antarctica" ; Times: 6
+	Query: "Myadestes AND Island" ; Times: 1
+	Query: "Tringa ochropus hasmass:1" ; Times: 2
+	Query: "catharus ustulatus year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "specificepithet:mongolus genus:Charadrius institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "uam 24464" ; Times: 2
+	Query: "UAM 19419" ; Times: 2
+	Query: "specificepithet:townsendi genus:dendroica country:&#34;canada&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Melospiza melodia year &gt; 2000" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "Calidris tenuirostris" ; Times: 2
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "Gavia stellata AND Island" ; Times: 1
+	Query: "Mycteria americana 2019" ; Times: 1
+	Query: "specificepithet:leucurus genus:Lagopus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:paraguaiae genus:gallinago hastissue:1" ; Times: 1
+	Query: "genus:Alauda hastissue:1" ; Times: 1
+	Query: "Mycteria americana 2012" ; Times: 1
+	Query: "Branta bernicla AND Island" ; Times: 2
+	Query: "Henicorhina leucosticta" ; Times: 5
+	Query: "Charadrius melodus 2019" ; Times: 1
+	Query: "specificepithet:pusilla genus:wilsonia stateprovince:&#34;british columbia&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:Sphyrapicus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus country:&#34;canada&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "tissue already have" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Cyanocitta stelleri carlottae mappable:1" ; Times: 1
+	Query: "UAM 7792" ; Times: 2
+	Query: "UAM 7793" ; Times: 2
+	Query: "catalognumber:10951 institutioncode:UAM" ; Times: 2
+	Query: "erythrorhynchos Pelecanus" ; Times: 6
+	Query: "specificepithet:satrapa genus:regulus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:junco country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "chloephaga rubidiceps" ; Times: 2
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 2
+	Query: "Accipiter gentilis laingi mappable:1" ; Times: 1
+	Query: "genus:Plectrophenax stateprovince:&#34;Alaska&#34; year &gt;= 1800 year &lt;= 1880" ; Times: 1
+	Query: "Coccyzus americanus 1999" ; Times: 1
+	Query: "UAM 25196" ; Times: 2
+	Query: "corvus splendens" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "(5000) institutioncode:UAM" ; Times: 2
+	Query: "Coccyzus americanus 1997" ; Times: 1
+	Query: "striata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "Aegolius acadicus brooksi mappable:1" ; Times: 1
+	Query: "Stercorariidae continent:Asia" ; Times: 5
+	Query: "Stercorariidae continent:America North" ; Times: 1
+	Query: "Diomedea immutabilis AND Island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1308 download events in this period)
+Total number of records downloaded: 1241
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 20
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-04 ; Times: 4
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Passer domesticus hastissue:1" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "anisognathus" ; Times: 1
+	Query: "Tangara" ; Times: 2
+	Query: "diglossa" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "anairetes parulus" ; Times: 1
+	Query: "Uropsila pacifica" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "continent:australia" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sturnella bellicosa" ; Times: 1
+	Query: "genus:Passer montanus hastissue:1" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "chloephaga rubidiceps" ; Times: 2
+
+
+End of report.
