@@ -1,0 +1,429 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1280
+Number of records retrieved in searches: 25225
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 7
+	Country: Iran ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 14
+	Country: Venezuela ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 8
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1122
+	Country: Germany ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Hungary ; Times: 1
+	Country: United States ; Times: 106
+	Country: Brunei ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 295
+	Date: 2020-04-06 ; Times: 11
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-20 ; Times: 8
+	Date: 2020-04-07 ; Times: 420
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 10
+	Date: 2020-04-03 ; Times: 172
+	Date: 2020-04-28 ; Times: 9
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 145
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 5
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-19 ; Times: 11
+	Date: 2020-04-18 ; Times: 8
+	Date: 2020-04-13 ; Times: 14
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-10 ; Times: 4
+	Date: 2020-04-17 ; Times: 21
+	Date: 2020-04-16 ; Times: 5
+	Date: 2020-04-15 ; Times: 5
+	Date: 2020-04-14 ; Times: 118
+	Date: 2020-04-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ploceus bicolor" ; Times: 8
+	Query: "Anas carolinensis" ; Times: 10
+	Query: "Ardea cinerea" ; Times: 9
+	Query: "Anas acuta" ; Times: 13
+	Query: "Anser fabalis" ; Times: 5
+	Query: "Bubulcus ibis" ; Times: 11
+	Query: "Stercorarius longicaudus" ; Times: 6
+	Query: "preparations:Skeleton parabuteo" ; Times: 2
+	Query: "B. marmoratus" ; Times: 5
+	Query: "molt specificepithet:candei genus:manacus" ; Times: 1
+	Query: "genus:Schiffornis" ; Times: 1
+	Query: "Hylophylax" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 15
+	Query: "rodent" ; Times: 1
+	Query: "specificepithet:auriculata genus:Zenaida country:&#34;Argentina&#34; institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "Calidris canutus" ; Times: 3
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "Himantopus himantopus" ; Times: 2
+	Query: "Podilymbus podiceps" ; Times: 4
+	Query: "Copsychus saularis" ; Times: 3
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "North Midden" ; Times: 1
+	Query: "Ortalis canicollis" ; Times: 3
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "specificepithet:petechia country:&#34;mexico&#34; hastissue:1" ; Times: 6
+	Query: "Amazilia tzacatl" ; Times: 3
+	Query: "Phoenicopterus" ; Times: 1
+	Query: "Corvus corone" ; Times: 9
+	Query: "Fulica americana" ; Times: 3
+	Query: "specificepithet:mahali genus:Plocepasser hastissue:1" ; Times: 1
+	Query: "specificepithet:petechia country:&#34;panama&#34; hastissue:1" ; Times: 1
+	Query: "Amazilia candida" ; Times: 3
+	Query: "Rhodostethia rosea" ; Times: 6
+	Query: "Anas strepera" ; Times: 13
+	Query: "Lymnocryptes minimus" ; Times: 2
+	Query: "(23930) institutioncode:UAM" ; Times: 2
+	Query: "Fulica atra" ; Times: 3
+	Query: "Tachycineta thalassina" ; Times: 4
+	Query: "asio flammeus" ; Times: 1
+	Query: "tufted duck" ; Times: 2
+	Query: "Gallinago gallinago" ; Times: 4
+	Query: "specificepithet:xanthogaster genus:euphonia hastissue:1" ; Times: 2
+	Query: "Colibri thalassinus hasmass:1" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 2
+	Query: "A. cristatella" ; Times: 6
+	Query: "Piranga ludoviciana" ; Times: 8
+	Query: "Anas falcata" ; Times: 13
+	Query: "Grus canadensis" ; Times: 4
+	Query: "Arremon aurantiirostris" ; Times: 3
+	Query: "Campylopterus hemileucurus" ; Times: 3
+	Query: "27883" ; Times: 1
+	Query: "Corvus splendens" ; Times: 9
+	Query: "Anas formosa" ; Times: 13
+	Query: "Motacilla cinerea" ; Times: 5
+	Query: "Numenius phaeopus" ; Times: 4
+	Query: "porcupine (&#34;d&#34;)" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "(23928) institutioncode:UAM" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "A. pygmaea" ; Times: 6
+	Query: "Puffinus griseus" ; Times: 3
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Ardea alba" ; Times: 9
+	Query: "Anas diazi" ; Times: 1
+	Query: "Tringa glareola" ; Times: 6
+	Query: "Phalaropus lobatus" ; Times: 6
+	Query: "Larus argentatus" ; Times: 5
+	Query: "Taeniopygia guttata" ; Times: 8
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "Pluvialis dominica" ; Times: 2
+	Query: "molt specificepithet:vitellinus genus:manacus" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 6
+	Query: "Aythya ferina" ; Times: 11
+	Query: "Columba palumbus" ; Times: 3
+	Query: "Anas crecca" ; Times: 13
+	Query: "rats" ; Times: 1
+	Query: "Gallinago solitaria" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "genus:Columbina institutioncode:UAM" ; Times: 4
+	Query: "Larus glaucoides" ; Times: 6
+	Query: "Corvus corax" ; Times: 9
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "Calonectris diomedea" ; Times: 3
+	Query: "Tachyeres leucocephalus" ; Times: 6
+	Query: "family:Columbidae country:&#34;Argentina&#34; institutioncode:UAM" ; Times: 1
+	Query: "(23551) institutioncode:UAM" ; Times: 1
+	Query: "Larus vegae" ; Times: 3
+	Query: "Anas americana" ; Times: 11
+	Query: "cuello" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 4
+	Query: "specificepithet:auriculata genus:Zenaida country:&#34;Argentina&#34; hastissue:1" ; Times: 1
+	Query: "Phoenicurus phoenicurus" ; Times: 9
+	Query: "Scolopax rusticola" ; Times: 5
+	Query: "mummy" ; Times: 2
+	Query: "Carpodacus erythrinus" ; Times: 8
+	Query: "Zenaida auriculata" ; Times: 3
+	Query: "Aix galericulata" ; Times: 2
+	Query: "Crossoptilon auritum" ; Times: 3
+	Query: "Chionis alba" ; Times: 2
+	Query: "Pagophila eburnea" ; Times: 6
+	Query: "Passer montanus" ; Times: 8
+	Query: "L. canus" ; Times: 6
+	Query: "Turdus naumanni" ; Times: 15
+	Query: "Gallinago delicata" ; Times: 5
+	Query: "Phylloscopus fuscatus" ; Times: 4
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 7
+	Query: "Aythya americana" ; Times: 4
+	Query: "(23926) institutioncode:UAM" ; Times: 1
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "Chauvin" ; Times: 1
+	Query: "genus:Claravis institutioncode:UAM" ; Times: 2
+	Query: "Pluvialis apricaria" ; Times: 2
+	Query: "Geotrygon montana" ; Times: 3
+	Query: "leucorhoa hastissue:1" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 12
+	Query: "Phalacrocorax penicillatus" ; Times: 4
+	Query: "Emberiza rustica" ; Times: 8
+	Query: "Lophura swinhoii" ; Times: 3
+	Query: "Tringa melanoleuca" ; Times: 5
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Rynchops niger" ; Times: 6
+	Query: "Ficedula albicilla" ; Times: 9
+	Query: "Rodent" ; Times: 1
+	Query: "Actitis hypoleucos" ; Times: 6
+	Query: "manacus candei molt" ; Times: 1
+	Query: "Oceanodroma leucorhoa hastissue:1" ; Times: 1
+	Query: "Anas penelope" ; Times: 11
+	Query: "Pluvialis squatarola" ; Times: 2
+	Query: "Amazilia rutila" ; Times: 7
+	Query: "Ictinia mississippiensis vntype:specimen stateprovince:&#34;Texas&#34; year &gt;= 1960 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 6
+	Query: "Motacilla tschutschensis" ; Times: 5
+	Query: "Somateria mollissima" ; Times: 9
+	Query: "Anser albifrons" ; Times: 10
+	Query: "specificepithet:hyperboreus genus:Plectrophenax" ; Times: 1
+	Query: "recordedby:w. w. price" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 6
+	Query: "Anser anser" ; Times: 10
+	Query: "Xema sabini" ; Times: 6
+	Query: "Phalacrocorax auritus" ; Times: 4
+	Query: "Hirundo rustica" ; Times: 7
+	Query: "Phalacrocorax pelagicus" ; Times: 4
+	Query: "Aix sponsa" ; Times: 2
+	Query: "Sturnella militaris" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:14737" ; Times: 1
+	Query: "Apus pacificus" ; Times: 6
+	Query: "Ptychoramphus aleuticus" ; Times: 6
+	Query: "Motacilla alba" ; Times: 5
+	Query: "Podiceps nigricollis" ; Times: 3
+	Query: "26823" ; Times: 3
+	Query: "Ardea modesta" ; Times: 9
+	Query: "Phalacrocorax varius" ; Times: 4
+	Query: "Limnodromus scolopaceus" ; Times: 6
+	Query: "Pica pica" ; Times: 4
+	Query: "(23531) institutioncode:UAM" ; Times: 2
+	Query: "36220" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 6
+	Query: "Callonetta leucophrys" ; Times: 5
+	Query: "class:Aves (30985)" ; Times: 1
+	Query: "family:podicipedidae lifestage:juvenile" ; Times: 2
+	Query: "Plegadis ridgwayi" ; Times: 1
+	Query: "Merganetta armata" ; Times: 5
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "Tringa erythropus" ; Times: 6
+	Query: "Phalaropus tricolor" ; Times: 5
+	Query: "specificepithet:cinereus genus:Contopus hastissue:1" ; Times: 1
+	Query: "Branta canadensis" ; Times: 5
+	Query: "stateprovince:&#34;Louisiana&#34; year &gt;= 2000 year &lt;= 2020 rallidae" ; Times: 2
+	Query: "Icterus auratus" ; Times: 1
+	Query: "specificepithet:cirrhata genus:fratercula year &gt;= 1983 year &lt;= 1983" ; Times: 1
+	Query: "Chordeiles minor" ; Times: 4
+	Query: "Phalacrocorax urile" ; Times: 4
+	Query: "Lophura edwardsi" ; Times: 3
+	Query: "(18647)" ; Times: 2
+	Query: "thamnomanes" ; Times: 1
+	Query: "(23927) institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:cinereum genus:conirostrum" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 7
+	Query: "Emberiza pusilla" ; Times: 8
+	Query: "Poecile atricapilla" ; Times: 4
+	Query: "Gallinula chloropus" ; Times: 5
+	Query: "Anas poecilorhyncha" ; Times: 13
+	Query: "specificepithet:velatus genus:Ploceus hastissue:1" ; Times: 2
+	Query: "Egretta intermedia" ; Times: 9
+	Query: "Anthus hodgsoni" ; Times: 5
+	Query: "Anser indicus" ; Times: 5
+	Query: "(23606) institutioncode:UAM" ; Times: 2
+	Query: "36314" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 5
+	Query: "Amazilia yucatanensis" ; Times: 3
+	Query: "Gallinago stenura" ; Times: 7
+	Query: "Catharus guttatus minnesota" ; Times: 1
+	Query: "genus:fratercula year &gt;= 1983 year &lt;= 1983" ; Times: 1
+	Query: "specificepithet:turdina genus:Schiffornis basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Lophonetta specularioides" ; Times: 6
+	Query: "Tarsiger cyanurus" ; Times: 4
+	Query: "oceanites oceanicus year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Emberiza leucocephalos" ; Times: 8
+	Query: "Circus cyaneus" ; Times: 4
+	Query: "(23591) institutioncode:UAM" ; Times: 1
+	Query: "Branta bernicla" ; Times: 5
+	Query: "Aethia pygmaea" ; Times: 6
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Larus heermanni" ; Times: 6
+	Query: "Cygnus cygnus" ; Times: 9
+	Query: "Aethia psittacula" ; Times: 6
+	Query: "Chionis" ; Times: 1
+	Query: "Hypsipetes philippinus" ; Times: 4
+	Query: "Oenanthe isabellina" ; Times: 9
+	Query: "oceanodroma leucorhoa vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:nigricollis genus:podiceps (skeleton)" ; Times: 1
+	Query: "Phylloscopus collybita" ; Times: 4
+	Query: "Accipiter gentilis" ; Times: 4
+	Query: "Recurvirostra americana" ; Times: 2
+	Query: "genus:pyrrhula" ; Times: 1
+	Query: "Amazilia edward" ; Times: 3
+	Query: "Diglossa brunneiventris" ; Times: 1
+	Query: "Tragopan temminckii" ; Times: 3
+	Query: "34276" ; Times: 1
+	Query: "catalognumber:26300" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 7
+	Query: "Phylloscopus inornatus" ; Times: 7
+	Query: "22916" ; Times: 1
+	Query: "Luscinia calliope" ; Times: 4
+	Query: "Larus crassirostris" ; Times: 6
+	Query: "Icteria virens" ; Times: 2
+	Query: "Mergus merganser" ; Times: 5
+	Query: "Delichon urbica" ; Times: 3
+	Query: "Columba livia" ; Times: 3
+	Query: "genus:eumyias country:&#34;philippines&#34;" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 5
+	Query: "26886" ; Times: 2
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Thraupis episcopus" ; Times: 5
+	Query: "Chlorophanes spiza" ; Times: 8
+	Query: "Tachycineta bicolor" ; Times: 3
+	Query: "F. corniculata" ; Times: 6
+	Query: "Charadrius hiaticula" ; Times: 1
+	Query: "Apus apus" ; Times: 3
+	Query: "specificepithet:cruziana genus:Columbina country:&#34;Peru&#34; institutioncode:UAM" ; Times: 1
+	Query: "shrews" ; Times: 2
+	Query: "Amazilia amabilis" ; Times: 3
+	Query: "Brachyramphus marmoratus" ; Times: 6
+	Query: "Buteo lagopus" ; Times: 6
+	Query: "manacus candei" ; Times: 3
+	Query: "Cinnycerthia Junin" ; Times: 1
+	Query: "Plectrophenax nivalis" ; Times: 3
+	Query: "Buteo brachyurus" ; Times: 4
+	Query: "specificepithet:peregrinus genus:Falco hastissue:1" ; Times: 2
+	Query: "P. aleuticus" ; Times: 6
+	Query: "Anas platyrhynchos lifestage:adult sex:male AND (NOT diazi)" ; Times: 1
+	Query: "30985" ; Times: 1
+	Query: "Puffinus pacificus" ; Times: 3
+	Query: "Pheucticus ludovicianus" ; Times: 8
+	Query: "Fringilla montifringilla" ; Times: 5
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "26884" ; Times: 2
+	Query: "Selasphorus rufus" ; Times: 3
+	Query: "Amblyospiza albifrons" ; Times: 8
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Turdus obscurus" ; Times: 9
+	Query: "Podiceps auritus" ; Times: 7
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "Puffinus gravis" ; Times: 3
+	Query: "Buceros bicornis" ; Times: 1
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "bucerotiformes" ; Times: 1
+	Query: "myiarchus platyrhynchus" ; Times: 2
+	Query: "Tachyeres brachypterus" ; Times: 6
+	Query: "Gallinago media" ; Times: 1
+	Query: "29346" ; Times: 1
+	Query: "18103" ; Times: 2
+	Query: "Larus occidentalis" ; Times: 6
+	Query: "Oceanodroma furcata hastissue:1" ; Times: 2
+	Query: "Asio flammeus" ; Times: 3
+	Query: "mastodon" ; Times: 5
+	Query: "oceanites oceanicus year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 8
+	Query: "Haematopus ostralegus" ; Times: 2
+	Query: "Haliaeetus albicilla" ; Times: 10
+	Query: "Geositta saxicolina" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 1
+	Query: "(23925) institutioncode:UAM" ; Times: 1
+	Query: "Crossoptilon mantchuricum" ; Times: 3
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "Corvus macrorhynchos" ; Times: 9
+	Query: "Recurvirostra avosetta" ; Times: 2
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Ochthoeca polionota" ; Times: 1
+	Query: "Anas platyrhynchos lifestage:immature sex:female AND (NOT diazi)" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 4
+	Query: "Anas clypeata" ; Times: 13
+	Query: "molt genus:manacus" ; Times: 1
+	Query: "Mergellus albellus" ; Times: 5
+	Query: "Netta rufina" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1171 download events in this period)
+Total number of records downloaded: 15784
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-17 ; Times: 3
+	Date: 2020-04-16 ; Times: 3
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 4
+	Date: 2020-04-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Gallinago solitaria" ; Times: 1
+	Query: "molt specificepithet:candei genus:manacus" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "vntype:specimen genus:Bubo" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Lymnocryptes minimus" ; Times: 1
+	Query: "family:Emberizidae hastissue:1" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Gallinago stenura" ; Times: 1
+	Query: "Gallinago media" ; Times: 1
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "family:Passerellidae hastissue:1" ; Times: 1
+	Query: "Esacus magnirostris" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Burhinus vermiculatus" ; Times: 1
+	Query: "class:Aves country:&#34;Italy&#34; continent:Europe year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Gallinago megala" ; Times: 1
+	Query: "molt specificepithet:vitellinus genus:manacus" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1980 year &lt;= 2020" ; Times: 1
+
+
+End of report.
