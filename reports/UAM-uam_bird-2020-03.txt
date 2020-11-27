@@ -1,0 +1,228 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 180
+Number of records retrieved in searches: 1174
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 132
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Finland ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 14
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 8
+	Country: Thailand ; Times: 6
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 7
+	Date: 2020-03-31 ; Times: 4
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 9
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-11 ; Times: 11
+	Date: 2020-03-17 ; Times: 6
+	Date: 2020-03-27 ; Times: 7
+	Date: 2020-03-26 ; Times: 8
+	Date: 2020-03-25 ; Times: 7
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-23 ; Times: 9
+	Date: 2020-03-22 ; Times: 4
+	Date: 2020-03-20 ; Times: 3
+	Date: 2020-03-05 ; Times: 35
+	Date: 2020-03-04 ; Times: 12
+	Date: 2020-03-07 ; Times: 6
+	Date: 2020-03-06 ; Times: 9
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-03 ; Times: 25
+	Date: 2020-03-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tricolor genus:Phalaropus country:&#34;Peru&#34;" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "catalognumber:3635 institutioncode:UAM" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "35626" ; Times: 1
+	Query: "specificepithet:semipalmatus genus:Charadrius country:&#34;Peru&#34;" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "distance(location,geopoint(-46.82328986404725,-72.1168019844226))&lt;100000" ; Times: 1
+	Query: "specificepithet:torquata genus:chauna hassex:1 hasmass:1" ; Times: 1
+	Query: "UAM 9436" ; Times: 2
+	Query: "Anas Versicolor" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "specificepithet:chukar genus:alectoris hastissue:1" ; Times: 1
+	Query: "specificepithet:aleuticus genus:Ptychoramphus hassex:1 hasmass:1" ; Times: 3
+	Query: "30505" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:6631 year &gt;= 1994 year &lt;= 1994" ; Times: 2
+	Query: "11188" ; Times: 1
+	Query: "mandible hasmedia:1" ; Times: 5
+	Query: "specificepithet:fedoa genus:limosa class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Aves Numididae skin meleagris" ; Times: 2
+	Query: "genus:Halcyon hassex:1 hasmass:1" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "specificepithet:petechia country:&#34;Mexico&#34; year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Glareola maldivarum" ; Times: 1
+	Query: "bulweria bulweria year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "perisoreus canadensis anchorage institutioncode:UAM" ; Times: 1
+	Query: "UAM 35600" ; Times: 2
+	Query: "29600" ; Times: 1
+	Query: "specificepithet:viridis genus:picus hasmass:1" ; Times: 1
+	Query: "UAM 18040" ; Times: 4
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:6585 year &gt;= 1994 year &lt;= 1994" ; Times: 1
+	Query: "UAM 16546" ; Times: 2
+	Query: "&#34;Forest Home&#34;" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:buteo class:aves institutioncode:UAM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Attila spadiceus gaumeri" ; Times: 1
+	Query: "UAM 13094" ; Times: 2
+	Query: "specificepithet:petechia year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 3
+	Query: "120849" ; Times: 1
+	Query: "distance(location,geopoint(-46.813852391189464,-72.02685413199619))&lt;100000" ; Times: 1
+	Query: "perisoreus canadensis alaska hastissue:1" ; Times: 1
+	Query: "specificepithet:petechia country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 2
+	Query: "specificepithet:jacula genus:Heliodoxa hastissue:1" ; Times: 1
+	Query: "genus:cinclus specificepithet:mexicanus" ; Times: 1
+	Query: "UAM 7351" ; Times: 2
+	Query: "specificepithet:SUBMINUTA class:aves stateprovince:&#34;alaska&#34; year &gt;= 1973 year &lt;= 1973" ; Times: 1
+	Query: "catalognumber:35173 institutioncode:UAM" ; Times: 1
+	Query: "&#34;Boca de Cupe&#34;" ; Times: 1
+	Query: "diglossa brunneiventris" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "UAM 27288" ; Times: 2
+	Query: "specificepithet:palpebrosus genus:Zosterops hastissue:1" ; Times: 1
+	Query: "Aves Numididae skin" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "UAM 6948" ; Times: 2
+	Query: "UAM 6949" ; Times: 2
+	Query: "22251" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "UAM 6943" ; Times: 2
+	Query: "Icterus gularis" ; Times: 1
+	Query: "puffinus gulf" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "22544" ; Times: 1
+	Query: "Aves 32113" ; Times: 1
+	Query: "specificepithet:fedoa class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "&#34;Dendroica petechia&#34; vntype:specimen year &gt;= 2000 year &lt;= 2020 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (Dendroica petechia) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 4
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:7000 year &gt;= 1994 year &lt;= 1996" ; Times: 2
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "559178" ; Times: 1
+	Query: "UAM 16566" ; Times: 2
+	Query: "Icterus auratus" ; Times: 2
+	Query: "specificepithet:brevirostris genus:Brachyramphus hassex:1 hasmass:1" ; Times: 1
+	Query: "bulweria bulweria" ; Times: 1
+	Query: "UAM 16646" ; Times: 1
+	Query: "UAM 28707" ; Times: 2
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 4
+	Query: "UAM 16556" ; Times: 1
+	Query: "catharus phillipsi" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:4132 year &gt;= 1981 year &lt;= 1981" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "puffinus griseus year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "(76777)" ; Times: 2
+	Query: "specificepithet:lagopus genus:Lagopus country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:haematodus genus:trichoglossus hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(-46.7139393930966,-72.14180669037904))&lt;100000" ; Times: 1
+	Query: "specificepithet:caudatus genus:Aegithalos hassex:1 hasmass:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:3619 institutioncode:UAM" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:7000 year &gt;= 1996 year &lt;= 1996" ; Times: 1
+	Query: "distance(location,geopoint(-46.85783013245297,-72.1106226058491))&lt;100000" ; Times: 1
+	Query: "catalognumber:35170 institutioncode:UAM" ; Times: 2
+	Query: "genus:limosa class:aves stateprovince:&#34;alaska&#34; year &gt;= 1992 year &lt;= 1992" ; Times: 1
+	Query: "UAM 16545" ; Times: 2
+	Query: "vntype:specimen specificepithet:tephrocotis genus:leucosticte institutioncode:UAM" ; Times: 2
+	Query: "13715" ; Times: 2
+	Query: "UAM 16541" ; Times: 4
+	Query: "perisoreus canadensis alaska institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "Acrocephalus stentoreus" ; Times: 2
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "puffinus pacific year &gt;= 1968 year &lt;= 2020" ; Times: 1
+	Query: "buteo lagopus kamtschatkensis" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "sanfordi" ; Times: 2
+	Query: "Grus canadensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "delichon urbica" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1995 year &lt;= 2020" ; Times: 2
+	Query: "catalognumber:3171 institutioncode:UAM" ; Times: 1
+	Query: "UAM 35598" ; Times: 2
+	Query: "24177" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; catalognumber:3635 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:3517 institutioncode:UAM" ; Times: 1
+	Query: "distance(location,geopoint(-46.78174480991596,-72.23717652560595))&lt;100000" ; Times: 1
+	Query: "oceanites oceanicus hastissue:1" ; Times: 1
+	Query: "UAM 17748" ; Times: 2
+	Query: "diomedea hastissue:1" ; Times: 1
+	Query: "specificepithet:philippii genus:Phaethornis country:&#34;Peru&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 853 download events in this period)
+Total number of records downloaded: 943
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 9
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 5
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "Icterus gularis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:minimus genus:Psaltriparus hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2005 year &lt;= 2010" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "genus:Passerina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Brachyramphus hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:caudatus genus:Aegithalos hassex:1 hasmass:1" ; Times: 2
+	Query: "procellariiformes hastissue:1" ; Times: 1
+	Query: "specificepithet:aleuticus genus:Ptychoramphus hassex:1 hasmass:1" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2010" ; Times: 1
+
+
+End of report.
