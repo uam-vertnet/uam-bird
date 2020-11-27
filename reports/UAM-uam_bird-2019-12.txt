@@ -1,0 +1,190 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 1030
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 59
+	Country: Netherlands ; Times: 6
+	Country: Colombia ; Times: 27
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 8
+	Country: New Zealand ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-22 ; Times: 2
+	Date: 2019-12-29 ; Times: 4
+	Date: 2019-12-28 ; Times: 5
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-11 ; Times: 3
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-13 ; Times: 7
+	Date: 2019-12-14 ; Times: 2
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 5
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-09 ; Times: 18
+	Date: 2019-12-07 ; Times: 9
+	Date: 2019-12-06 ; Times: 6
+	Date: 2019-12-05 ; Times: 8
+	Date: 2019-12-04 ; Times: 33
+	Date: 2019-12-03 ; Times: 5
+	Date: 2019-12-02 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Puffinus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:phoebe year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:celata class:aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:alnorum class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Aegolius funereus" ; Times: 1
+	Query: "specificepithet:aenea genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "schiffornis acrolophites" ; Times: 1
+	Query: "grus americana florida" ; Times: 1
+	Query: "genus:Pagodroma hastissue:1" ; Times: 1
+	Query: "Oenanthe pleschanka hastissue:1" ; Times: 1
+	Query: "locality: Rennell" ; Times: 1
+	Query: "genus:nothoprocta family:tinamidae order:tinamiformes class:aves hastissue:1" ; Times: 1
+	Query: "Ramphocoris clotbey uam" ; Times: 1
+	Query: "lepidoptera" ; Times: 1
+	Query: "tufted duck" ; Times: 2
+	Query: "specificepithet:schistogynus genus:Thamnomanes mappable:1" ; Times: 1
+	Query: "genus:nothoprocta family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 1
+	Query: "specificepithet:flavirostris genus:anas class:aves hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:Fulmarus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Furnarius mappable:1" ; Times: 1
+	Query: "specificepithet:naevioides genus:Hylophylax mappable:1" ; Times: 1
+	Query: "genus:sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Ramphocoris clotbey" ; Times: 3
+	Query: "empidonax flaviventris institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "specificepithet:americana genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "UAM 30990" ; Times: 2
+	Query: "class:aves locality:st matthew stateprovince:&#34;alaska&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:tristis genus:Acridotheres hastissue:1" ; Times: 2
+	Query: "Claravis pretiosa AND (&#34;alc&#34; OR &#34;alcohol&#34;) NOT (&#34;skin&#34;)" ; Times: 1
+	Query: "specificepithet:guttatus year &gt;= 1980 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:melanosticta genus:Rhegmatorhina mappable:1" ; Times: 1
+	Query: "genus:Catharus institutioncode:UAM" ; Times: 2
+	Query: "cinclus mexicanus year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "genus:Pterodroma hastissue:1" ; Times: 1
+	Query: "specificepithet:riefferii genus:Pipreola mappable:1" ; Times: 1
+	Query: "genus:Bulweria hastissue:1" ; Times: 1
+	Query: "specificepithet:violifer genus:Coeligena mappable:1" ; Times: 1
+	Query: "schiffornis veraepacis" ; Times: 1
+	Query: "specificepithet:bambla genus:microcerculus" ; Times: 1
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 3
+	Query: "Falco naumanni" ; Times: 3
+	Query: "specificepithet:leucophrys genus:Myrmoborus mappable:1" ; Times: 1
+	Query: "pagodroma" ; Times: 1
+	Query: "specificepithet:melanocephalus genus:Myioborus mappable:1" ; Times: 1
+	Query: "Zosterops palpebrosus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:torquata genus:chauna class:aves hasmass:1" ; Times: 1
+	Query: "recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:ardesiacus genus:Thamnomanes mappable:1" ; Times: 1
+	Query: "Eutoxeres vntype:specimen (tissue)" ; Times: 1
+	Query: "specificepithet:hyperboreus genus:Plectrophenax" ; Times: 1
+	Query: "peregrine falcon" ; Times: 2
+	Query: "37484" ; Times: 2
+	Query: "Apus pacificus" ; Times: 1
+	Query: "genus:crypturellus family:tinamidae order:tinamiformes class:aves hasmass:1" ; Times: 2
+	Query: "specificepithet:canicollis genus:ortalis class:aves hassex:1 hasmass:1" ; Times: 1
+	Query: "class:aves locality:Rennell" ; Times: 2
+	Query: "gray fox" ; Times: 2
+	Query: "11270." ; Times: 1
+	Query: "Claravis pretiosa AND (&#34;alc&#34; OR &#34;alcohol&#34;)" ; Times: 1
+	Query: "205 genus:troglodytes" ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "specificepithet:analis genus:Catamenia mappable:1" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "13208" ; Times: 1
+	Query: "reindeer" ; Times: 1
+	Query: "specificepithet:certhia genus:Dendrocolaptes mappable:1" ; Times: 1
+	Query: "Oenanthe pleschanka" ; Times: 1
+	Query: "vntype:specimen specificepithet:porphyreolophus genus:Tauraco" ; Times: 2
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "specificepithet:tenuirostris genus:Xenops mappable:1" ; Times: 1
+	Query: "specificepithet:myotherinus genus:Myrmoborus mappable:1" ; Times: 1
+	Query: "specificepithet:minutus genus:Xenops mappable:1" ; Times: 1
+	Query: "cinclus mexicanus year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:ochotensis genus:Locustella" ; Times: 1
+	Query: "specificepithet:torquata genus:Coeligena mappable:1" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "specificepithet:flavirostris genus:anas class:aves hasmass:1" ; Times: 1
+	Query: "(Antarctica) hastissue:1" ; Times: 1
+	Query: "specificepithet:phoebe class:aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:columbiana genus:Nucifraga basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:variegaticeps genus:Anabacerthia mappable:1" ; Times: 1
+	Query: "Himantopus AND Island" ; Times: 1
+	Query: "specificepithet:miniatus genus:Myioborus mappable:1" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Basileuterus mappable:1" ; Times: 1
+	Query: "Numida+meleagris" ; Times: 1
+	Query: "family:tinamidae class:aves preparations:skin hasmass:1" ; Times: 1
+	Query: "genus:Calonectris hastissue:1" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 1
+	Query: "pipra fasciicauda" ; Times: 1
+	Query: "14865" ; Times: 1
+	Query: "specificepithet:nigromaculata genus:Phlegopsis mappable:1" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 2
+	Query: "specificepithet:brunneiventris genus:Diglossa mappable:1" ; Times: 1
+	Query: "specificepithet:cupripennis genus:Aglaeactis mappable:1" ; Times: 1
+	Query: "specificepithet:brunneiventris genus:Diglossa country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:axillaris genus:Aramides mappable:1" ; Times: 1
+	Query: "specificepithet:cyanea genus:Diglossa mappable:1" ; Times: 1
+	Query: "11719" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 596 download events in this period)
+Total number of records downloaded: 662
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-07 ; Times: 6
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Puffinus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "patagona gigas" ; Times: 1
+	Query: "vntype:specimen genus:Fulmarus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "family:tinamidae class:aves preparations:skin hasmass:1" ; Times: 1
+	Query: "genus:Thalassoica hastissue:1" ; Times: 1
+	Query: "genus:Bulweria hastissue:1" ; Times: 1
+	Query: "class:aves locality:st matthew stateprovince:&#34;alaska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hyperboreus genus:Plectrophenax" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "genus:Calonectris hastissue:1" ; Times: 1
+	Query: "genus:Pterodroma hastissue:1" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "genus:Pagodroma hastissue:1" ; Times: 1
+
+
+End of report.
