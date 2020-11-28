@@ -1,0 +1,200 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 242
+Number of records retrieved in searches: 3241
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 122
+	Country: Brazil ; Times: 4
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 36
+	Country: United Kingdom ; Times: 67
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 6
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-11 ; Times: 34
+	Date: 2020-06-03 ; Times: 123
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-10 ; Times: 57
+	Date: 2020-06-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 6
+	Query: "Anas acuta" ; Times: 5
+	Query: "catalognumber:2456 institutioncode:UAM" ; Times: 1
+	Query: "Aquila chrysaetos hasmass:1" ; Times: 1
+	Query: "genus:Atlapetes hastissue:1" ; Times: 1
+	Query: "Pelecanus occidentalis hasmass:1" ; Times: 1
+	Query: "Cygnus buccinator hasmass:1" ; Times: 1
+	Query: "Anas strepera" ; Times: 6
+	Query: "Tyto alba hasmass:1" ; Times: 1
+	Query: "Larus californicus mass OR weight" ; Times: 2
+	Query: "Larus marinus hasmass:1" ; Times: 1
+	Query: "Pandion haliaetus mass OR weight" ; Times: 2
+	Query: "Branta bernicla mass OR weight" ; Times: 2
+	Query: "catalognumber:35134 institutioncode:UAM" ; Times: 1
+	Query: "Haliaeetus leucocephalus hasmass:1" ; Times: 1
+	Query: "catalognumber:35061 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Sialia mexicana mass OR weight" ; Times: 2
+	Query: "Mycteria americana hasmass:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus mass OR weight" ; Times: 2
+	Query: "Tyto alba mass OR weight" ; Times: 2
+	Query: "Anas crecca" ; Times: 6
+	Query: "Progne subis hasmass:1" ; Times: 1
+	Query: "Progne subis mass OR weight" ; Times: 2
+	Query: "Tachycineta bicolor hasmass:1" ; Times: 1
+	Query: "Buteo lineatus mass OR weight" ; Times: 2
+	Query: "Anas platyrhynchos hasmass:1" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Cathartes aura hasmass:1" ; Times: 1
+	Query: "Mycteria americana mass OR weight" ; Times: 2
+	Query: "Cygnus buccinator mass OR weight" ; Times: 2
+	Query: "Charadrius melodus mass OR weight" ; Times: 2
+	Query: "Branta bernicla hasmass:1" ; Times: 1
+	Query: "Larus californicus hasmass:1" ; Times: 1
+	Query: "Strix varia hasmass:1" ; Times: 1
+	Query: "Charadrius melodus hasmass:1" ; Times: 1
+	Query: "catalognumber:24567 institutioncode:UAM" ; Times: 1
+	Query: "Phalacrocorax penicillatus mass OR weight" ; Times: 2
+	Query: "Accipiter gentilis hasmass:1" ; Times: 1
+	Query: "Athene cunicularia mass OR weight" ; Times: 2
+	Query: "columbina talpacoti" ; Times: 1
+	Query: "Anas platyrhynchos mass OR weight" ; Times: 2
+	Query: "Tabasco" ; Times: 2
+	Query: "Sialia sialis mass OR weight" ; Times: 2
+	Query: "Anas americana" ; Times: 5
+	Query: "Buteo jamaicensis mass OR weight" ; Times: 3
+	Query: "Larus marinus mass OR weight" ; Times: 2
+	Query: "catalognumber:24566 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Anas penelope" ; Times: 6
+	Query: "Larus delawarensis mass OR weight" ; Times: 2
+	Query: "RT 286" ; Times: 1
+	Query: "Tachycineta bicolor mass OR weight" ; Times: 2
+	Query: "Falco peregrinus hasmass:1" ; Times: 1
+	Query: "Larus occidentalis hasmass:1" ; Times: 1
+	Query: "Ardea alba mass OR weight" ; Times: 2
+	Query: "Pandion haliaetus hasmass:1" ; Times: 1
+	Query: "Falco sparverius mass OR weight" ; Times: 3
+	Query: "Oxyura vittata" ; Times: 2
+	Query: "Pelecanus erythrorhynchos mass OR weight" ; Times: 2
+	Query: "Branta canadensis mass OR weight" ; Times: 3
+	Query: "Sialia sialis hasmass:1" ; Times: 1
+	Query: "Larus occidentalis mass OR weight" ; Times: 1
+	Query: "Buteo regalis hasmass:1" ; Times: 1
+	Query: "Larus argentatus mass OR weight" ; Times: 2
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Anas poecilorhyncha" ; Times: 6
+	Query: "Falco sparverius hasmass:1" ; Times: 2
+	Query: "catalognumber:35063 institutioncode:UAM" ; Times: 2
+	Query: "Accipiter cooperii mass OR weight" ; Times: 2
+	Query: "genus:Glaucidium preparations:Skeleton basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:meleagris order:galliformes" ; Times: 1
+	Query: "Buteo regalis mass OR weight" ; Times: 2
+	Query: "Branta canadensis hasmass:1" ; Times: 3
+	Query: "paramiscus" ; Times: 1
+	Query: "Anas falcata" ; Times: 6
+	Query: "sea mink" ; Times: 2
+	Query: "(10058)" ; Times: 1
+	Query: "Aquila chrysaetos mass OR weight" ; Times: 2
+	Query: "Sialia currucoides hasmass:1" ; Times: 1
+	Query: "Sterna hirundo hasmass:1" ; Times: 1
+	Query: "Cathartes aura mass OR weight" ; Times: 2
+	Query: "Pelecanus erythrorhynchos hasmass:1" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Larus delawarensis hasmass:1" ; Times: 1
+	Query: "catalognumber:35116 institutioncode:UAM" ; Times: 3
+	Query: "Rynchops niger mass OR weight" ; Times: 2
+	Query: "Rynchops niger hasmass:1" ; Times: 1
+	Query: "genus:Machaeropterus hastissue:1" ; Times: 1
+	Query: "Sterna hirundo mass OR weight" ; Times: 2
+	Query: "Zenaida macroura mass OR weight" ; Times: 3
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "Strix varia mass OR weight" ; Times: 2
+	Query: "Sialia mexicana hasmass:1" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "Pelecanus occidentalis mass OR weight" ; Times: 2
+	Query: "UAM 7409" ; Times: 1
+	Query: "specificepithet:vittata genus:Oxyura" ; Times: 2
+	Query: "Larus argentatus hasmass:1" ; Times: 1
+	Query: "Phalacrocorax auritus mass OR weight" ; Times: 2
+	Query: "institutioncode:UAM 7812" ; Times: 2
+	Query: "Buteo lineatus hasmass:1" ; Times: 1
+	Query: "Accipiter gentilis mass OR weight" ; Times: 2
+	Query: "Phalacrocorax penicillatus hasmass:1" ; Times: 1
+	Query: "catalognumber:7409 institutioncode:UAM" ; Times: 2
+	Query: "Anas formosa" ; Times: 6
+	Query: "Buteo jamaicensis hasmass:1" ; Times: 2
+	Query: "Athene cunicularia hasmass:1" ; Times: 1
+	Query: "Ardea alba hasmass:1" ; Times: 1
+	Query: "Sialia currucoides mass OR weight" ; Times: 2
+	Query: "catalognumber:35118 institutioncode:UAM" ; Times: 3
+	Query: "Phalacrocorax auritus hasmass:1" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 2
+	Query: "catalognumber:35117 institutioncode:UAM" ; Times: 1
+	Query: "Falco peregrinus mass OR weight" ; Times: 2
+	Query: "Mergus merganser" ; Times: 2
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Accipiter cooperii hasmass:1" ; Times: 2
+	Query: "steelhead" ; Times: 1
+	Query: "Anas clypeata" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 474 download events in this period)
+Total number of records downloaded: 334
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-11 ; Times: 2
+	Date: 2020-06-10 ; Times: 15
+	Date: 2020-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vittata genus:Oxyura" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:canicollis order:galliformes" ; Times: 2
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Oxyura vittata" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+
+
+End of report.
