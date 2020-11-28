@@ -1,0 +1,189 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 698
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 3
+	Country: Ireland ; Times: 8
+	Country: Denmark ; Times: 3
+	Country: Venezuela ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: United States ; Times: 37
+	Country: New Zealand ; Times: 4
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 6
+	Date: 2020-07-08 ; Times: 4
+	Date: 2020-07-21 ; Times: 12
+	Date: 2020-07-20 ; Times: 7
+	Date: 2020-07-27 ; Times: 11
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-01 ; Times: 4
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-28 ; Times: 9
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 4
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-16 ; Times: 10
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-14 ; Times: 9
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 6
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "Larus vegae united states" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "aves spleen" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "MAR 8559" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 3
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "rodent" ; Times: 1
+	Query: "Corvus corax" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "MAR 8559 aves" ; Times: 1
+	Query: "genus:jacana institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "10347" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "20089 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Amblycercus hastissue:1" ; Times: 1
+	Query: "specificepithet:stenura genus:gallinago institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "genus:Calidris country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Santa Fé Veraguas" ; Times: 2
+	Query: "Cooper AND Island" ; Times: 1
+	Query: "RIBS" ; Times: 2
+	Query: "Buteo harlani" ; Times: 1
+	Query: "Amazilia candida" ; Times: 3
+	Query: "genus:gallinago institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "13364" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "Wyoming Moose" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 4
+	Query: "Buteo jamaicensis harlani" ; Times: 3
+	Query: "37676" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "specificepithet:naumanni genus:Turdus hastissue:1" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "CincinnatI" ; Times: 1
+	Query: "pipra mentalis" ; Times: 1
+	Query: "5867 aves" ; Times: 1
+	Query: "limnodromus griseus caurinus" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia hastissue:1" ; Times: 2
+	Query: "Zosterops palpebrosus" ; Times: 1
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "10347 aves" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "OR.5252" ; Times: 2
+	Query: "specificepithet:olivaceus genus:prionochilus country:&#34;philippines&#34;" ; Times: 2
+	Query: "boxer" ; Times: 1
+	Query: "specificepithet:haemorrhous genus:Cacicus hastissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 4
+	Query: "specificepithet:holosericeus genus:Amblycercus" ; Times: 2
+	Query: "20508 institutioncode:UAM" ; Times: 1
+	Query: "buteo jamaicensis harlani" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "monterrico" ; Times: 1
+	Query: "family:Anatidae stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "pipra chloromeros" ; Times: 1
+	Query: "fratercula corniculata" ; Times: 1
+	Query: "order:Anseriformes stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "Panama Rio azul" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "12348" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "7394 institutioncode:UAM" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "18690 institutioncode:UAM" ; Times: 1
+	Query: "Mionectes assimilis" ; Times: 1
+	Query: "Aegolius funereus richardsoni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 940 download events in this period)
+Total number of records downloaded: 1165
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: United States ; Times: 6
+	Country: Sweden ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 6
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:stenura genus:gallinago institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "family:Anatidae stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+
+End of report.
