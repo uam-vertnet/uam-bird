@@ -1,0 +1,261 @@
+Report for Institution Code UAM, Resource uam_bird
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 1388
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 84
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 54
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 3
+	Country: Switzerland ; Times: 11
+	Country: Brazil ; Times: 4
+	Country: Hong Kong ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 6
+	Date: 2020-11-21 ; Times: 5
+	Date: 2020-11-22 ; Times: 1
+	Date: 2020-11-23 ; Times: 6
+	Date: 2020-11-24 ; Times: 11
+	Date: 2020-11-25 ; Times: 16
+	Date: 2020-11-08 ; Times: 5
+	Date: 2020-11-09 ; Times: 4
+	Date: 2020-11-06 ; Times: 7
+	Date: 2020-11-04 ; Times: 4
+	Date: 2020-11-05 ; Times: 4
+	Date: 2020-11-02 ; Times: 56
+	Date: 2020-11-03 ; Times: 2
+	Date: 2020-11-26 ; Times: 7
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-19 ; Times: 10
+	Date: 2020-11-18 ; Times: 7
+	Date: 2020-11-30 ; Times: 2
+	Date: 2020-11-14 ; Times: 6
+	Date: 2020-11-17 ; Times: 5
+	Date: 2020-11-16 ; Times: 6
+	Date: 2020-11-11 ; Times: 7
+	Date: 2020-11-10 ; Times: 3
+	Date: 2020-11-13 ; Times: 3
+	Date: 2020-11-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "30186" ; Times: 1
+	Query: "Anser fabalis" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 2
+	Query: "vntype:specimen specificepithet:fischeri genus:Somateria" ; Times: 1
+	Query: "ceyx erithacus" ; Times: 1
+	Query: "gbifdatasetid:4852540d-afd1-4678-bd20-4aac28f65e2d" ; Times: 1
+	Query: "genus:Habia hastissue:1" ; Times: 2
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1992 year &lt;= 1992" ; Times: 1
+	Query: "UAM 6996" ; Times: 1
+	Query: "specificepithet:thalassina genus:tachycineta year &gt;= 1970 hastissue:1" ; Times: 1
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "Garrulus glandarius" ; Times: 4
+	Query: "Corvus corone" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 1
+	Query: "Prunella montanella" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza hastissue:1" ; Times: 3
+	Query: "specificepithet:erithacus genus:Ceyx hastissue:1" ; Times: 1
+	Query: "UAM year &gt; 1990 Coccothraustes" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus stateprovince:&#34;alaska&#34; hastissue:1" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "oceanites UAM" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "limnothlypis swainsonii (female) AND (United States)" ; Times: 1
+	Query: "Phylloscopus fuscatus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "13603" ; Times: 1
+	Query: "genus:Orthotomus sericeus hastissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34; year &gt;= 1975 hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Phaethornis superciliosus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Georgia&#34; AND (-Solomon) year &gt;= 1975 hastissue:1" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "specificepithet:niger genus:rynchops hastissue:1" ; Times: 1
+	Query: "catalognumber:13425 institutioncode:UAM" ; Times: 1
+	Query: "anser serrirostris" ; Times: 1
+	Query: "specificepithet:thalassina genus:tachycineta year &gt;= 1970 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:owstoni genus:gallirallus hastissue:1" ; Times: 1
+	Query: "limnothlypis swainsonii" ; Times: 1
+	Query: "32554" ; Times: 1
+	Query: "genus:halcyon smyrnensis hastissue:1" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 2
+	Query: "genus:Anthreptes malacensis hastissue:1" ; Times: 1
+	Query: "13425" ; Times: 1
+	Query: "Oenanthe ssp" ; Times: 1
+	Query: "Phoenicurus phoenicurus" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 1
+	Query: "calonectris diomedea" ; Times: 1
+	Query: "class:aves locality:arequipa" ; Times: 2
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "(Oenanthe pleschanka) year &gt;= 1950" ; Times: 1
+	Query: "mappable:1 scientificname:Onychorhynchus coronatus" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female AND (United States OR USA OR U.S.A.)" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "Falco naumanni" ; Times: 2
+	Query: "Oenanthe pleschanka tissue" ; Times: 2
+	Query: "Ficedula albicilla" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Alabama&#34; year &gt;= 1975 hastissue:1" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "specificepithet:erithacus genus:ceyx hastissue:1" ; Times: 3
+	Query: "tabasco" ; Times: 2
+	Query: "20227" ; Times: 1
+	Query: "specificepithet:cinctus genus:charadrius hastissue:1" ; Times: 1
+	Query: "Falco columbarius" ; Times: 2
+	Query: "black bear" ; Times: 11
+	Query: "stuttgart" ; Times: 1
+	Query: "Somateria fischeri" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Acrocephalus dumetorum" ; Times: 1
+	Query: "Apus pacificus" ; Times: 1
+	Query: "Falco tinnunculus" ; Times: 2
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "UAM 33349" ; Times: 3
+	Query: "Phoenicopteridae" ; Times: 1
+	Query: "genus:zoothera sibirica hastissue:1" ; Times: 1
+	Query: "specificepithet:finschi hastissue:1" ; Times: 1
+	Query: "Coeligena violifer" ; Times: 1
+	Query: "specificepithet:fuscicauda genus:habia hastissue:1" ; Times: 3
+	Query: "Delichon urbica" ; Times: 1
+	Query: "Hypsipetes philippinus" ; Times: 1
+	Query: "Oenanthe pleschanka" ; Times: 9
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "Gallinula chloropus" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female (mexico OR Honduras OR Jamaica OR Belize OR Cuba OR Bahama)" ; Times: 1
+	Query: "limnothlypis swainsonii sex:female (mexico) AND (United States)" ; Times: 1
+	Query: "limnothlypis swainsonii sex:female (mexico)" ; Times: 1
+	Query: "limnothlypis swainsonii (female) AND (united states)" ; Times: 2
+	Query: "specificepithet:varius genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Dendrocopos major" ; Times: 2
+	Query: "vntype:specimen specificepithet:philippensis family:Rallidae hastissue:1" ; Times: 4
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "genus:Ficedula hyperythra hastissue:1" ; Times: 1
+	Query: "Oenanthe isabellina" ; Times: 1
+	Query: "Numida meleagris" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Vermont&#34; year &gt;= 1975 hastissue:1" ; Times: 2
+	Query: "Phylloscopus inornatus" ; Times: 1
+	Query: "specificepithet:brevipes hastissue:1" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "28568" ; Times: 1
+	Query: "Columba livia" ; Times: 2
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female (mexico OR Honduras OR Jamaica OR Belize OR Cuba OR Bahamas)" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female AND (United States)" ; Times: 2
+	Query: "anser fabalis" ; Times: 1
+	Query: "genus:Crypturellus hastissue:1" ; Times: 1
+	Query: "eggshell" ; Times: 1
+	Query: "mappable:1 scientificname:Myrmotherula axillaris" ; Times: 1
+	Query: "family:Alaudidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:corniculata genus:Fratercula" ; Times: 3
+	Query: "genus:numenius hastissue:1" ; Times: 1
+	Query: "genus:Hypothymis azurea hastissue:1" ; Times: 1
+	Query: "limnothlypis swainsonii (sex)" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female (mexico OR Honduras OR Jamaica OR Belize OR Cuba)" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "specificepithet:rubra genus:piranga hastissue:1" ; Times: 2
+	Query: "specificepithet:rubica genus:Habia hastissue:1" ; Times: 3
+	Query: "UAM year &gt; 1990 PTYCHORAMPHUS" ; Times: 1
+	Query: "specificepithet:rustica genus:Emberiza hastissue:1" ; Times: 2
+	Query: "genus:Cacomantis variolosus hastissue:1" ; Times: 1
+	Query: "11258" ; Times: 1
+	Query: "campylopterus curvipennis" ; Times: 1
+	Query: "Tympanuchus phasianellus vntype:specimen stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Dicaeum trigonostigma hastissue:1" ; Times: 2
+	Query: "Henicorhina leucosticta" ; Times: 3
+	Query: "specificepithet:erithacus genus:ceyx country:&#34;Singapore&#34; hastissue:1" ; Times: 1
+	Query: "genus:stiltia hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 842 download events in this period)
+Total number of records downloaded: 41006
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 37
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-02 ; Times: 2
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-24 ; Times: 4
+	Date: 2020-11-25 ; Times: 3
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-17 ; Times: 3
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-09 ; Times: 5
+	Date: 2020-11-03 ; Times: 4
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-10 ; Times: 11
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:thalassina genus:tachycineta year &gt;= 1970 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:fischeri genus:Somateria" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "vntype:specimen specificepithet:Lagopus genus:Lagopus" ; Times: 2
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis sex:female (mexico OR Honduras OR Jamaica OR Belize OR Cuba OR Bahamas)" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "vntype:specimen specificepithet:gnoma genus:Glaucidium" ; Times: 1
+	Query: "genus:Crypturellus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:corniculata genus:Fratercula" ; Times: 2
+	Query: "specificepithet:pusilla genus:Emberiza hastissue:1" ; Times: 1
+	Query: "Polytelis alexandrae" ; Times: 1
+	Query: "specificepithet:stelleri genus:cyanocitta country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:schoeniclus genus:Emberiza hastissue:1" ; Times: 1
+	Query: "ceyx erithacus" ; Times: 1
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "vntype:specimen specificepithet:Gnoma genus:Glaucidium" ; Times: 2
+	Query: "cope" ; Times: 1
+	Query: "limnothlypis swainsonii (sex)" ; Times: 1
+	Query: "gbifdatasetid:4852540d-afd1-4678-bd20-4aac28f65e2d" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "specificepithet:rustica genus:Emberiza hastissue:1" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Lagopus" ; Times: 3
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Thalassoica antarctica" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+
+
+End of report.
